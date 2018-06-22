@@ -1,5 +1,5 @@
 {
-  "bp-header" : "Basic node data, taken from 'https://node1.eosphere.io/v1/chain/get_table_rows'. You're awesome, guys!",
+  "bp-header" : "Basic node data, taken from 'http://api.eosio.lt/v1/chain/get_table_rows'.",
   "summary" : {
     "img-count" : "Image count from the front page",
     "p-count" : "Paragraph count from front page",
