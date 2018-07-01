@@ -1,21 +1,21 @@
 {
-  "snapshot-date-utc" : "2018-07-01T17:00:37.347Z",
+  "snapshot-date-utc" : "2018-07-01T22:58:15.584Z",
   "block-producers" : [ {
     "bp-header" : {
       "owner" : "eosromania22",
-      "total_votes" : "2991031752753827.00000000000000000",
+      "total_votes" : "2997926965780461.50000000000000000",
       "producer_key" : "EOS7scGhG88JBB7m7npCJAGcGbW1pwKWpShgmhCwcpudJ8s6VkTQq",
       "is_active" : 1,
       "url" : "http://eos.romania22.com",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530387002500000",
+      "last_claim_time" : "1530474001500000",
       "location" : 642,
       "prepared-url" : "http://eos.romania22.com"
     },
     "analyzed-urls" : {
       "relative-links-count" : 59,
       "duplicate-urls" : null,
-      "social-links" : [ "https://l.facebook.com/l.php?u=http%3A%2F%2Feos-bp-votes.dapptools.info%2Fs%2Fapi%2Fblock-producer-votes-stack-html%2F1%2F80&h=AT2v1_S358K6MprmyBDLxlE0HSMI7NNrGr2AJ5TgH7gftR6UleCcn05Y_3TivgzpUo67cPzO6msLM1BRcc9-0wnapJkLFpoCGcJdELVTUCIGbOm36Fkr7aw40brWxXQiWGRax_EipCVeIOMZHB2DjZO31knv9AzXqQ", "https://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT0CpJw6Lvmxb35MtEuyWHBTIvnNk-NRoH3TbAi8M2S49CbK4vkG2sSKGnK7uTUBssfm6OVkHb78Xa7_Jacqm6aGgZnnazVDQ6-Z3ywqmzEHQZV0HagXw9sFkGD_qxoOeeyUiS_nyqAyXtIN", "https://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT1BHrKtsPA2YGO0B6iXgjAtJRMhStKC3twhKQLyz9tv_MJmiz8yZgzcRWWVTjeQ0CcPd0CtXVBmiCjS7iJ2Kvpon-2MZloP1tHm_aGqHyDUFN9SCY2If5mnNp9WEuWZnB9DKmCzBshScA", "https://l.facebook.com/l.php?u=http%3A%2F%2Feosflare.io%2F&h=AT042RqbBNuCzFlReSDnEs1DrH52X0iKZOWvoLNFg_xE5uRDSUNYD_2SHGNVn5_cU3DsKnLKiTYOoifUUM8zAx5U3EaI-RZuM5cE1sh-TCNh8ZBBw__oXgayBuxnIM1PrhTbJgd_8Q7qrr8pupfiI1htpBh7ZXpoFQ", "https://l.facebook.com/l.php?u=http%3A%2F%2Feosnetworkmonitor.io%2F&h=AT3ubFXgqmPs_Yy4nZEdOLUkhR92Qw3A9ZDBBt00mecjm5hTy7O8luunJb5EPkgp1djBe5EynNTxWD8w1LB-3vJ-eRVUvSGqdFrIttCbAcQmEAQAGalKj5pnea-8zil3Ad5htL940Ib5FT-c0yNh7N0QSgeP3a45BKsYITUcIdLLC70", "https://l.facebook.com/l.php?u=http%3A%2F%2Feosportal.io%2Fchain%2F12%2Fproducers&h=AT2UvAAEXN-zxuzjmhs26LIBVn4AKonANH0s0L9iPpEHaxTauUoK5Smcgh1coyHiyVIpUAnK5Sy2dKCqIpVrXh4f1_42Mm3DupS2KQWTiqnjE-gWiTp5d9oa34f8EN-y_CvSKZgOkA_YbvQRcXyjLH9Gws-tp7qEgQ", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F%23%2F&h=AT0GyROslLOLxE9YWOCVOc4KuhNflOb_RO7ymUAG11iLn6bESVhznK55FZijOb9ylQjbVeG9CEk4w6ZzGI3lAmLwpqyzsNYSfxnIqogezA_rlNscei3aepofQ78LFxktzntwhC1frZTh", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F%23%2F&h=AT0t5k2XJGTfiK_u0FaF3acvEVSRc-TI5MZatIUNj_T3duQO2M_pnrKBrq19SnS_RnG1otfl6dGLw7s0O8t4jg8-TIguu-LQqBdwMvmQMnINTsCLsc2IyYRMYv4KAhbbJsj1H8y9aMBx938", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F%23%2F&h=AT1jwWklaSvRbr-LlzYOcdPH1TVMtKHaI6i5pVWoAitJgtppbT0ADtseiEhe_jh9QcNvllP2djm0ETZ5JOSgzKoeu81ruy7kYZHNonTJDrKxDcrp1hQZ1sD6y6ZaHj6XxWQ9GbfAhtbzbWo", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F&h=AT2Tw4tnKq07_S9Dts_MyyM9J3b5VrXGSzhlDR_UpPLBWQ355_gJdvOhF49ZAjOBix630E8-PTZXxzmktc0H8SWrI8oiDyjiBvGiCh8xiubuJHSC8idbJpysZif4hazNQTOtjGKHdbtluEuVkk3-Dxfd2rg8G9NKSA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fbp.eosgo.io%2F&h=AT0YKVGPrwNwm85rOmPkesz4zGwRDW6vXvNyLr6EwNHJyMo6pWU7flt-NAGFR4VJg0CuQvqufHwtACzocAuSIgeQ4txK9szykwhwAzFeUY_EicuyOyxqaab9b5vbwY3qcQZiHQ5cqlPcRHf-3LnjtNqwf3kPwrHD7Q", "https://l.facebook.com/l.php?u=https%3A%2F%2Feosauthority.com%2Fvoting&h=AT0S4Q1x21G-61qmxseBGbxYpNdGZpY9ZL5VNfk1NAv-SSptHCjukjQXHJ6JEmTrFqBTpVodRvB0PZ695OsxeArSt9VeKD-xp7151bIG6fKmR1wBdsUuPcnUdiQWf0xurmoXneRU6MBQ0apI3BHysVVdPiRoHZvs5Q", "https://l.facebook.com/l.php?u=https%3A%2F%2Feoscorearbitration.io%2Ffaq%2F&h=AT2bPr0ej-jI1Uy_wP0JqfZ74XkhzGe3u2MFQ6bpsX1HHK7rvK8WWJro2_1n_YGpnCgqe3_fgcrRErgR4LVUWfSfojFf2FyAfsHTRZ9g8XdotUISC0G6PuqAn9wilDDUuQ0PgmKdxaZaQZXEojBgcCswEWZrn5qYaQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fforums.eosgo.io%2Fcategories%2Fdispute-resolution&h=AT3dH-AMwSyPzTw3MsxHUeGg7C94bSBYh1tCyQ_T2V9NAZJuXxO6dDbEkOrEB_wcKrqOQcxgq7VC2_I_7fnYDaYS_sfKI2wnGQTaz7me7tRMZZAOTO2QZ_qOtY40Y_k43yOXMUbzlRL8ifITMdtyR8ysa3BCFS9Gfw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fforums.eosgo.io%2Fdiscussion%2F1104%2Feos-core-arbitration-forum-nominations-announcement%23latest&h=AT3FzFSe7bnNptjJMWrhLpY13mfvO62ph2CYNYcehRyyJkB9BRPSQRl1ehzs9UK3YHkDaeahLKHrtTa5EIBH3S30IG4eutRqlPnr_FC3gmbmEWccpNVzmSDkz7vEtV8RvnPDssL-cK6oq8iEbW1kAHzE2zApci0K4w", "https://l.facebook.com/l.php?u=https%3A%2F%2Fforums.eosgo.io%2Fdiscussion%2F1155%2Fdesigning-the-worker-proposal-system&h=AT3lbS0oSx6pO-sBEG4vEB1QMTxFz220samiClApRjDx2h8JNvxMQSWJUvEmDwIVWGIKN2l_xh9gz4GS7e8PbMKBwd30Io8NS0wAAxCfhKtjwpnFuQQszepoFB9k4fsPnTYSuztoXjLB4d-fliK01uPq5v8eSRN5Lw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fget-scatter.com%2F&h=AT2Jk45JHmaU4nFvJLikqK2kvR2ojs320G92o3yT5rhhDmqAnuzqIjGqqrAGoQS9wlCyc39oNXq4gEtfCslnEkKMovLgmF3qOIh1nnfmSD7QDHDAK2KEtSwuQDmnJpNl2euJi-fgu6wcSALUBO34Y9qEf98a0gzvdOCsVy3GVAygAeE", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT05HiFiltVrgFYBk3GCedsZCUTr_zeUGoH5xKNjaf8277mTH-Rddp-Sm78YWOCxxdks5hpV10wdLEYLanji8UYNG6_77PY7KWZM4Xi0t4_O2-EyWx0GrooNZGqYxSx8XoWJtjw8xnZJX4UitX9r57FyQKtlzzJlHg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT0gEmMnpdVhmzBiwdWj6BuIp2GGMKmAnbKamQp9L-xXIX8XQU27yY5_pDit0NhHI_Omt6fqui74MhKBWYu6E7Bhvc9M3phL_LHjeBxrR16WHkM-hs8DsITBJTxXVE-niqHzZY9sxglIPb_pipkQcNPCNDYdo7mlMw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT1ry4q180B8XwNLEl1MjW9Ec02vJhfhYHmRSEGQwL0jUT_Wnu81ncyhw-tmZ3I1PMqwvV3_wT-8cEyTlsTJWHLouS8Cyqn45aOWStDpprojtoB7TwVXV4ZL11SQ1YuzG5FclUCenr148qKKqO79", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT2eG2uotBW_Yi3RM1l9Emv5Wh9cDAXzGnYMb4o0Ns87dC_xQ-E0a-p2oaUd71cucxQLVlXhGIxvdfFHU_AKvJsSyU-7VGE-TTiVXsfZNZFyD8Ga6N-UkMz7c9RwoEfTo4vjDXG_qx6_WEfzxvvB", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-regproducer-rc.md&h=AT1g901sWkajaplrvgvLGH8xT339X6TxBIvpNN7ip-rssS4XEEfYU1Upyhd-3sJ5ancVoAE-k75j-goW_iZ34wQjiSgo9jAFrkmqe2TosAGJUn3K3C0RPRqg89oCzk4wTIcue_LHYgtxEKBPBR06-Oa6q4r2Ti0G-g", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT0XHuDBghkCqtvA13dtJKXbW30M_JIOAA-L42mpu_baHhdRmFxTHNUK7Je_K99gW_lDx1C7wFcEHeI-nHKsJgLAfLkjOkQOmwpuqTkd0E_F5ichTphmx8K5I4fb2Ll-cAEksokjHWE4qLCn0d9q", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT0xENMgZNEuHP-ue96Hfkw7wHI2Q9UuitM_fcUUHqngMw2R0PdI6qvMv5BwIYROTN7XjUl4cxSlz859Iarp-UanUdELNbGTbWYTOPgqYZYjNVMYtnG9poU5nXMGxUaKUzgjbzuBz6gVfURy2l1U4kRm2dc0NOQzbw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT303cJ8xLTNFq05V8tuowRDDBj4idjy_MLt4a7u398AB4S-IuqNHC0Wbmwu5PFzR9Ye9K7YkSk4GX5XXKSQR1KoAa_eDc3PlSHmQukydsFWu3JNvg7PCOfTHP48JaGvwFqrBS6rpW4a-fH_FaUU", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT3nSr7Y0A5eP_1WGwX1-Nf-3SE9HYq_p5F0iAWgR1EOadHwbhCLLtAgF6Y_7mS7vEOhho_nZIiRKiNGNgZkGX_QEexG8UVg7V7NRlj6I-y8aXnYpydk4WRRYr201dyM9oo7n2hx7Zhx2XGHI3cDgtGXpFn-cIm_aA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Feoscanada%2Feosc%2Freleases&h=AT1J34_oF4OpUxpUOt5RH66q-9m5fpL6BGHPCt4w4zFxF5DOrWl64R0jFL1Ca97ok6sO-nIkZiK59sb3v-zEEzNAGhmB0UiWWV319BGsIzRoAmu0_P2RuJXK-VFpLI1miFoX-cpYfVODhqWVKmvJ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Feoscanada%2Feosc%2Freleases&h=AT1N4bPLWa4LUD1x-ey5Exlv3P_TE2NmOnXBYoVYOyniiLuwi21jdQnX9Fl4JBkQ8GobnXqbc5CVhJDaqr1h8ErPn1SaG3dE4cHQO4xvHHz5S_DsBdfn9o44jtzbLnkY1N7Wtt6iLf8c7XecbWPlCHGqashc7fi6hQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Feoscanada%2Feosc%2Freleases&h=AT3u36QYO6-N-g7bBZjP1plKOaysqwegOXk5xQzeHhEe4wCQjHAQJIN-UQ9m2AsUYK20dJMgh1u1QB1FOuD9Nt_Q22I_AddOEm-jKlidzPyXGQgmr65ooIx5LL61MHyQmOiX7AP5ku7J9zh0iLlO", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Fcryptocurrency%2F%40soleone%2Fhow-to-vote-with-scatter-and-eosportal-io&h=AT0WMhb1-3LW4iCR5iEzKO6PYLejeb3JdM4e1whJOIAtJuU8IGMTApNMTyLB_2Z3v8g4rMWe4-jokyrt55VBLqWeYwl-Iuxs9Ud1uJYRTz5wmT8XQnXmjSuc--eMjH7qDdEKVYL3PfGhIRN5dMo2hQWakAMOf_DR5Q", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos-canada%2Fa-candidate-chain-and-recognizing-community-effort-eos-launch-update&h=AT0PhRKvhsXLrSzUHmkWCfcyzNZhAgyjrOJECt2knR8kD6K5S9HogDYLK_jr-9VCzIhHE-Kazi2PjNrJ6ilrQfTpnZm6hoz9jHgxucIMFNeiwQRNo3LkZxRUQfL90Gac0m6v5OtVITXdT-ZnyCvBL5RDdLA-ShaAag", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos-canada%2Fa-candidate-chain-and-recognizing-community-effort-eos-launch-update&h=AT272tpwuqwaRcPo0Y2ymad6dMTXMUOY0QnlFx6eFwKmQMg3KHuFVDccEFT1ldZq11kfb_Sc4Bsf170Y8oJqaxJ1UN8_97J5sM-2PNNF2MuJCYVZ1gHPRTPzMLljoBAV6kjLYPZA7IQNxSwzwyj9", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos-canada%2Fa-candidate-chain-and-recognizing-community-effort-eos-launch-update&h=AT3HzxhLXL8nBw6FgzPQieMi366nVgIBRsBpc_IUMRN9ZFF73n3Lu0pytv1_Q8IGkqeKE3Q1CpaQebAjXJpzPI-3EI-zV_nJ-pi63qjc-n4d-MyLp-PeLTeM5vhg7xecQmXybMVPEaUJpY0kPez-", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos.detroit%2Fsecuring-a-decentralized-and-prosperous-eos&h=AT0H9xpl_WcBLqdcYijEGQDBQ4wqv-BtvxrxodqLlsequCnVpWiQeTNUKMEWdMffMhpFaHq-HjWYDQ6hHIr68XgJw3dLbMFASBvsW01MtI1zhZ1rtQOmLOkYmAkgC8YV6qlmwO6pmbuU80UXIWM-", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos.detroit%2Fsecuring-a-decentralized-and-prosperous-eos&h=AT2YNnrhfuTc4DCeSpn3M_VJWa0DcJYivZN37XYeAQJFKG-y44Gqm40AzeBc3f6ZaEm19trLOuh3db_JZoatSxPsHTmyIze1ppuIWotmCSdOTcZgArCSB6bwEKHGFcq9Z-qi5HGnErkcuAAEbRcWKhzA1pvumG0qEw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos.detroit%2Fsecuring-a-decentralized-and-prosperous-eos&h=AT2jj1vGxAnJGPOu6LYSGg4LXk6eKiWkq_43IgJ5BNETNMmGXQ4Ah_a4_qAzQ51Mw3rRb6ZNzKVQZzJnBevkBNUgMa2Iv64QzeJi2HWLWW8oZIE0hAtP61cAPf_JJbfFQjwS4b4f-M6kKELPl_M6", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eosnewyork%2Fyour-vote-matters-4-how-to-vote-on-the-eos-mainnet&h=AT2xFQfpZaPSxAjIOekptEq6tIZJfNMD15bTmQlUqT8RTqAK72zVjp7a7YMPl-j3rC1ZeP_KRd72bdQD0jXaMaWRXKmkN7YYSfG65hqog7MNGWRQ0BAR5zTlZ3ARkx356pOroLSu6ehUoOpI9Rt_nzol_dmNJ-PHiQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40genereos%2Fname-bidding-and-premium-names-on-eos&h=AT3JwZUyYHucNBwoP02_UbEx02SVHFDO77XCgsXgs7CRGzK4Ml9x3S3n6SuLKo6y5FO717Lz4TxWduW717GcEyFhagvA6XfkRo7mIs0UcNj7p_U5RUFNGiER8Wxr13o3YmQZ_717w7lMrP1Xg6QaJVkj4si0gSbnxg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40greymass%2Fannouncing-eos-voter-an-eos-block-producer-voting-tool-and-light-wallet&h=AT0ARjspRWoQ-fZStO25QHh9t2hlHxy2tZ1kuztnqa204DicM2_GEHGyN-ZOSbO3tVomzmFQqf9xgHkyJSakilboedq2h68Z-d33Vd0E_shBbuNBw4Icbkqdg0L5w8JpdauD7NXGU_vTtJVE0qt0gGLRvzGwXrV7rA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40unus%2Fhow-to-vote-for-eos-romania-block-producer&h=AT2gibfz-SuerC3ePZmO2nb9ZjW8v1KFnUtHuNCeGECde5XxLNqud-0_jIeqLwRvg9qAEEEJ23Xtus8-x7Dgy9eXYAeznWueXbj8mvT4ePYQaOWDQshDdP9AJADvOs3VT7xfYR5NWXB0rUxAcB8Rols7-zkc_Mt0ug", "https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2Feosio_wps&h=AT1YItYQKuKHK0fE2Z_U8MvexFUPJTGn1rJbk2smkdKc-RttEPI8YX6YMUhoW6Xr578UirDzNy37OS_xpQ1cKenev3GGZBAPh5lb6Fi4jaN8-W7DKfNNeeLHxoCvHHSRd_J9NDgYX91O_CrnUAKm7rjOQDm8c0sbDw", "https://l.facebook.com/l.php?u=https%3A%2F%2Ftoolkit.genereos.io%2Fnames&h=AT1Ru6cDqPD4ucfGqtGxyDyNk8ylNYKQe8xLjS_ScA_oR8ytsxinK4TuZIFIQw2rLqVHZrT_P_d7D5NxntWq9a74A2Fnk5Vp3kuUd7vPqh4u_iWWXNIzz4Nui4pQJtKEufmGI2LiDToBtDJkG7H8FE6z3I8HFevYhA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fhow-to-use-eosc-to-create-a-key-vault-and-vote&h=AT0OAT2S6a70qFVGa7gCiri_YZH2tyxYhr4umGvtMFOMhxSUKtlQ1Z7GbYkes8WlikWnkxTUAB4P_S0q-0fzcVpz8aNflb_pLQ-NDiSMegFtZ0p9vuw7-_bYZyVXcfol8-vNYXuCvYEibKrdDOpSRVuuXw1KUJ5cuQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fhow-to-use-eosc-to-create-a-key-vault-and-vote&h=AT0vWVvPGw66NoJvcgB7FkCThwB4TBhyV93WUXvK4Kcl9NVidQE1o3GXlL85ArzSdF7lTxKmRn2-UyU7nC8af-jsN1acJorvrVxwB4u00-g4qxDfIBpEMA8xNvS0ECVe4tBt2nqslMYtY6z2UAWs", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fhow-to-use-eosc-to-create-a-key-vault-and-vote&h=AT3kaUPP4nXabtc7n7BTvocHtjdT-kipG2w2U1z8587q6L6V7dHZfTeBruchJwjpGH1NIbJ0xjLu9tntwpYFNOdTnVkpig6eLZ3nnl0UvKq-gPl89dHAYF92pn985Y_auKlJOVEFoFqlFeycT6W4", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fintroduction-to-ricardian-contracts&h=AT2wUiD_O3-xyQQJmvuEP7w26Xdw_jH-JduW9ZL1DrQB2SZq3CWUxhN6o8u7dF-CJvgqKmtiShyV4QCMF7YJyqyVsckgZWoXgzjtKqECmxfc3Xo7EOsVo67w49F_osg5CnqDwaewveP_oZCYSOPxgFukxU1MPil_z28lwCJZLOGYc8g", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eosstats.io%2Fhtml%2FVoterInfo.html%3Ftimeslot%3D2018-06-13T15%3A00%3A00.000Z%26producer%3Deosromania22&h=AT1NGCJ0aqS93egWf1-B2wiWOO7DngqAYzUd1835bW-Zc-NqJgtfJHGDcj1jIkTA9xdAx8aaHLTu-f5DrTz1Ba46HeXya2icngihqsZW5gEoYejRDyMPb9sD7-YkUQ-z4S7wiaqgh-h6qAdmU2qG9uJ3vl8Z8RCb-Q", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.reddit.com%2Fr%2Feos%2Fcomments%2F8rbr77%2Fdemo_create_your_own_new_eos_accounts_using%2F&h=AT18hk_ThGku0jqspOBVvmkhhjGUsEGoUTXjfaOkBbKpOhu64gcE7_QEWI1LknsDfysipzJKBnQNmgQ3iyMnrasGqUNOwJpmBzHglLEjIy9glFjVIvBDFLmeWR6MIVH4ioM6jfKn9I8w2WpbqyN7FTmu8SkjKRlZZQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FU9hvyPQoswI&h=AT2u8pWo0n2gBR1rgGLt7OZ83QBTO47F47JeVovqEofpYJSby8sFbPV-ifnyW0WVhbIrEjCWfQLjcGkeiCpnNcOFe0chxcojmQ8kU-Ra0tMbGKC42A1zyPinj5iv5gElo2DI-f1T5UIPiii_7Gv1jBLRLoy6PUsT6g", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FU9hvyPQoswI&h=AT3T9xgMTZGB3B7bAgvOfjCXUQ_GVbHAUGGVO06dKnWs4wz3IBlOyiFfQ2-k4l95FyO3Qw6VjaMEISmcVvTdDkA8b1nZ8oo5kggqAMBlG5SqN7JVT90PYylDn-IDQPaINW4PVhARb8Y39hDVm6re", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FU9hvyPQoswI&h=AT3fIge6j6gZ2TiEdAJsj8VAeoKUMxKnhw4PRWR2VSPTK2d3_Hi56qcI3soBZR9sIC-aMQd8Nv2e_fx4PxSwicLlFo-un6YfXe5ZM3fr86nQqnx-QX7BGr0vE8EV4RbJ83uCZb9yD56EUO5wAuMizEdnJioWEpYRZg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_hWRAjLKa8w&h=AT2k3kegXPsiyLVE_APlEeVoPPulDy_yP2-tnSSNxvG2qyUL4yNRdzPuIxBWGSk2oggUUp77SeNbsnHm9PQs7CfyhxGpSV8AWtB9PwzZOeO3CD3wsu8GrG66RCAQuUIFPEMub9OP_vvbxNgp5GUC0IMIPCUSPjRzwQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FtK_PckDYG_M&h=AT2AZVrbkO2P-F5eRb_-6zythH6YIlHvcVyl9_Z30NeApzX3jeuG4c0PW7E0LgstBvFp2-OTxgD1H6n4ehMrh6zFq1Wsw5sQEtW5-Z9hpISScZOvjU5CnoM-cMhgokuRouFXrUoanadnIzgwM65k", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FtK_PckDYG_M&h=AT2v1kc82D6z527QbF41XJuVPfnfKNgO_8e60V2lL0yvYYVb1DGxjlRxSYjrIGBLc2zxeh8Mk410gbmdqhfPfrhY_CaW8K5q58tPm7RBqm6Rp7KmCdw41lmsOu_ufPl32TkeQwnLKpkPJKfAsVlbVPRML8EvPzbZ1Q", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FtK_PckDYG_M&h=AT3uXJQDmpKYazkckg47XV2hcB_oTD28HLoPCuyW-e3ImCLaubgiCkZehJ-yjzX5bHmodXCPX52oj-uSEp6LzfWvsb-9PYq3I6uQLrBBD31uTPjXT2U9XIDg4Ufa8v71ZpJodC3-FxvkM96ey4mr", "https://www.facebook.com/Culese-din-Telciu-220783488728607/?ref=py_c", "https://www.facebook.com/EOSro/", "https://www.facebook.com/EOSro/?hc_ref=ARQDd3ikgLO_oktsw9Az3Nb3uItqdfUOgspia7eME4WzNvUknn2jPo9XOY1FXalKqMM&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARQKiksN2neug-lL5Zt2feBOSkEt1F0XDB9bFzTUZsqlnApLKTeqpjgF2Q4d1dWRwA8&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARQY4wr1PioAu2-iQnTS_fPouglCunp7-qAsHmnxp3N_EuRJu_b3zaUJsNwvXepejAI&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARQZMip6rvCcOvORTZQbcbwIWJv7zP293kAn1cRKeeI6SQO8veAawqwEbBxNOlgNYzg", "https://www.facebook.com/EOSro/?hc_ref=ARQhQmRXHacLOzBNQgEGNyZc8oC4Pw3AKv6MzJzo4dLo5YTtfkx1ZzRlKIMIFdnBmO4&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARQiv_zRQwsWYGTQkn2n35JLsYAXGVhxzATLLSwClSnAJJ1uPChoguJqe9WThnfDG7w&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARRK4vb2GB5coirbEt3R8gQIOYeAsn0ovbkQcZYeqGT9W7CSdo4KVOo2ALwDiK8n60E", "https://www.facebook.com/EOSro/?hc_ref=ARRihN3RT-FiVCo0FAmdwIzT5sryhNaOoVJLVAb7ytIOpF7RZh07HcMm1uC5p1hEWqM&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARRv9RQ78KKmhVe7cFw2giOWryRcwiRgtLFNQdUz59FxJzNtMRaF_XycvWWS-JTRhck&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARS3nRf2jtVPJLCQsWI-E8JFsCoijZZcmcnqG8nIMbHBonUqHkV7-dnHiHdYVLAkT0A&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSCnfoICH-tDKB-94XeCm3BuvzGwa4AMnAzlZpHqGotH7mcWAYG595Elwc9vORmpu0&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSbUMq_9GAxub30_om02UIULzU2K5NcgwMphpkMU5AIlk37fll4LhWEQncD9Y5x8-U", "https://www.facebook.com/EOSro/?hc_ref=ARSfUQ5pf4mt7xwV9bCsCg0nk69RoBPoIHU7C0mFGDfGACUnMFXi27dwdiRNJqIHJSE&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ART1JeefkjMYXXxakr6cIMoOLwVOZ0DalGWO3l4V3KmsNA0u9krMxhvJ_whyPFk2dAw&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARTWqStiqh1B-ja9LisqIdkgUvkhKoSWnQZXuOfRzGGZTvZHKW2VTiMTzf5Dstb5cl8", "https://www.facebook.com/EOSro/?hc_ref=ARTsdgcEutwASmd6BxoSzVAij0LdDtCl7KYbnttMGgij7vs49yHMlCYn9sVXijwmERU&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARTuJoJe1ez642mc2blATez1QeKIVo1Ue2_1GReVzSl7GvRLiWlwkoDsHVGEd7GHxJQ&fref=nf", "https://www.facebook.com/EOSro/?rc=p", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARR33PT1EpWwyge3HQawixedl_jPqiVDoPDbQto2ERDhcm0oRlYU21SWICWlWWjDU4E", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARR7JtQrC_1OYG45npccA6nDJSkN-OodaCckN8SO0TLLDwbYL9mzwM51_I4opfYNvvU", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRD5DycEY1pL3CloLhEXDJE8fGuL7aKJMToXgW7cafhe1brJ4Ez5ikkCIKOktu0HtA", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRPcqm-pw3uUMbBHXb_UIBsJRMFNSHOHONWqVSPtRaZwk0e9n9-sybEtfitZrKAoZI", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRTWjFH4hX5vwvTKcj2sNvv-G-eqk9JlQr99tpGMfQLstQy3xbfbMtskWSnN90HMfk", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRWC2b6hL6q7ts5cP6iBbWf1ZNkiMQyt7qgxIRP7DjIKJOg5fQkXdvFB56CZTS8A5g", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRondKs01MxY0kiEkmu4JhTqLp8gCsutp8mKNQJUl6tnuMKwYuqgVUBFHhNq-Jx6ro", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSMEpjbNnLBqjnWCsSvxWqeytXEdTM-ax9TnYrMUONL00hSkAc45d7voLxs-6wNETo", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARST7RReYS41-MALvTK5rMVxK5Dx-6SmpcqHXlRqJReBHj_KILLlOr56Say73Zi07cY", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARS_S18Iq4TjXsj1SpEvuB139DbVK9VIP2HbKuPgld4KqfeZho6lWq54ZKOWI3ffPgg", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSlyT9OKrYfhO5kHnbeuGoiEAsyMCTzeInY7bKjbRCJF556hqPwEpJJcNEGihhIUbY", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSnMjz828OhQhUpSIk1_Bq6XcdZv3aNzf0MSvX0cw2NKAhMj1y5UNN8v1IUy1bS6i8", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ART6sPq7Dlk-x32udwSJtJYGNP3L9BMrTDzrjur7KhJ1FsLowG6O4rW5qlxeKDnjIzg", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTNRzBD2waLGsD-bURJUsysUXfYjZL6bt-kd0-Zx3Y_0fgConDGj7Lomjh40jMku7Y", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTUrSJa1jBWAJ-Lqn7unjcyRXPXNUXXtp0ckOYR2DpKZDKX7Ebcp_6U83mz1_v3ftU", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTdJOlmk5dAN7l7RNqU9wX6LCcch8kU-IA3w-vB4ps_tWkJJZQhOxlv1T9Ur3cX-ZE", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTu-CpWxezvE8eoq8yhGvkQADOTfPoRxrSW-JStZUrjrOPSAD_YTwnvyIbE2DZdet4", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts?__xts__%5B0%5D=33.%7B%22logging_data%22%3A%7B%22page_id%22%3A1141441052665834%2C%22event_type%22%3A%22clicked_all_page_posts%22%2C%22impression_info%22%3A%22eyJmIjp7InBhZ2VfaWQiOiIxMTQxNDQxMDUyNjY1ODM0IiwiaXRlbV9jb3VudCI6IjAifX0%22%2C%22surface%22%3A%22www_pages_home%22%2C%22interacted_story_type%22%3A%22565413710334575%22%2C%22session_id%22%3A%227977fa6fb9c6455a9d01fe3b69a6b2fc%22%7D%7D", "https://www.facebook.com/Raluca-Baciu-Design-427643037714296/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar", "https://www.facebook.com/satoshi.nakamoto.507679?hc_ref=ARR-InfcdxMdLBttiPJhc2zceOtDY3c-4PAm1WlzxZQ-OHxRwZxR3DcE7edaq3Pf15c&fref=nf", "https://www.facebook.com/satoshi.nakamoto.507679?hc_ref=ARSbUMq_9GAxub30_om02UIULzU2K5NcgwMphpkMU5AIlk37fll4LhWEQncD9Y5x8-U", "https://www.facebook.com/shares/view?id=1169894899820449", "https://www.facebook.com/shares/view?id=1181397885336817", "https://www.facebook.com/simonahalep/?fref=mentions", "https://www.facebook.com/Între-Phoenix-și-Le-Corbusier-Costin-Petrescu-în-dialog-cu-Nelu-Stratone-2187514878138399/?ref=py_c" ],
+      "social-links" : [ "https://l.facebook.com/l.php?u=http%3A%2F%2Feos-bp-votes.dapptools.info%2Fs%2Fapi%2Fblock-producer-votes-stack-html%2F1%2F80&h=AT27o6IYL-D9UoaxCGXM1oepQXusEad1cZPeK9rCEwzSc5Niyuu-GkIiE367kNFZ5GrvnIpmySTOEFff2XKW4CpKm16t7l4J87ug_8sDXY2PImv9dJlIP3vu8SbS8VSrBhQulrAheLMbkvBIF2tvZyl2YBmZjzgU8A", "https://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT0P8cVwuaIm6boJipVstNmVVrcEUiPuwEcjsVADixv0d-xsBd2-GQd8Pe2yzs27NpX5HJRcAbvOb1zEaNk84JzAxO5hLZLhg_g-1wyl_wXmB8PuzU6asj2YRfgw9sNPmtZPBw8MpAutpiaa", "https://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT0SzloR-EuGCYFfOSOG6ZxmfpL4r1LvlJAkAtUALKaSb9ZXvq9SkGWyNPLsiUJ81WtdxSCFmZd8R3T1AESff2YjHZ3RcLYliR8EfWUNTgg5Q8rsYkkJIsOKkv5d3v3E1kiBqW_6H3BesQ", "https://l.facebook.com/l.php?u=http%3A%2F%2Feosflare.io%2F&h=AT3-BxsUC3LLjAH9dnssVDgLMZG0aKgmyKhq4uucmJNPL2rF4QNx2b6sVzznjvm6D-AV8Aw2ym0PEUMR1t-XLP0svMIsputwIa8dpJeVeIoxAuobrK0xKBSkTgd1fkQc-TCmDHxBLfh_wGqk_cOxH9hrf7iGSjif-A", "https://l.facebook.com/l.php?u=http%3A%2F%2Feosnetworkmonitor.io%2F&h=AT0WB6Zs9jdANJZPC7FiQbLN4InZo6f7s9TLb3bWQW8IB6ImZWQ_to7DVAkj-cvhm_9IAvH2NCq3xsKTNwSk7RBVgx-hvbE5Y3BwJXco_PUgrpQGXbKX0LNkn5U1wkHW3gmaKJ5fE2P8UBdA6cABXxzlw3WRbxzrrQ", "https://l.facebook.com/l.php?u=http%3A%2F%2Feosportal.io%2Fchain%2F12%2Fproducers&h=AT1bnOKXwr66ruygmOFZl9Rh30pjsitX_htKtBB1lOUmzJe3YG2e9WHVdESP95cqroKa_n4ipXzrzEfy0nY8dFDblK8U_8Q8FQ-laaH2U77dSoS7g8yrC9-33MlVuv3FVt6NE9JOpNKbi7t4IVwwGCRUnUgKNXl5_w", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F%23%2F&h=AT1x_gR7mwKq2xOOPN7VvdP3QcsP7yny4PaV2gihZ9TE6duDKY-6OvdTrG1NHBCPXaY7PgxNexULyLybcpAzYk01xFrJvlh2ETGLFi0rRz928xkTtmkIWuzZsGEbKfPbsNQuLnlWUDtFNNU", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F%23%2F&h=AT2AMu6CB6ZcOVB_mR5888t9VEWJ6e7DHB7mx58zeIt6OsVV71AfCRL3GhcdtCkcWh4DUFRfSFi48g9V0FEE9Bv3xaEE6Uz_6IlqDiASKoI2R3as8Bab7tWG2Sg3K7pRo13hiLSQ13cM", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F%23%2F&h=AT3SMrn0uK_YUYEZiFZO2TqZJt48Nikjqdi5Brarqnq-bzk1Z3dVYrVwh66YUEVhdQiWHXIEyQgTojLbF6YzivX1uWGufeWzi8HQCkfIxJF0fRIYb3p-hoZuu0V9dimwDL23Ir_SwBo9yik", "https://l.facebook.com/l.php?u=http%3A%2F%2Ftestnet.eosvibes.io%2F&h=AT0I1PAG-STjg1pfVvShwq64E_0cdJqJjI4HK1kCO9YdevP6m_EA_3KLzJZB1W_-hIAbyy-R5ZlKxpe4_0ZJ_V3k_nQQ7or4ygbgxpGepzauUk79Qkz2KnSmVmJkuByHEc6cIkew93_RUfbnHst6CQVXnarMSve0Cw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fbp.eosgo.io%2F&h=AT3pqss9bpIzL8t89e1pJOraf74wdUCPxsrQVgjh7iLgx1HeNI_6tZ6iYvTjFsbo_twIaGmUPzgtvs83ds57sWxV6zaKgVVSiNPYgVOSATAU50NalsTNA2UCKPywxFUkasCEQurSviMfK-ylZt4SXIgqHcEuJfIKEQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Feosauthority.com%2Fvoting&h=AT0peatcru_5Mhr-At7oYYRngmqPq6SNn9aOPU0IFL8h4A5RLO6fOrkVhNFupfz_amyfPRAhBZIRsPvTEXYjEUW65HHHbejHxN6nRvNapgsu18xpo-qeovClzN2tuwKIT43HrPC0d2pwuVwyPvJer3Azw3Dj5m0V1Q", "https://l.facebook.com/l.php?u=https%3A%2F%2Feoscorearbitration.io%2Ffaq%2F&h=AT0izAPn4BqEe3xjij7ttHrfgxy6pq7E_xn1V8gjglGqBt3NxtbvXOsU-U2NYThxpIMDIoIuGJgJOI8ypUzMmu7pMzFP6hxktWBXEbIsgbUZhNbAeVdw07tos7ut3M38JUKu_76aDNIoKy3D0KLshLJahwLde-QhUQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fforums.eosgo.io%2Fcategories%2Fdispute-resolution&h=AT1U-tGe3Vuut5NvZbobHZhbh32PqXle242-H--kvc2sjmZq_73_Z9SNxbPF42BuslRA3L2_e0jhEla9GYkQt4yAaTSRpBRSzxM1ScINYb2YTdgllnbc29upGo7sxATPjvUfxl8GMX-khnEEjrdFbbDz7_S91c1kGg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fforums.eosgo.io%2Fdiscussion%2F1104%2Feos-core-arbitration-forum-nominations-announcement%23latest&h=AT2yILZXK8bNf6yowZe56KrGzFS5qir_iB6anh7qempn02xsOXoBvavs4OuVfU357G4zpkeN-fGg-EZpffFvnRgghdNkZKErNjSi7GGooiWIjUDiVk3ACSuOKfLgMTHk3KgJIEgOKQLj6l614glQ9hBbU6I9TqMpkMFYdvNZXIZY58M", "https://l.facebook.com/l.php?u=https%3A%2F%2Fforums.eosgo.io%2Fdiscussion%2F1155%2Fdesigning-the-worker-proposal-system&h=AT3BbCwnICFWunVsY57Uc8HZs2fMwtxraS5_ohI-swQnnRxyqVnMKFrFSfjYT6ganO7oUVV3fRYLljItnq-WNeH-u16H6BclRvSL-Iv9O5zylH7UhCX_XIV7xodUVPCl51UtKHse7u6TAnmBraWR4xC3uSG84RgnEw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fget-scatter.com%2F&h=AT1x0_BPzfqB2rFGdyFa0mJ3WiBBYuBjnV7n90WIfCrbr3gl6R9iGcTQ4nIX8na46AHXU9XANXkaEl_zkH_pC4V6duJCflXGiIWu8GaP2vPmldu3YMuXKsThTi5i1BSiPpjIlZKJIC0CcURxtSeXMGrsVX-_BSiLgA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT0jgZyVrOLK0Tf4MOKK5vKDUUWgvrUlXfSEiAcdXrfuIm8yCc6gd9KNjWYJim-KmckErUWlYNmQgoQPVkEf8bqtvfivamnB5y5Dj7dJCnB5OU-zNC6njQ1zZ2j_4-sUksM1RqdhrzLaAhXy3VgLY4wGMAI8vFQyPw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT196Xh846-BEW_O1p389QWGVTzez90v4IoZnu9LqADHx_c1Ib4K8IsddNthiRvXv77EwyQtk0GA0v6Xi6mA4NiG9m40j75E8Tu83DwVrqYsFaK2-EEpgg5e1znRmbryinwtTPSVodk5VAJC2Mn2", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT36ACLLCLYOCDzVBPO9RnSlt4Z4rok7fzlsG5Gjp2kxW_ijFQzKGq5mBeOoirLtLacjjHwkYLYCvq9LN4yds7iEI2qoOnNVeaDPlb3wBw1zwuUcikexu3xqy_CTB5V5mqN4wZm33pcULczQpi8I", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-clause-constitution-rc.md&h=AT3slDit40nS2Fraxy13Tq1g3d7qTtCVEnjczmh6Nz9Aru3Q4mUcgIJ1jdPU5bb3qbyALB522CQW4g1Cf00IXcELpOCWGU8InLBrX8QG5U796yzyvMdlDYFkiOxrdUihOzEwFF5JP7loow_t-qJnw1h6jzhmSPh_ZA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet%2Fgovernance%2Fblob%2Fmaster%2Feosio.system%2Feosio.system-regproducer-rc.md&h=AT3eTGl97UqAbpKyf1r1uYqKHNiHVx7_UkI0MPJSRONdDvKFX58kDm_lIOBpxgWZMckHLFMpPeW5da7wzdlIMFEpW-Lh2Wn3yZ39R1hRry5bfBTIJ2vCi8b-1lBjtKijIJXM-UU4wsIbRK3j887MbafBcK5Vsh3Yxw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT1spWVSwvQTGPSqJEsiMJEgHN2p7HTTEo8y0dAp16paxOXU6PYe-F4XRVrkplD0t69i1XqsLbehw3jaFwzZQ0tDguZRs8EWBrmxHNiJGWj7yKda0ZBd3LTRA9QtiP2HOOAQZrD_NvMvnQbfSzI59_bwghZVU9NZRw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT3IVY1pDN2VzfRTXJQSroIfXZSnh_fLv9cv8xj-kpekiUU0C1FeVL8aw2Gsj7grkD9qzFLKHMxvMshPotdpkSL9B7ZAfkCDj7OGnhFuuQxPcCqft-FP5vlFnrMXEvWo0_zFvtTEkLMvHbZHTlNirDRdLfr7cr2gwg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT3W0__cqamjuzFhfEMF_aFeOgLwZI0G3e8JIZQzos8-I0TDvMAlS2ERgGU2QeYgOGA9aTJ0H6HFV1ghIksPOnd7Bg1BNzQsXldlWnlaVfZ3h_PLsQjTAm7P4IuERJWBAJ_tBeCb3xaVCgBJgFBg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FEOS-Mainnet&h=AT3Xv9xksm7Oxpw5gtNH15eZcCJbkP0AnqL9JKnqgbfRtD4t_C-_DJNC-FBXCFjvIBwPhtpKaUvPv_9tug7x2khATAZZ0Mf9Up_bF_HHn6ENsP5VH_WAyS_sPwEngfrPhpyV79psi3DuqyGZwQ7Y", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Feoscanada%2Feosc%2Freleases&h=AT06VgxmNMgxyMTu9EigRwC3r2NmuTayslAbLSZA7ieFp7keWLmBl70Za23AbjDo_rgCloRnb56ze9X4PEHNQqXCyLIOkM_r4OcZvv7PolzMRQU9ikdEzUuJbcFcN2mMZ12EG15ItSTkepED5_Oj", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Feoscanada%2Feosc%2Freleases&h=AT0jeXsDETF-KwD5OsAgZ8E6Q1Zr3Sb8pRWEJNxDbZc_Vt5Z4v3T45OJUkzXt6iTJy9Gye1Nxz7y2vG8hQsoYJKWMz1EQ7VyD-7_ou7LtqDv7hSrZHbvSrWzlq-MhTuN0thIZlFH1UDTD6Hhaen4", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Feoscanada%2Feosc%2Freleases&h=AT1bJancPiX37GwO4BVi6CxJ8M4lgsO3Np9K5U1Nozzym94Jw_-kwZUE5AgnGMvNKXQTFBjC56x2k-mD7Usga-pdBwvRL86nJYeaAupj7tLpgYH7UTVKrc-de7Yo_JhPB-L246a2WxTDndrOgHvMbZ4-04oay3VSmA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Fcryptocurrency%2F%40soleone%2Fhow-to-vote-with-scatter-and-eosportal-io&h=AT0ZsyXSnm73ifIob7KHCTXCzhRV2X-XAruYeTOrPCP5G8hKI93_epNdYbnIdVMY0vz35cFwkjOhD3hKyYlIDvcGx08fq8DmDmkTO4r25RUx3mONRANDvCBmZB17jomAx5HptO4593o6-NMwinLrXdt3bzVLFHvyDg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos-canada%2Fa-candidate-chain-and-recognizing-community-effort-eos-launch-update&h=AT0WpErE_JTCnlOgf0Q4DCCR4F9u_2ul21dV8VrqebC-zTTSVTNGXLapMTuvt56y6NLg6_7bo47Z4PbO2eFSL4jR6D91ryZgkmydFZ1FXdMf8e0UqA_V9Q-CYQNIiNPb2lnJcDvjBMYn1tJTzbTmmHCuewcBfsCMZg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos-canada%2Fa-candidate-chain-and-recognizing-community-effort-eos-launch-update&h=AT1QDEORixyyYALvxLgx0VZmflaZau3QnuJmh9PD9SjDQupga6fbZzpBR-L1cmXUhpg9GGD68jqrD5hZ4yutEv0yFjTXLQTqqz3IzvioUIbeFS3fwryS8tTFkd-xQtpQFyKQHwOBA5iJG2MVmwij", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos-canada%2Fa-candidate-chain-and-recognizing-community-effort-eos-launch-update&h=AT3f4JV2dEsN5CtxCeJlWRYgPzUWB1rdj-zFlTp_z0KENjZcbbVkjU_FcTXVx6HnUqQIuGpEPzLi-dqjZLmADZ2W3HlPYfzlYq1fJsNQLjIONUdLZPe5rt3cLH9CKn2x-aS-dCEP-RFb8-ioqtFz", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos.detroit%2Fsecuring-a-decentralized-and-prosperous-eos&h=AT1CA4oqu01o-PfKTDoGcvPa4k5QX0pHHTJzCmegMRNppoRUPTH__j4EywSPu6M3eGLSwVSZliGj2anQnmcJeD3qMGJ484pFBT57SZO42krF7q1tmM6wU4QMjv7GlFIvkC7XvnVUZ8IHdAR-ocoO", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos.detroit%2Fsecuring-a-decentralized-and-prosperous-eos&h=AT1ODUx5m9z_6crfGwVYfFL2MWJNUwc_iFR0F7qwjW4lp8d04l89Fi_NV9pYWSJ_o1OntDYOloMlfWuklvuX8wW1iwhRNYcvG-QB6_2TRFZ9NWn59ML8ea4KJyTwTg81_NrWQV93B_ktd6ojDeDV", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eos.detroit%2Fsecuring-a-decentralized-and-prosperous-eos&h=AT1zFcNZQ1NziCvAOxv7csR_x9JZm-mtLapOzxu2upGq5I_kthDyI2STIriOD_P7DpnfKIzmeMathqrSOeKHyrqeBCHW0dgjxqEvU5JuAfX5mx3NVGLHbAHg2anO1tNIi2e8XDGx5D8cUlbQDzJETtowjwgueOPCqw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40eosnewyork%2Fyour-vote-matters-4-how-to-vote-on-the-eos-mainnet&h=AT1Sg887YLRD9FZ_kjEfMEkJEZIv4DHNAZPtFQp7hSCqRdaJCr2VhZMuz0f5uxp-DUIQMunWaF9v-M7-mDH0WOr3BtjpYhSgiaxmz-dVFYwJxt4a7mkFMQffq81SvIMSOptwUi8LG_8eTy3HYN2dNGO3gUorP6pgJA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40genereos%2Fname-bidding-and-premium-names-on-eos&h=AT1JpWxRbJ983EzHxE6vUadF3A7ferW86FW8E-w2B9jXixtBxlZR1pVH5P_1W6-sTuhmFObx3fQQPbNw3OE-1Ftk-DguFLOQxG6-V7h95FVMPNg0tCmurOZI-hTOVqHl8mspHZPYXTXL40fFSg6ZK-bNxfcYZygwfg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40greymass%2Fannouncing-eos-voter-an-eos-block-producer-voting-tool-and-light-wallet&h=AT1VL5RMDmWwOAhVb5EWA5Yz5PS_dYBiUwHGb9D1oynb8UKODig2rs9AkrQGjlRDEJzyTf8OcJhgNFMVIxCoQVOaJQTXLNrFeYoShUQEaNF8irBTxYj3cb53tHdF67Xjtyp1shqeYTfJaaVnHt9dxjlUAD_RxS3kTQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40unus%2Fhow-to-vote-for-eos-romania-block-producer&h=AT2g8xQpOoM9VM-kqkuCgYr9bv8_uwp0aldd6moqDaLJfQoDWIPlTwQWwSmp_ei1e8n7oSFvSWJ3fnd47stduKCAOgF16pnKKuSFIzgELEzxCbzqhoIbbHF4QN0cHfpJXJdAOLG5DaVNDoSXCt8MXeZZbiA7URnGHQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2Feosio_wps&h=AT2NR_mvdBXXOT3mRq3ODR158fROiOUpq3VTw8nlG25vWWzGv3YMmxSYJT6ETNK45hav7-DHi9jsv4tlmPPYSFZRKBRqarPJa_bqZH9q1CLmMplcsvigKGodB65D3Dh4i_aDOZGTTdIIV3DnZeDQxHZrjPjaLJvhBQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Ftoolkit.genereos.io%2Fnames&h=AT3fEwV5pBciNE2IOB4GIg8c0oKu4C4sIcjUz8EALR0sOiu6fmu8N0nLYCz6XfoeO5bnpJ2fHdntg7oXxfzH2yZz6jdDw8w_RN8anT4bFDIZDswkqa5OnZR2V8A-s32J31USnr1wF2_Rw7pTEFI1iW7HsqTWDktJwQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fhow-to-use-eosc-to-create-a-key-vault-and-vote&h=AT0sYyNRIUs6g9XY4iMQeQ_QSskzDSOinNDwGo3fOn6E65Ben0Yyo2q39Yd1KKhfuOlRRnni2KoVtUoU2Byr_HnjewDB3NK6u2WcRdNqKNX0vb3DVILPwbg7-iFPHabjbPMefGUNaB8v3Xi_iUOJ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fhow-to-use-eosc-to-create-a-key-vault-and-vote&h=AT1SMMOgyPODYQzIcya2TxF-kR86YlD6ahfZ_JCqEyMt5Gy-HAnfhvVYnEiwTojpLqDWnJbUAWTEmXdFEK00pcPjgAyWZPipC8OtQMJnmDvDadyCg0tpb3sCKgGJXtyv6R2t6r5Deagw-yvIkWmk", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fhow-to-use-eosc-to-create-a-key-vault-and-vote&h=AT3Hz4GoGvkgyqKt-ltji5KwPozsqNrvfApJQj1x3bjaXTG-9pH9n4zXHEXgEVNZFCRQPPFwcVFNDiz6gNvdhnv8fSg6uuKvw5Ai6vrOSyh0pBvRiv_ya0PL66gHf9T4KM2VWIqfdJGxmsqALKhcWluW3VI8D_lVBw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eoscanada.com%2Fen%2Fintroduction-to-ricardian-contracts&h=AT3Zm5pjAczAdbmnu1R2jt71zxxvzLPWLbxsRKFh7hqgk3X84uzOwXNT7WgAQgZAnAhX1LEy5UvPQf84LbhNrNO5Ve21ObhB8ygN8BlMPWfx4waEgbtgv1i7VEN-ep3vxaAXhlh8G3vCT-we6mVHwykKs-SgW5QM6g", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.eosstats.io%2Fhtml%2FVoterInfo.html%3Ftimeslot%3D2018-06-13T15%3A00%3A00.000Z%26producer%3Deosromania22&h=AT1FZOmvoGM488cUCT8V5OoXydSNv5DlRWnrDAFw42Sq7YpE025EyKHw4rexJRhZGu_qpLQwbr2_XjdAf6JRcVnTf9rUIl8iilyTq9yZHFwcQmoLEJ23_u_71MK7LWdtX4Ti3iWyf7K8SuTFqL-xdvxQ3BXG1vK59A", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.reddit.com%2Fr%2Feos%2Fcomments%2F8rbr77%2Fdemo_create_your_own_new_eos_accounts_using%2F&h=AT1jztEFJpmCFSXDkDIPlnZAGfJ6KuXphZahPe2O5g0BLV4LSZn-DmE1m8q3C6s77aCVWV4vJLWEhiY0BxVeJHNDP_FpOA7FtiwaxIPqYbO7hRr0m6paWwoMxhodeVTGlz35qJSb7yjlyJbmMXeXULjGio1v9tiEmQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FU9hvyPQoswI&h=AT1BZgw79L55wEkyOsG5-tARmsKN4yPLHDOrXIzFgScOCtbAc91OknfUlFyivyPwro-OH62ehto0avRAruo0URqAMBtnyk-LCNFVOUydMg2Jdh9R74Y5o2jcqFqMHRGKWwNUf6s5s_gvmGoeSPZk", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FU9hvyPQoswI&h=AT1tk1wAiI9VCGAXdF9xzT-nGI2vsrhoWmK0_EZwkTBwO8EzOsoe4dmZ9bow1jx5xnqBaP9EVL0MbBG6CThkhSr2_8zVd4HQQTekFxtFzy0RLHpVbHhnEyktRFNfkgw52zq3uq3BFV0cf1nyWt1fF0IK2GzzBGuasg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FU9hvyPQoswI&h=AT1w0E7p_TLr6edogzKkflMsc8g3kPmV7c5EsjXr-nfPQqrH3NwsEio3u7R7FGh3DqIQFlZkcQzTgpQv7tHQOzYsCD0GgLwhVz4BrVhtD6bHoBQBafsWFiPEnc6A95uRaxzext8qr093Rb9goE32", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_hWRAjLKa8w&h=AT1zXwOdQhP9FhIPOSAf20_0J3_4AWEuXr34koXLOpYSPUiYwkgbkNWGoWW1dEzX9WPqo6PlkdncCHFx9Jof2g5ZHRf077jnB3Z2qt8dHYKug8uO_0BJ8Lw9Lw8UxRklhPVwxXNv6cB14lg4vtgZZtONalZzTxR7ew", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FtK_PckDYG_M&h=AT0SaE1w2PINFE9ILa4haUsSoTjbrhu8F5SXmhG-JwWKGNppfUVungWvr1eNeF70XFtBS34MjG1mPBkhLvIWvSWC4F5e2-k8h9dKSaBA3jMnFnaykuDbWHsrftko047CkqiG0XnmTe70zPj8o98j", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FtK_PckDYG_M&h=AT0XXw0x-zEKGWI8SswqLJE5wHs1dKHAIfpPgFzpOL2REvtIn0uPNpKpeLLf7P4APS_jczAYePMwR37Uk9fAq_6NKWPOqSmvWa8fsqamppaBGIU2S6u10lKbZGqdXWDISTz5k_2hooFQHCOhNsiR", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FtK_PckDYG_M&h=AT1r6Ypm-IVUVb6vzxf01L5eDl6Ou3EcGxsluPYgtEfGDkOvVPooqYW5IVxeVpuiDs9FY3SecdB5qRcTfCQNoDm63nIY2i4tK5m4WnJNTj-gyZGyy7Pev7hKT5rig0qq7UIcXWMRejSRtNx-t3oxBOFMV1EtOIB-kQ", "https://www.facebook.com/Culese-din-Telciu-220783488728607/?ref=py_c", "https://www.facebook.com/EOSro/", "https://www.facebook.com/EOSro/?hc_ref=ARQvHav2Gl_DZXg-IPNSZAe_MIXBrkVnQcsxe5IfJ2MA_ZPGdadOKdHeN08ExstSN-I", "https://www.facebook.com/EOSro/?hc_ref=ARQx21gwvz6XH5l66G566Q1CUUFGgCNx4ss1gPg5ebnB0J02O4BlpGXTxCc7MLWMdIY&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARR0JF9nFSQuImT9XclZxuK_e5b4aZD_gQ5Ntj-FkrcKnBHC_BV8ib9OB2C6ERQAheo&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARR7DuedffR3_aFtwCZusl4a_LgjrG3D8RUgv8hEpL1kLPT_ZfKcJzq2AbcZOAZcAQk&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARRN1N_N_uvuljor8uegC6iBZBloEoqYBjVGu_mfCetB5k6W-XmQravhHZa-oWMDX_0", "https://www.facebook.com/EOSro/?hc_ref=ARRRSkTwh2rHlqedLSn0M9ueCnerjTkkU6AkTjAMBjBPOTOi7THQOx6WSn72UUagQ_A&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARRYY-S7b11-lAe938qtx1RO4bkhAPB_ltEAqCRb53VqdQTdgne0OMW-iXIOeHZzWng", "https://www.facebook.com/EOSro/?hc_ref=ARR_Uyye7GJvXO684-nIunlTD8igXkHZvkqZImQ1uiO2Yr-pGuaANnbN6TAlQrPhnP8&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARRqmWfp4wiGd5DN60XSHfCEcsskBhOtf4HXhV3cSDBP4DNqF_TbNatlDnTojo-Vvko&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARRxvzfK_Q324GiIHv58I4A3NbsLyBOWL0werkfNa1HbJ3cx9rpiHGwWava6mTL2IhU&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARS2MvTkn5KWDp77BG5QkPBfjF6iMeHgwf6Y1aT-W2fzaZ2D88l82HlwUOpQoHJwtcc&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSHll-cM9HXJ2sGJ9AYMYAAQ8sVCxKXdtMqgPX8VAlch91N_T3c73Yj7TeWe9n4bOs&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSXK9cuzivxZT-E0xPQy8RDcYXHuiHldm_QgvJBHFA7RfOyVpFP2VZiLg167yGeXds&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ART9CYxZD4blXTI52Q57RI9APSUFq1lKYczP3q0Gos650zgiIRXeL9CgQ-yecTor210", "https://www.facebook.com/EOSro/?hc_ref=ARTO0KQWH8KAtMFhi-PeqqgJ7gSOaJ7dFUS29kVJyx0mYNnvKcd9OzGzSCTuD7HdRQU&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARTkXHXMA_0-I8CuUHctFc-tcoqi3ahU83qtrLJbPA2tPM5BEZG62qquUgx_WrObwMc&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARTlreVDoGk2D0YnrjwlpelmTwDujC_VxRdLH2NoPnuw3EellSySU7o7_ovboH5LXP4&fref=nf", "https://www.facebook.com/EOSro/?rc=p", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARQ6Aoqk3EWLXNIsjiY5HQYkviWow97cGWpGNWEZ-vbckKrXSh4PSmRDgdVqKrcfw50", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARQY_ICfXVVnffJ7KjrSTXAlGvoJl4LfWTxL3ENrQqav2QTEtftgObHdMv4BpBDCgd0", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARQb7REdB4qHP5ZxuVBvfgZCfSkNiFNw9TTchcD7m470QIPTpeASlQzm1e_1CnSk7M4", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARQuEK7KxUZPQfwkej49brAsE8joaKR9Ea6vdAla0BTH0aFW8ePjC-sluHdo6tvEjqo", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRAkYFKrZQSLyn6xiCzm8WC5t4xWKaFqjA9Ms5kxfvJ-wJuqsM7XMyC0CrNBnOgFLQ", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRIAIdA8DM7HcmLI2bL8p76vNTGf9c-gpXXjfIFSp0g07ZwufNiK4goEtyrm8pkB78", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRqAt5KG0y9SrfEVXdVSzF0UMSbVxBDQ9bv67ByViZByIQ47qtaMBdaInyDxOoYzFA", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSGVpVLdK_QyUUMrm4KjIzNiY0VAXLPcr-ZHIGHioYu-6yedZILOeS96vZBC4jopKQ", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSJCWZiJlA7KOTT2wdcB9OGRZb3x7dWCMmhabPkf5VWqq3I-LRFlNtHy05vMfjmPHQ", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSNRl2QNmJOMN50uK2HydV-XeE6RK7Li_dcKFXoY0fUvZ75bK_9CU8oGdPOKIiTCo4", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSlb0AkAdFs_6RoLq1z01zxuAK3k2_9oC1P8u2WYzA9kwbY4Ei5tsWlL2aSrR-Ua8E", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSokmApuejjWY-68_Rvrr6RMS4Y30zCTwtpuTV97rZeNoD5mGQDMlVlDBrxAHzezLo", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSyDtgl6vnXsvtXOAOnXfayvjjpZ2kXVOvy_swgfabwfa2bxr5lDx7C09MUvLya-pw", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTBkYXapBv5Iv7sEQLY4ht87GrPJ8VUj4GTnA6nB6yELzr004u_PiWUpT2gj_sawO0", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTVRqyidaSHUAjRH-itOuPGEGEsgVWoYVLdtiPKGITwSddX4HJNFKAEsEVCWCawrVs", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTnVWOKDa5qhT21z3y7DwaAWz-hHKlfjdURGEoS8iWZB-6el9Nh-cVqmYWTUpsHpIU", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTnr0H_8UcKldIDI9hOBnG-uaPEzELhBvK6jSIk4X-9aAE6mZ8zpZPavBM6F88v3vM", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts?__xts__%5B0%5D=33.%7B%22logging_data%22%3A%7B%22page_id%22%3A1141441052665834%2C%22event_type%22%3A%22clicked_all_page_posts%22%2C%22impression_info%22%3A%22eyJmIjp7InBhZ2VfaWQiOiIxMTQxNDQxMDUyNjY1ODM0IiwiaXRlbV9jb3VudCI6IjAifX0%22%2C%22surface%22%3A%22www_pages_home%22%2C%22interacted_story_type%22%3A%22565413710334575%22%2C%22session_id%22%3A%227977fa6fb9c6455a9d01fe3b69a6b2fc%22%7D%7D", "https://www.facebook.com/H2o-Fans-Forever-Hungary-754821008035030/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar", "https://www.facebook.com/roman.pokorny.official/?ref=py_c", "https://www.facebook.com/satoshi.nakamoto.507679?hc_ref=ARQvHav2Gl_DZXg-IPNSZAe_MIXBrkVnQcsxe5IfJ2MA_ZPGdadOKdHeN08ExstSN-I", "https://www.facebook.com/satoshi.nakamoto.507679?hc_ref=ARSXVRIypB0sUDSO5tOx1ztK3T5N0OjPJ_17b8teHglEprxGvgZ2uRcTcWySz7ydqPg&fref=nf", "https://www.facebook.com/shares/view?id=1169894899820449", "https://www.facebook.com/shares/view?id=1181397885336817", "https://www.facebook.com/simonahalep/?fref=mentions" ],
       "social-links-count" : 108,
       "popularity-boosters" : [ "https://www.facebook.com/" ],
       "popularity-boosters-count" : 1
@@ -29,35 +29,8 @@
     "place" : 133
   }, {
     "bp-header" : {
-      "owner" : "eosgenblockp",
-      "total_votes" : "81559435703281712.00000000000000000",
-      "producer_key" : "EOS65tu7JUi74KL1JAffKYtMw6HRKnxD1LAxLBFoCvcdfBB9AMU8n",
-      "is_active" : 1,
-      "url" : "https://www.genesis-mining.com/eos",
-      "unpaid_blocks" : 360,
-      "last_claim_time" : "1530205928000000",
-      "location" : 0,
-      "prepared-url" : "https://www.genesis-mining.com/eos"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 36,
-      "duplicate-urls" : null,
-      "social-links" : [ "http://my.yotpo.com/landing_page?redirect=https%3A%2F%2Fwww.yotpo.com%2Fverified-product-reviews-by-yotpo%2F&utm_campaign=reviews_tab&utm_medium=widget&utm_source=https%3A%2F%2Fwww.genesis-mining.com", "http://www.instagram.com/genesismining_official", "http://www.medium.com/@genesismining", "https://medium.com/@genesismining", "https://plus.google.com/share?", "https://plus.google.com/share?url=https%3A%2F%2Fyotpo.com%2Fgo%2FqbeM5UAk", "https://steemit.com/@genesisminingoff", "https://twitter.com/GenesisMining", "https://vk.com/genesisminingrus", "https://www.facebook.com/GenesisMining", "https://www.facebook.com/GenesisMining/", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3D%26review%3D%26social_title%3D&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAfter%2Bresearch%252C%2BI%2Bhave%2Bdecided%2Bto%2Bgo%2Bwith%2BGenesis%2BMining.%2BWHY%253F%253F%253F%2BBecause%2Bthey%2Bare%2Bthe%2Blargest%2Bcloud%2Bmining%2Bcompanies%2Bin%2Bthe%2Bworld%2521%2521%2521%2BI%2Bguess%2BI%2Blike%2Bhaving%2Ba%2Bsort%2Bof%2Bsafety%2Bnet%2Bby%2Binvesting%2Bin%2Bthe%2Bbiggest.%2BAlso%252C%2Bwith%2BGenesis%252C%2Bthey%2Bhave%2Bregular%2Bdaily%2Bpayouts%2Band%2Blow%2Bmaintenance%2Bfees.%2B%250A%250AAs%2Bfor%2Bthe%2Bregistration%252C%2Bit%2Bwas%2Bpretty%2Bstraight%2Bforward%2Bfor%2Bme.%2BI%2Bheaded%2Bover%2Bto%2Bwww.genesis-mining.com%252C%2Bregistered%2Bfor%2Ban%2Baccount%252C%2Bproceeded%2Bto%2Bselect%2Bmy%2Bpackage%2Band%2Bpaid%2Bwith%2Bmy%2Bcredit%2Bcard.%250A%250AIf%2Byou%2Bplan%2Bto%2Bpurchase%2Busing%2BGenesis%2Bas%2Bwell%252C%2Bplease%2Bgo%2Bahead%2Band%2Bkey%2Bin%2Bthe%2Bfollowing%2Bcode%253A%2Btc9bup%2Bwhich%2Bgives%2Byou%2Ban%2Binstant%2B3%2525%2Bdiscount%2Bon%2Byour%2Bpurchase.%26social_title%3DMy%2BFirst%2BCrytocurrencies%2BVenture%2521%2521%2521&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D53968453", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAlles%2Bbestens%252C%2Baus%2Bmeiner%2BSicht%2Bdie%2Bbeste%2BInvestition.%2BMan%2Bwird%2Bnicht%2BReich%252C%2Baber%2Bmit%2Bden%2Bsteigenden%2BBitcoin%2BPreis%2Bmit%2BSicherheit%2Bgut.%26social_title%3DEinfach%2BGoldwert&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49155012", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAs%2Bsha255%2Bhash%2Bpower%2Bis%2Bsold%2Bout%2Bnow%252C%2Bdagger%2Bhashimoto%2Bis%2Bbest%2Bhash%2Bpower%2Bin%2BGenesis%2BMining.%26social_title%3DNext%2Bto%2Bsha256&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44509577", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAs%2Bthe%2Bprice%2Bof%2Bbitcoin%2Bkeeps%2Bflowing%2Bup%2Bas%2Bbeer%2Bfoam%252C%2Bthe%2Bonly%2Breal%2Bthreat%2Bis%2Bovercoming%2Bdifficulty%252C%2Bgrowing%2Bto%2Bthe%2Bmoon%2Band%2Bbeyond.%250A%250Awell%252C%2Bthis%2Bis%2Ba%2Bgambling%2Bof%2Bbelive%2Bof%2Bwhat%2Bwill%2Bbe%26social_title%3Dit%2Blooks%2Blike%2Ba%2Bprolific%252C%2Bengaged%2Bfuture&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49142049", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DBang%2Bfor%2Bthe%2Bbuck%2521%2Bso%2Bglad%2BI%2Bwas%2Bable%2Bto%2Bplace%2Bthis%2Border%2Bbefore%2Bit%2Bgot%2Bsold%2Bout%2521%26social_title%3DGold%2521&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49134507", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DConcerned%2Babout%2Bthe%2Black%2Bof%2Bpromised%2Bdaily%2Breports%26social_title%3DConcerned%2Babout%2Bthe%2Black%2Bof&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44510430", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DEasy%2Band%2Bso%2Bquicky%2Bsetyp.%2BMining%2Bas%2Byou%2Bpay.%2BChanging%2Brepartition%2Bis%2Ba%2Bnice%2Boption%26social_title%3DEasy%2B%2526%2Bquick%2Bsetup&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49243294", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DEstou%2Bsatisfeito%2Bcom%2Ba%2Bminera%25C3%25A7%25C3%25A3o%2Bat%25C3%25A9%2Bo%2Bmomento.%2BFiz%2Bvalor%2Bpequeno%2Bcomo%2Bteste%252C%2Bpretendo%2Binvestir%2Bmais.%26social_title%3DSatisfeito%2Bcom%2Ba%2Bminera%25C3%25A7%25C3%25A3o&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49134854", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DExcellent%2Bmining%2Bcompany.%2BTrustworthy%252C%2Breliable%2Band%2Ba%2Bgood%2BReturn%2Bon%2BInvestment.%2BJust%2Bbought%2Ba%2Bnew%2BETH%2Bmining%2Bcontract%2Bwhich%2Bis%2Btemporarily%2Bavailable%2Bat%2Bthe%2Bmoment%252C%2Bso%2Bdon%2527t%2Bmiss%2Bout%2Bon%2Bthis%2Boppurtunity%2521%2BBetter%2Bstill%253A%2Bget%2Ba%2B3%2525%2Bdiscount%2Bon%2Byour%2Bpurchase%2Bby%2Busing%2Bthis%2Bcode%2Bat%2Bthe%2Bpayment%2Bpage%253A%2B5nWhDR%26social_title%3DExcellent&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D54497355", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DExcellent%2Breturns%2Band%2Bbonuses%252C%2Bgood%2Bbusiness%2Bmodel%2Band%2Bfair%2Bpricing%2B%2528best%2Bbang%2Bfor%2Bmy%2Bbuck%2Bthat%2BI%2Bcould%2Bfind%2529%2BEasy%2Bto%2Buse%2Bgui.%2Bexcellent%2Baddition%2Bto%2Bmy%2Bphysical%2Bmine.%2Bcustomer%2Bsupport%2Bis%2Bgood.%2BA%252B%2Boverall%26social_title%3DSo%2Bfar%2Bso%2Bgood.%2BExcellent%2Breturns.&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51960905", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DGenesis%2Bmining%2Bhas%2Bbeen%2Ban%2Bexcellent%2Bsource%2Bfor%2Bextra%2Bincome.%2BThere%2Bis%2Bno%2Bother%2Bplan%2Bout%2Bthere%2Bthat%2Bgives%2Band%2BROI%2Blike%2Bcryptocurrencies%2Band%2BGenesis%2Bhas%2Bthe%2Bbest%2Bprices%2Band%2Bguest%2Bservice.%2BPlease%2Buse%2Bthis%2Baffiliate%2Bcode%2Bfor%2B3%2525%2Boff%2Byour%2Bprice%253A%2BTWx9RS%26social_title%3DGenesis%2BMining%2B-%2BDaily%2BExtra%2BIncome&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D53445800", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DGreat%2Bflow%252C%2Bfrom%2Bgetting%2Binfo%2Bto%2Bbuying.%2BSite%2Bis%2Bclean%2Band%2Beverything%2Bis%2Bwell%2Borganized.%2B%250A%250AI%2Bwould%2Bsuggested%2Bone%2Bthing%253A%2BLive%2Bsupport.%2BEven%2Bif%2Buser%2Bknows%2Bthat%2Bhe%2Bneed%2Bto%2Bwait%2B2-3%2Bhours%2Bon%2Blive%2Bsupport%2Bits%2Bmuch%2Bbetter%2Bthen%2Bopening%2Btickets%2Band%2Bdont%2Bknow%2Bwhen%2Bit%2Bwill%2Bbe%2Bseen.%250A%250AAlso%252C%2Byou%2Bmay%2Bwant%2Bto%2Bremove%2Bthis%2B3%2Boffers%2Bat%2Bthe%2Bbottom%2Bof%2Bthis%2Bemail.%2BIt%2Bsuggest%2Bthat%2BI%2Bam%2Bspecial%2Buser%2Band%2BI%2Bcan%2Bbuy%2Bbtc%2Bor%2Bltc%2Bon%2Bspecial%2Bdeal%2Bbut%2BI%2Bcant.%2BIts%2Bjust%2Bold%2Bsale%2BI%2Bguess.%2BOr%2Bmaybe%2BI%2Bam%2Bwrong%2Bbecause%2BI%2Bwould%2Blike%2Bto%2Bget%2Bhigh%2Bbtc%2Bcontract.%250A%250AAfterall%252C%2Beverything%2Bis%2Bwell%2Borganized.%2BKeep%2Bon%2Bthe%2Bgood%2Bwork.%26social_title%3DWell%2Borganized&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51761051", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DHello%252C%2BI%2Bthat%2Bwill%2Bbe%2Bgood%2Binvest%2Bfor%2Bme%2Bno%2Bchildren%2Bgame%2B%253A-%2529%26social_title%3DContract&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44511710", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2BInvested%2Btwo%2Bweeks%2Bago%2Bin%2Bgenesis%2Bmining.%2BSo%2Bfar%2BI%2Bam%2Bsatisfied.%2BI%2Bget%2Bmy%2Bpayouts%2Beveryday%2Band%2BI%2Bhad%2Bno%2Btrouble.%250AI%2Bwould%2Beven%2Blike%2Bto%2Binvest%2Bmore%2Blike%2Bin%2BBitcoin%2Boder%2BEtherum%2Bmining%252C%2Bbut%2Bright%2Bnow%2Bthey%2Bare%2Bjust%2Boffering%2BMonero%2Bmining.%250A%250AIf%2Byou%2Bwant%2Bto%2Btry%2Bit%2Bas%2Bwell%252C%2Buse%2Bthis%2Blink%2Bto%2Bregister%253A%250A%250Ahttps%253A%252F%252Fwww.genesis-mining.com%252Fa%252F2131711%250A%250AIf%2Byou%2Bwant%2Bto%2Bget%2Ba%2Bdiscount%2Bon%2Byour%2Border%252C%2Buse%2Bthis%2Bcode%253A%2B%250A%250AcmVw4K%250A%250ACheers%2BJoe%26social_title%3DI%2BInvested%2Btwo%2Bweeks%2Bago&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52533285", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2Bdon%25E2%2580%2599t%2Bknow%2Byet%252C%2Blooks%2Bgood%2BI%2Bguess%252C%2Bif%2Bonly%2Byou%2Bcould%2Boffer%2Bthe%2Bcontract%2Bfor%2Bbitcoin%2Bthat%2Byou%2Brecommend%2Bin%2Bthe%2Bemail...or%2Bat%2Bleast%2Blet%2Bus%2Bknow%2Bfor%2Bsome%2Bearly%2Bbird%2Bcontracts%2B%26social_title%3DHey&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51690249", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2Bfind%2Bbit%2Bslow%2Breplay%2Band%2Bstill%2Bhave%2Bpending%2Bissues%2Bfor%2Bmor%2Bthan%2Bseveral%2Bdays%26social_title%3Dsupport&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44511590", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2Bhave%2Bdone%2Bmy%2Bown%2Bmining%252C%2Bset%2Bup%2Bservers%252C%2Bcooling%252C%2Band%2Bdata%2Bcenter%2Bspace.%2BFixed%2Bthe%2Bequipment%2Bwhen%2Bit%2Bfailed%2Band%2Bhad%2Bto%2Bmake%2Bsure%2Bit%2Bwas%2Bonline%2Band%2Bsecure%2Bfrom%2Bhackers.%2BGenesis%2BMining%2Bis%2Bso%2Bmuch%2Beasier.%2BI%2Blike%2Bhow%2Bthe%2Bchose%2BIceland%2Bas%2Bthe%2BMining%2Blocation%2Bwith%2Barctic%2Bair%2Band%2Bthermal%2Bpower.%2BThe%2Binterfaces%2Bare%2Beasy%2Bto%2Buse%2Band%2Bthe%2Bprotection%2Byou%2Bfrom%2Bmaking%2Bdumb%2Bmistakes%2Blike%2Btoo%2Bsmall%2Bof%2Bbitcoin%2Bdeposits%2Bthat%2Beat%2Bup%2Ball%2Byour%2Bprofits.%250ABottom%2Bline%2Bthese%2Bguys%2Bare%2Breputable%252C%2Bhonest%252C%2Btransparent%2B%2528twitter%252C%2Bemail%252C%2Bportal%2Bscreens%2529%2Band%2Befficient.%2BLook%2Bno%2Bfurther%2Bthan%2Bhere%2Bif%2Byou%2Bwant%2Bto%2Bmine%2BCrypto%2527s.%26social_title%3DVery%2Bpleased%2Bwith%2Bmy%2Bchoice%2Bof%2BGenesis%2BMining&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52238853", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DMost%2Bplaces%2Bonly%2Boffer%2Bone%2Byear%2Bcontracts%252C%2Bwith%2Bgenesis%2Boffering%2Btwo%2Byears%2Byou%2Bget%2Bthe%2Bmost%2Bbang%2Bfor%2Byour%2Bbuck%2Band%2Bis%2Ba%2Breliable%2Breputable%2Bcompany%2521%26social_title%3DGreat%2BValue&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52291353", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DNice%2Btho%252C%2Bbut%2BGUI%2Bshould%2Bbe%2Blittle%2Bbit%2Bmore%2Bobvious%2Bor%2Bmore%2Bexplainatory%26social_title%3DNice%2Btho%252C%2Bbut%2BGUI%2Bshould&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44515816", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DPlease%2Bdrop%2Band%2Bemail%2Bto%2Bme%2Bif%2Bhashpower%2Bfor%2BBitcoin%2Bis%2Bavailable.%2BI%2Bwant%2Bto%2Bbuy%2Bmore%2Bhashpower.%2BThanks%26social_title%3DI%2Bwish%2Bto%2Bbuy%2Bmore%2Bhashpower&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D48941967", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DSo%2Bfar%2Bhaven%25E2%2580%2599t%2Bgot%2Bany%2Bproblem%2Band%2Bwaiting%2Bfor%2Bmy%2Brecently%2Bpurchased%2Btwo%2Byear%2BMonero%2Bplan%2Bto%2Bbe%2Binetiated..%2Bwill%2Bfeedback%2Bone%2Bemail%2Bmore%2Binteracted%2Bwith%2Bgenesis..%26social_title%3DJust%2Bjoined%2Bgenesis&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51676970", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DThey%2Bwork%2Bfast%2521%2521%2BI%2Bhad%2Ba%2Bproblem%2Bwith%2Bmy%2Baccount%2Band%2BI%2Bsent%2Bthem%2Bemail.%2BThey%2Brespond%2Bwithin%2B10%2Bmins.%2BWebsite%2Bis%2Beasy%2Bto%2Buse.%26social_title%3DGreat%2Bservice&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49429416", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DThis%2Bis%2Bmy%2Bsecond%2Bcontract%2Bwith%2Bthis%2Bcompany%2Band%2Bi%2Bam%2B100%2525%2Bsatisfied%2Bwith%2Bthe%2Bservice%252C%2Bconsistency%2Band%2Bmost%2Bof%2Ball%2Bthe%2Btransparency.%2BUpdates%2Bor%2Bchanges%2Bare%2Bpublished%2Bon%2Bthe%2Bwebsite%2Bas%2Bwell%2Bas%2Bsent%2Bto%2Bmy%2Bemail.%2BGood%2Bstuff.%26social_title%3DBought%2Banother&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52684891", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DWill%2Binvest%2Bin%2Bmore.%2BHash%26social_title%3DLooks%2Bvery%2Bgood&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44514704", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dcheap.%2Bbang%2Bfor%2Bthe%2Bbuck%2Blong%2Bterm%26social_title%3Dbang%2Bfor%2Bthe%2Bbuck&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49281948", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Deverything%2Bwas%2Bok%250Abut%2Bi%2Bhave%2Bdoubts%2B......how%2Bwork%2B3%2525off%2Breward%2Bcode%2B......%253F%26social_title%3Dgood&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49116206", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dgot%2Bpayment%2Bthe%2Bnext%2Bday%2Bi%2Bstarted%26social_title%3Dit%2Bworks&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44515673", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dso%2Bfar%2Bso%2Bgood.%2Bhear%2Bi%2Bmentioned%2Bwhat%2Bi%2Blike%2Bmost%250AFast%252C%2Beasy%2Band%2Bfree%2Bsignup%250A%252A%2BFast%2Band%2Bfriendly%2Bcustomer%2Bcare%252C%2Bquickly%2Bresponding%2Band%2Bresolving%2Bproblems.....%250A%252AInvestments%2Bas%2Blow%2Bas%2B100%2BGHS%2B%252F%2B1%2BMHS%250A%252A%2BEasy%2Bto%2Bunderstand%2Band%2Bto%2Boperate%2Bdashboard%2Bpanel%250A%252A%2BVery%2Bwell%2Bthought%2Bdesign%2Band%2Bgeneral%2Bfunctionality%2Bjust%2Bawesome%250A%252ATwo%2Bfactor%2Bauthentification%250A%252B%2BRefferal%2B%252F%2Bpromo%2Bcode%2Bsystem%26social_title%3Dgenesis%2Bmining%2Bis%2Bout%2Bof%2Bworld&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49002274", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dtrustworthy%2Bsite.%2Byou%2Bsee%2Bthe%2Bresults%2Balready%2Bfrom%2Bthe%2Bfirst%2B24%2Bhours.%2Brecommended%26social_title%3DGood%2Bchoise&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44509460", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dv%2Bgood%26social_title%3Dgood&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44510456", "https://www.instagram.com/GenesisMining_Official", "https://www.linkedin.com/organization/5095028/", "https://www.youtube.com/GenesisMining_Official", "https://www.youtube.com/c/Genesismining_official" ],
-      "social-links-count" : 46,
-      "popularity-boosters" : [ "http://www.genesiscloud.com", "https://blog.genesis-mining.com/", "https://www.genesis-mining.ru/", "https://yotpo.com/go/6nkz2dPn" ],
-      "popularity-boosters-count" : 4
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : {
-      "code_of_conduct" : "https://www.genesis-mining.com/eos",
-      "logo" : null,
-      "url" : "https://www.genesis-mining.com/eos/bp.json"
-    },
-    "place" : 41
-  }, {
-    "bp-header" : {
       "owner" : "eosvenezuela",
-      "total_votes" : "63920977242081848.00000000000000000",
+      "total_votes" : "64000617349618480.00000000000000000",
       "producer_key" : "EOS88r3in9hPXhWwwvjjSsVwcy9hdRQHKtG8zc2FtxFTt7Uo6WmR2",
       "is_active" : 1,
       "url" : "https://eosvenezuela.io",
@@ -80,11 +53,11 @@
       "logo" : "https://s33.postimg.cc/qjyztalbz/256logo.png",
       "url" : "https://eosvenezuela.io/bp.json"
     },
-    "place" : 49
+    "place" : 50
   }, {
     "bp-header" : {
       "owner" : "eosnetworkio",
-      "total_votes" : "1621142280974502.00000000000000000",
+      "total_votes" : "1617694751520923.25000000000000000",
       "producer_key" : "EOS7GpcMsDge5fWhhJrzXVzzg5CKtMHxgV8bESMkyGknezuoUMh6T",
       "is_active" : 1,
       "url" : "http://www.eosnetwork.io",
@@ -107,7 +80,7 @@
   }, {
     "bp-header" : {
       "owner" : "costaricaeos",
-      "total_votes" : "22813522945621908.00000000000000000",
+      "total_votes" : "22813158375816992.00000000000000000",
       "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
       "is_active" : 1,
       "url" : "http://eoscostarica.io",
@@ -134,12 +107,12 @@
   }, {
     "bp-header" : {
       "owner" : "cryptolions1",
-      "total_votes" : "195545020114483296.00000000000000000",
+      "total_votes" : "195641249119540832.00000000000000000",
       "producer_key" : "EOS5yHaUBwhpwFftNjADdVwBpCVybLPg5P3z7HpTbDGjUfpqwWSSf",
       "is_active" : 1,
       "url" : "http://CryptoLions.io",
-      "unpaid_blocks" : 7236,
-      "last_claim_time" : "1530386230500000",
+      "unpaid_blocks" : 1044,
+      "last_claim_time" : "1530472694500000",
       "location" : 804,
       "prepared-url" : "http://CryptoLions.io"
     },
@@ -157,11 +130,11 @@
       "logo" : "http://imgs.cryptolions.io/logo_256.png",
       "url" : "http://CryptoLions.io/bp.json"
     },
-    "place" : 8
+    "place" : 7
   }, {
     "bp-header" : {
       "owner" : "buildteameos",
-      "total_votes" : "1773228392074953.00000000000000000",
+      "total_votes" : "1754197939090245.00000000000000000",
       "producer_key" : "EOS69v4LRsujLS4pdJ2rk91gUaiKzWWkHNDBiRqxLAr1snJLM8QXH",
       "is_active" : 1,
       "url" : "https://buildteam.io/",
@@ -188,11 +161,11 @@
   }, {
     "bp-header" : {
       "owner" : "eosdacserver",
-      "total_votes" : "175319510069269952.00000000000000000",
+      "total_votes" : "175276014834941920.00000000000000000",
       "producer_key" : "EOS7aBPDACAn1SpJDjmaZHSEUgqfNWdUaNawVZhVuEWUx5aoepJf6",
       "is_active" : 1,
       "url" : "https://eosdac.io",
-      "unpaid_blocks" : 1981,
+      "unpaid_blocks" : 4003,
       "last_claim_time" : "1530441256500000",
       "location" : 826,
       "prepared-url" : "https://eosdac.io"
@@ -211,7 +184,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosmesodotio",
-      "total_votes" : "17586645957461656.00000000000000000",
+      "total_votes" : "17586704555610960.00000000000000000",
       "producer_key" : "EOS7ewQ27TB4N6n45gzjpNfh7yKSkwHedJrpJZbMx9yktBpnYTt9m",
       "is_active" : 1,
       "url" : "https://eosmeso.io",
@@ -234,11 +207,11 @@
       "logo" : "https://eosmeso.io/Logo_eosMeso256.png",
       "url" : "https://eosmeso.io/bp.json"
     },
-    "place" : 84
+    "place" : 83
   }, {
     "bp-header" : {
       "owner" : "franceosysbp",
-      "total_votes" : "2334038180912504.50000000000000000",
+      "total_votes" : "2318279297653917.00000000000000000",
       "producer_key" : "EOS7FurktbYTCLzwVpjckHxC2Wx1zuWysUzyjWXhG9fm9E2geV6ZA",
       "is_active" : 1,
       "url" : "https://franceos.fr",
@@ -265,7 +238,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosamsterdam",
-      "total_votes" : "67389741190839560.00000000000000000",
+      "total_votes" : "67417092081518808.00000000000000000",
       "producer_key" : "EOS8HDwgQnKMHAxzva9eyHsPeETv23JSQ6RRzQjJLvCsZ6b1ySgQo",
       "is_active" : 1,
       "url" : "https://eosamsterdam.net",
@@ -292,7 +265,7 @@
   }, {
     "bp-header" : {
       "owner" : "tokenika4eos",
-      "total_votes" : "93919275018130064.00000000000000000",
+      "total_votes" : "93832358859697536.00000000000000000",
       "producer_key" : "EOS8Src8Nd3EoJpewmPzSDjZP8A3iLuHky4itLqWwuCjPNdCztrVL",
       "is_active" : 1,
       "url" : "https://tokenika.io/",
@@ -315,11 +288,11 @@
       "logo" : "https://tokenika.github.io/digital/bp/tokenika_256x256.png",
       "url" : "https://tokenika.io/bp.json"
     },
-    "place" : 37
+    "place" : 36
   }, {
     "bp-header" : {
       "owner" : "eostitanprod",
-      "total_votes" : "34833745569302752.00000000000000000",
+      "total_votes" : "34991775274431156.00000000000000000",
       "producer_key" : "EOS5z4JJRLvNasG4VRWYLRNC5TeLquNM8k5oBWWpRhpf9mgJH9e9K",
       "is_active" : 1,
       "url" : "https://eostitan.com",
@@ -342,11 +315,11 @@
       "logo" : "https://eostitan.com/assets/images/logo_256.jpg",
       "url" : "https://eostitan.com/bp.json"
     },
-    "place" : 59
+    "place" : 57
   }, {
     "bp-header" : {
       "owner" : "eostribeprod",
-      "total_votes" : "133325211553569520.00000000000000000",
+      "total_votes" : "133409406017094496.00000000000000000",
       "producer_key" : "EOS6J5d6rwHJYPZnuv7KRrf5cekTf3atRTjMgbU1YMKuNnrgGvEdE",
       "is_active" : 1,
       "url" : "https://eostribe.io",
@@ -369,12 +342,12 @@
   }, {
     "bp-header" : {
       "owner" : "teamgreymass",
-      "total_votes" : "171395071050322208.00000000000000000",
+      "total_votes" : "171736610919389984.00000000000000000",
       "producer_key" : "EOS4xurP5oZk4WvMUp9neKkw94DJ2iq48GtMD5Dff3GKe6krh2ctR",
       "is_active" : 1,
       "url" : "https://greymass.com",
-      "unpaid_blocks" : 6612,
-      "last_claim_time" : "1530392683500000",
+      "unpaid_blocks" : 432,
+      "last_claim_time" : "1530479085500000",
       "location" : 0,
       "prepared-url" : "https://greymass.com"
     },
@@ -392,11 +365,11 @@
       "logo" : "https://greymass.com/logo.png",
       "url" : "https://greymass.com/bp.json"
     },
-    "place" : 20
+    "place" : 21
   }, {
     "bp-header" : {
       "owner" : "eosnationftw",
-      "total_votes" : "109156428493290576.00000000000000000",
+      "total_votes" : "109062978672810640.00000000000000000",
       "producer_key" : "EOS8PkNNBYU1xnbcjBUNm1mT6N68QiGvCDgPT97rqurLBEjDanSXK",
       "is_active" : 1,
       "url" : "https://bp.eosnation.io",
@@ -419,11 +392,11 @@
       "logo" : "https://eosnation.keybase.pub/logo_256.png",
       "url" : "https://bp.eosnation.io/bp.json"
     },
-    "place" : 30
+    "place" : 29
   }, {
     "bp-header" : {
       "owner" : "eoslithuania",
-      "total_votes" : "1172568560073674.00000000000000000",
+      "total_votes" : "1178264632316005.50000000000000000",
       "producer_key" : "EOS8EhBDNGiqHtwhmPyxFqsqAZfirZUzhqvaErbFVbQem7i5QrNXk",
       "is_active" : 1,
       "url" : "https://eosio.lt/",
@@ -449,13 +422,40 @@
     "place" : 148
   }, {
     "bp-header" : {
+      "owner" : "eosgenblockp",
+      "total_votes" : "81560352628784048.00000000000000000",
+      "producer_key" : "EOS65tu7JUi74KL1JAffKYtMw6HRKnxD1LAxLBFoCvcdfBB9AMU8n",
+      "is_active" : 1,
+      "url" : "https://www.genesis-mining.com/eos",
+      "unpaid_blocks" : 360,
+      "last_claim_time" : "1530205928000000",
+      "location" : 0,
+      "prepared-url" : "https://www.genesis-mining.com/eos"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 35,
+      "duplicate-urls" : null,
+      "social-links" : [ "http://www.instagram.com/genesismining_official", "http://www.medium.com/@genesismining", "https://medium.com/@genesismining", "https://steemit.com/@genesisminingoff", "https://twitter.com/GenesisMining", "https://vk.com/genesisminingrus", "https://www.facebook.com/GenesisMining", "https://www.facebook.com/GenesisMining/", "https://www.instagram.com/GenesisMining_Official", "https://www.linkedin.com/organization/5095028/", "https://www.youtube.com/GenesisMining_Official", "https://www.youtube.com/c/Genesismining_official" ],
+      "social-links-count" : 12,
+      "popularity-boosters" : [ "http://www.genesiscloud.com", "https://blog.genesis-mining.com/", "https://www.genesis-mining.ru/" ],
+      "popularity-boosters-count" : 3
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : {
+      "code_of_conduct" : "https://www.genesis-mining.com/eos",
+      "logo" : null,
+      "url" : "https://www.genesis-mining.com/eos/bp.json"
+    },
+    "place" : 42
+  }, {
+    "bp-header" : {
       "owner" : "eoscanadacom",
-      "total_votes" : "190546818298420960.00000000000000000",
+      "total_votes" : "190956226858080448.00000000000000000",
       "producer_key" : "EOS5HYV7rWeRxpZMCooe8YHRFQHKK7ncdmmUMTe3wCMaY2EvyVzUx",
       "is_active" : 1,
       "url" : "https://www.eoscanada.com",
-      "unpaid_blocks" : 7887,
-      "last_claim_time" : "1530379296500000",
+      "unpaid_blocks" : 1716,
+      "last_claim_time" : "1530465699500000",
       "location" : 0,
       "prepared-url" : "https://www.eoscanada.com"
     },
@@ -473,11 +473,11 @@
       "logo" : "https://cdn2.hubspot.net/hubfs/4518039/eos-canada-logo-square-256px.png",
       "url" : "https://www.eoscanada.com/bp.json"
     },
-    "place" : 11
+    "place" : 9
   }, {
     "bp-header" : {
       "owner" : "eosamericas2",
-      "total_votes" : "3693760440222265.00000000000000000",
+      "total_votes" : "3693257896884053.50000000000000000",
       "producer_key" : "EOS76jasQrUqZ56mkmERw9mZy6UfXcJ8oX5m3FYsHLcJbkhqkKDD7",
       "is_active" : 1,
       "url" : "http://www.eosamericas.com",
@@ -504,7 +504,7 @@
   }, {
     "bp-header" : {
       "owner" : "okcapitalbp1",
-      "total_votes" : "5542463268811032.00000000000000000",
+      "total_votes" : "5542474844405128.00000000000000000",
       "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
       "is_active" : 1,
       "url" : "https://www.okex.com/eosbp/",
@@ -527,7 +527,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosgreeniobp",
-      "total_votes" : "2851457565578845.00000000000000000",
+      "total_votes" : "2851584824735005.00000000000000000",
       "producer_key" : "EOS6gBhD9Dm7qcJuR5WFuxNo6aH15csHP8uss8esejuNoEUmRZUR9",
       "is_active" : 1,
       "url" : "https://eosgreen.io",
@@ -554,11 +554,11 @@
   }, {
     "bp-header" : {
       "owner" : "argentinaeos",
-      "total_votes" : "170851961638868352.00000000000000000",
+      "total_votes" : "171754410704173664.00000000000000000",
       "producer_key" : "EOS7n4UUEDQRWeJ5UmCf9yqWXY5fsTtbo78HyYa5uBbM1xwa5DwRj",
       "is_active" : 1,
       "url" : "https://www.eosargentina.io",
-      "unpaid_blocks" : 2904,
+      "unpaid_blocks" : 3037,
       "last_claim_time" : "1530379262000000",
       "location" : 0,
       "prepared-url" : "https://www.eosargentina.io"
@@ -577,11 +577,11 @@
       "logo" : "https://www.eosargentina.io/assets/img/eosar_logo_256.png",
       "url" : "https://www.eosargentina.io/bp.json"
     },
-    "place" : 21
+    "place" : 20
   }, {
     "bp-header" : {
       "owner" : "eossv12eossv",
-      "total_votes" : "59248301575773488.00000000000000000",
+      "total_votes" : "66889586540070672.00000000000000000",
       "producer_key" : "EOS7fv6nadePJBdCiWyR2Ldz5YWyzJGMBkEo47zUSWFttduQhHHaa",
       "is_active" : 1,
       "url" : "https://eossiliconvalley.io",
@@ -603,15 +603,15 @@
       "logo" : null,
       "url" : "https://eossiliconvalley.io/bp.json"
     },
-    "place" : 50
+    "place" : 48
   }, {
     "bp-header" : {
       "owner" : "eosasia11111",
-      "total_votes" : "174413181990323008.00000000000000000",
+      "total_votes" : "174406507325418208.00000000000000000",
       "producer_key" : "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
       "is_active" : 1,
       "url" : "https://www.eosasia.one",
-      "unpaid_blocks" : 8196,
+      "unpaid_blocks" : 10259,
       "last_claim_time" : "1530376070500000",
       "location" : 344,
       "prepared-url" : "https://www.eosasia.one"
@@ -630,7 +630,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosgermanybp",
-      "total_votes" : "11971979333962212.00000000000000000",
+      "total_votes" : "12035636607786690.00000000000000000",
       "producer_key" : "EOS6KTbE5ktt6snuTGoQYFibvC3w86T7NVpYLhUFamNNPNJxgUSZ8",
       "is_active" : 1,
       "url" : "https://eosgermany.one",
@@ -653,7 +653,7 @@
       "logo" : "https://keybase.pub/eosgermanybp/branding/logo_256.png",
       "url" : "https://eosgermany.one/bp.json"
     },
-    "place" : 96
+    "place" : 95
   }, {
     "bp-header" : {
       "owner" : "eoslanddotca",
@@ -676,11 +676,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 237
+    "place" : 238
   }, {
     "bp-header" : {
       "owner" : "blocksmithio",
-      "total_votes" : "76855774981970528.00000000000000000",
+      "total_votes" : "76902443044931296.00000000000000000",
       "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
       "is_active" : 1,
       "url" : "https://eosblocksmith.io",
@@ -703,16 +703,16 @@
       "logo" : "https://eosblocksmith.io/eosblocksmith_256.jpg",
       "url" : "https://eosblocksmith.io/bp.json"
     },
-    "place" : 43
+    "place" : 44
   }, {
     "bp-header" : {
       "owner" : "eosdublinwow",
-      "total_votes" : "70686886215247560.00000000000000000",
+      "total_votes" : "70601349131288912.00000000000000000",
       "producer_key" : "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
       "is_active" : 1,
       "url" : "https://www.eosdublin.com",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530385511500000",
+      "last_claim_time" : "1530479574500000",
       "location" : 372,
       "prepared-url" : "https://www.eosdublin.com"
     },
@@ -734,7 +734,7 @@
   }, {
     "bp-header" : {
       "owner" : "theeosdublin",
-      "total_votes" : "114646042404039.07812500000000000",
+      "total_votes" : "114652813360956.51562500000000000",
       "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
       "is_active" : 0,
       "url" : "https://eosdublin.com",
@@ -757,16 +757,16 @@
       "logo" : "https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/logo_light_256.png",
       "url" : "https://eosdublin.com/bp.json"
     },
-    "place" : 209
+    "place" : 210
   }, {
     "bp-header" : {
       "owner" : "eosmetaliobp",
-      "total_votes" : "28318904221051316.00000000000000000",
+      "total_votes" : "28407071530284924.00000000000000000",
       "producer_key" : "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
       "is_active" : 1,
       "url" : "https://eosmetal.io",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530347969000000",
+      "last_claim_time" : "1530464098000000",
       "location" : 352,
       "prepared-url" : "https://eosmetal.io"
     },
@@ -783,11 +783,11 @@
       "logo" : "https://eosmetal.io/img/logo-256.png",
       "url" : "https://eosmetal.io/bp.json"
     },
-    "place" : 71
+    "place" : 72
   }, {
     "bp-header" : {
       "owner" : "eosiodetroit",
-      "total_votes" : "15078397987043194.00000000000000000",
+      "total_votes" : "15095426387173142.00000000000000000",
       "producer_key" : "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
       "is_active" : 1,
       "url" : "https://eosdetroit.io",
@@ -809,7 +809,7 @@
       "logo" : "https://eosdetroit.io/images/eos-detroit_256.png",
       "url" : "https://eosdetroit.io/bp.json"
     },
-    "place" : 88
+    "place" : 87
   }, {
     "bp-header" : {
       "owner" : "gu2tembqgage",
@@ -823,20 +823,20 @@
       "prepared-url" : "https://www.cardano.org"
     },
     "analyzed-urls" : {
-      "relative-links-count" : 16,
+      "relative-links-count" : 15,
       "duplicate-urls" : null,
-      "social-links" : [ "https://en-gb.facebook.com/CardanoFoundation/", "https://github.com/input-output-hk/cardano-sl/", "https://t.me/CardanoChinaOfficial", "https://twitter.com/CardanoStiftung", "https://twitter.com/cardanocom", "https://www.facebook.com/groups/CardanoCommunity", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
+      "social-links" : [ "https://en-gb.facebook.com/CardanoFoundation/", "https://github.com/input-output-hk/cardano-sl/", "https://t.me/CardanoAnnouncements", "https://twitter.com/CardanoStiftung", "https://twitter.com/cardanocom", "https://www.facebook.com/groups/CardanoCommunity", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
       "social-links-count" : 8,
-      "popularity-boosters" : [ "en/cookie-policy", "en/privacy-policy", "en/terms-of-use", "http://cardanofoundation.org/cn/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "http://daedaluswallet.io/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "http://emurgo.io/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://cardanodocs.com/introduction/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://cardanoexplorer.com/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://cardanofoundation.org/cn/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://cardanoroadmap.com/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://cardanoroadmap.com/cn/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://daedaluswallet.io/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://emurgo.io/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://forum.cardano.org", "https://forum.cardano.org/", "https://help.cardano.org/", "https://iohk.io/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://iohk.io/projects/cardano/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019", "https://staking.cardano.org/cn/", "https://whycardano.com/?__hstc=64163184.4772183a5b216860596cd93a0992cae9.1530464114068.1530464114068.1530464114068.1&__hssc=64163184.1.1530464114068&__hsfp=886386019" ],
+      "popularity-boosters" : [ "en/cookie-policy", "en/ouroboros/", "en/privacy-policy", "en/terms-of-use", "http://cardanofoundation.org/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "http://daedaluswallet.io/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "http://emurgo.io/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://cardanodocs.com/introduction/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://cardanoexplorer.com/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://cardanofoundation.org/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://cardanoroadmap.com/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://daedaluswallet.io/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://emurgo.io/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://forum.cardano.org", "https://forum.cardano.org/", "https://help.cardano.org/", "https://iohk.io/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://iohk.io/projects/cardano/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019", "https://staking.cardano.org/", "https://whycardano.com/?__hstc=64163184.bc2f36e859fa920ccc4f8dea595f1bd5.1530485552959.1530485552959.1530485552959.1&__hssc=64163184.1.1530485552959&__hsfp=886386019" ],
       "popularity-boosters-count" : 20
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 243
+    "place" : 244
   }, {
     "bp-header" : {
       "owner" : "eosonoeosono",
-      "total_votes" : "30631655641858384.00000000000000000",
+      "total_votes" : "30686408583159596.00000000000000000",
       "producer_key" : "EOS5AHfFwaJxjMPkrufw4aCTFvJJUVgpwqwvghhYrFahik7oxaXah",
       "is_active" : 1,
       "url" : "https://ono.chat",
@@ -859,11 +859,11 @@
       "logo" : "",
       "url" : "https://ono.chat/bp.json"
     },
-    "place" : 65
+    "place" : 66
   }, {
     "bp-header" : {
       "owner" : "sheleaders21",
-      "total_votes" : "43769846499700232.00000000000000000",
+      "total_votes" : "38358582269642296.00000000000000000",
       "producer_key" : "EOS7LGK4aCwe69AB9f796fdTaiz4zCQPCUV1mLU8Qwm4voAgWbQ96",
       "is_active" : 1,
       "url" : "https://www.sheleaders.one/",
@@ -881,11 +881,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 54
+    "place" : 56
   }, {
     "bp-header" : {
       "owner" : "alohaeosprod",
-      "total_votes" : "5981291473112898.00000000000000000",
+      "total_votes" : "6019835306895091.00000000000000000",
       "producer_key" : "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
       "is_active" : 1,
       "url" : "https://www.alohaeos.com",
@@ -911,7 +911,7 @@
   }, {
     "bp-header" : {
       "owner" : "eospaceioeos",
-      "total_votes" : "9865856447442936.00000000000000000",
+      "total_votes" : "9866840745602920.00000000000000000",
       "producer_key" : "EOS7dZPHgFJXwHz84JWf5QgybxLpp95cxYE5c4yngsrSqgVFczaPs",
       "is_active" : 1,
       "url" : "https://eospace.io",
@@ -930,11 +930,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 101
+    "place" : 100
   }, {
     "bp-header" : {
       "owner" : "blockchained",
-      "total_votes" : "3800971724409612.00000000000000000",
+      "total_votes" : "3828508115467448.50000000000000000",
       "producer_key" : "EOS7NkhhRMNz4HoBxvea27gsWJoYjaWzWQCBSmkToZP1cC5e5uMp6",
       "is_active" : 1,
       "url" : "https://eos.blckchnd.com",
@@ -957,7 +957,7 @@
   }, {
     "bp-header" : {
       "owner" : "eossocalprod",
-      "total_votes" : "12942591152434828.00000000000000000",
+      "total_votes" : "12884788656562248.00000000000000000",
       "producer_key" : "EOS777j1G9Xmm63PLhVL5mvKLhGBmUznC3CvNKWeJXnGE3RqygfYu",
       "is_active" : 1,
       "url" : "http://eossocal.io",
@@ -1003,11 +1003,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 207
+    "place" : 208
   }, {
     "bp-header" : {
       "owner" : "acroeos12345",
-      "total_votes" : "26425623517219812.00000000000000000",
+      "total_votes" : "26445765576407612.00000000000000000",
       "producer_key" : "EOS56PyKoHXwyRkwDzr2uNhgDRioPoq5TwdN8Pm2hQGko7jrup2W5",
       "is_active" : 1,
       "url" : "http://www.acroeos.one",
@@ -1025,11 +1025,11 @@
     },
     "p-ram-amounts" : [ "RAM" ],
     "bp-json-summary" : null,
-    "place" : 72
+    "place" : 73
   }, {
     "bp-header" : {
       "owner" : "eosnairobike",
-      "total_votes" : "66670118924362192.00000000000000000",
+      "total_votes" : "66770361284769120.00000000000000000",
       "producer_key" : "EOS54UAELQVaMrc1y98W7KsfLbBchvsQg7FCEYpoiQLi5y1Gvyqcy",
       "is_active" : 1,
       "url" : "http://www.eosnairobi.io",
@@ -1052,15 +1052,15 @@
       "logo" : "https://www.eosnairobi.io/api_images/emblem.png",
       "url" : "http://www.eosnairobi.io/bp.json"
     },
-    "place" : 48
+    "place" : 49
   }, {
     "bp-header" : {
       "owner" : "eosnewyorkio",
-      "total_votes" : "218374938030268640.00000000000000000",
+      "total_votes" : "218529236888549920.00000000000000000",
       "producer_key" : "EOS6GVX8eUqC1gN1293B3ivCNbifbr1BT6gzTFaQBXzWH9QNKVM4X",
       "is_active" : 1,
       "url" : "https://bp.eosnewyork.io",
-      "unpaid_blocks" : 804,
+      "unpaid_blocks" : 2867,
       "last_claim_time" : "1530453637000000",
       "location" : 184,
       "prepared-url" : "https://bp.eosnewyork.io"
@@ -1082,7 +1082,7 @@
   }, {
     "bp-header" : {
       "owner" : "jedaaaaaaaaa",
-      "total_votes" : "114277166069157808.00000000000000000",
+      "total_votes" : "114353802934145104.00000000000000000",
       "producer_key" : "EOS5XP49jx9eJNQZjqvP7pfKNaAe5JmyAbPZMdsiqD61QQEExqUYe",
       "is_active" : 1,
       "url" : "http://www.eosjapan.org",
@@ -1109,7 +1109,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosvancouver",
-      "total_votes" : "4257725077526286.00000000000000000",
+      "total_votes" : "4265502894789010.00000000000000000",
       "producer_key" : "EOS7iENfXSAhKVxbi4cjviazqKYM58vpsPYEkkJHJxabsPiYk1aHs",
       "is_active" : 1,
       "url" : "http://www.eosvan.io",
@@ -1136,7 +1136,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosiosg11111",
-      "total_votes" : "14755419525446410.00000000000000000",
+      "total_votes" : "14791544909884916.00000000000000000",
       "producer_key" : "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
       "is_active" : 1,
       "url" : "https://eosio.sg",
@@ -1155,7 +1155,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 89
+    "place" : 88
   }, {
     "bp-header" : {
       "owner" : "eosmiamidade",
@@ -1182,7 +1182,7 @@
       "logo" : "http://eos.miami/wp-content/uploads/2018/06/eos-miami-copy-e1528281185812.png",
       "url" : "http://eos.miami/bp.json"
     },
-    "place" : 217
+    "place" : 218
   }, {
     "bp-header" : {
       "owner" : "mixbytevaran",
@@ -1232,7 +1232,7 @@
   }, {
     "bp-header" : {
       "owner" : "sheos21sheos",
-      "total_votes" : "96714756132089216.00000000000000000",
+      "total_votes" : "91394045495057664.00000000000000000",
       "producer_key" : "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
       "is_active" : 1,
       "url" : "https://sheos.org",
@@ -1250,11 +1250,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 36
+    "place" : 37
   }, {
     "bp-header" : {
       "owner" : "eoscybexiobp",
-      "total_votes" : "37625572559115256.00000000000000000",
+      "total_votes" : "32371380917995292.00000000000000000",
       "producer_key" : "EOS5dN7CQRh98Ecx4mZNgq9DWLFJALPGmaFuuG3MYCRrVfUmDTV45",
       "is_active" : 1,
       "url" : "https://eos.cybex.io/",
@@ -1272,11 +1272,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 58
+    "place" : 64
   }, {
     "bp-header" : {
       "owner" : "saltblockeos",
-      "total_votes" : "9376406160544332.00000000000000000",
+      "total_votes" : "9761178202790234.00000000000000000",
       "producer_key" : "EOS6RyLR15bpUN9X9BXxBkk1sQVv2k9PVSSCtfh9kHsf2XXFNcSLC",
       "is_active" : 1,
       "url" : "https://www.saltblock.io",
@@ -1298,29 +1298,7 @@
       "logo" : "https://www.saltblock.io/256x256.png",
       "url" : "https://www.saltblock.io/bp.json"
     },
-    "place" : 104
-  }, {
-    "bp-header" : {
-      "owner" : "activeeoscom",
-      "total_votes" : "444479422881990.81250000000000000",
-      "producer_key" : "EOS788SrVzZ3mJt3WUZkmYadjFJCisJGhZRTp85EznxEaqsARN26w",
-      "is_active" : 1,
-      "url" : "https://www.activeeos.com",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 840,
-      "prepared-url" : "https://www.activeeos.com"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 2,
-      "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/activeeos", "https://github.com/activeeos/eos-helm", "https://github.com/activeeos/nodeos-monitor", "https://t.me/activeeosforum", "https://twitter.com/activeeos", "https://www.meetup.com/LA-Decentralized-Web/" ],
-      "social-links-count" : 6,
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : null,
-    "place" : 163
+    "place" : 101
   }, {
     "bp-header" : {
       "owner" : "hezdsnbshege",
@@ -1378,20 +1356,20 @@
       "prepared-url" : "https://www.fifa.com/worldcup/"
     },
     "analyzed-urls" : {
-      "relative-links-count" : 81,
+      "relative-links-count" : 83,
       "duplicate-urls" : null,
       "social-links" : [ "https://twitter.com/FifaWorldCup", "https://www.facebook.com/fifaworldcup", "https://www.instagram.com/fifaworldcup/", "https://www.weibo.com/FIFAWorldCup?is_hot=1", "https://www.youtube.com/FIFATV" ],
       "social-links-count" : 5,
-      "popularity-boosters" : [ "http://ar.fifa.com", "http://de.fifa.com", "http://en.fifa.com", "http://es.fifa.com", "http://fifa.com/store/index.html", "http://fr.fifa.com", "http://ru.fifa.com", "http://store.fifa.com/", "http://welcome2018.com/en/", "http://www.hisense.com", "http://www.kia.com/worldwide", "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id=64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Ftheclub%2Ftools%2Fcomment%2F_ms_login_handler.htmx&scope=openid%20offline_access&response_type=code&response_mode=form_post&state=aHR0cHM6Ly93d3cuZmlmYS5jb20vd29ybGRjdXAvI2xvZ2lu&ui_locales=en", "https://bracketchallenge.fifa.com/", "https://dreamteam.fifa.com/en/home?ignoredeeplink=true", "https://dreamteam.fifa.com/en?ignoredeeplink=true", "https://fifaofficial.cn", "https://fifaofficial.cn/", "https://football-technology.fifa.com/en/innovations/var-at-the-world-cup/?utm_source=FIFA.com&utm_medium=Teaser_VAR_WC&utm_campaign=Teaser+-+FIFA.com", "https://i.fanpic.co/fifa/360fanpic?ignoredeeplink=true", "https://paninistickeralbum.fifa.com", "https://predictor.fifa.com/en?ignoredeeplink=true" ],
-      "popularity-boosters-count" : 21
+      "popularity-boosters" : [ "http://ar.fifa.com", "http://de.fifa.com", "http://en.fifa.com", "http://es.fifa.com", "http://fifa.com/store/index.html", "http://fr.fifa.com", "http://ru.fifa.com", "http://store.fifa.com/", "http://welcome2018.com/en/", "http://www.hisense.com", "http://www.kia.com/worldwide", "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id=64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Ftheclub%2Ftools%2Fcomment%2F_ms_login_handler.htmx&scope=openid%20offline_access&response_type=code&response_mode=form_post&state=aHR0cHM6Ly93d3cuZmlmYS5jb20vd29ybGRjdXAvI2xvZ2lu&ui_locales=en", "https://bracketchallenge.fifa.com/", "https://dreamteam.fifa.com/en?ignoredeeplink=true", "https://fifaofficial.cn", "https://fifaofficial.cn/", "https://football-technology.fifa.com/en/innovations/var-at-the-world-cup/?utm_source=FIFA.com&utm_medium=Teaser_VAR_WC&utm_campaign=Teaser+-+FIFA.com", "https://paninistickeralbum.fifa.com", "https://predictor.fifa.com/en?ignoredeeplink=true" ],
+      "popularity-boosters-count" : 19
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 251
+    "place" : 252
   }, {
     "bp-header" : {
       "owner" : "eospalliumss",
-      "total_votes" : "1115925610825067.25000000000000000",
+      "total_votes" : "1116372553365962.37500000000000000",
       "producer_key" : "EOS62ThFzb79uGUSedeE2rCLucFAKBoEEmfNyhfd7Y8Qcr9EvCYny",
       "is_active" : 1,
       "url" : "http://eospalliums.org",
@@ -1418,11 +1396,11 @@
   }, {
     "bp-header" : {
       "owner" : "bitfinexeos1",
-      "total_votes" : "187411797831611264.00000000000000000",
+      "total_votes" : "187542743264930592.00000000000000000",
       "producer_key" : "EOS6sgKjHUFtY1XxxQaMDwfxBac6nDBibVzZHb8LFMVmvSjcCdDhE",
       "is_active" : 1,
       "url" : "https://www.bitfinex.com",
-      "unpaid_blocks" : 2868,
+      "unpaid_blocks" : 4919,
       "last_claim_time" : "1530432001500000",
       "location" : 0,
       "prepared-url" : "https://www.bitfinex.com"
@@ -1437,11 +1415,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 14
+    "place" : 13
   }, {
     "bp-header" : {
       "owner" : "eosriobrazil",
-      "total_votes" : "161547383051105024.00000000000000000",
+      "total_votes" : "161698558328996896.00000000000000000",
       "producer_key" : "EOS7RioGoHQnhv2fJEiciP9Q7J8JgfJYFcyofVkmCqMop8Q1PzgqP",
       "is_active" : 1,
       "url" : "https://eosrio.io",
@@ -1464,7 +1442,7 @@
       "logo" : "https://eosrio.io/wp-content/uploads/2018/06/logo-eosrio-square-bgblack-1.jpg",
       "url" : "https://eosrio.io/bp.json"
     },
-    "place" : 23
+    "place" : 22
   }, {
     "bp-header" : {
       "owner" : "prospectors1",
@@ -1514,16 +1492,16 @@
       "logo" : "http://eosfuture.io/eosf_std.png",
       "url" : "http://eosfuture.io/bp.json"
     },
-    "place" : 232
+    "place" : 233
   }, {
     "bp-header" : {
       "owner" : "eos42freedom",
-      "total_votes" : "184454871837759296.00000000000000000",
+      "total_votes" : "184318796170829696.00000000000000000",
       "producer_key" : "EOS4tw7vH62TcVtMgm2tjXzn9hTuHEBbGPUK2eos42ssY7ip4LTzu",
       "is_active" : 1,
       "url" : "https://www.eos42.io",
-      "unpaid_blocks" : 6444,
-      "last_claim_time" : "1530394502500000",
+      "unpaid_blocks" : 240,
+      "last_claim_time" : "1530481202000000",
       "location" : 826,
       "prepared-url" : "https://www.eos42.io"
     },
@@ -1545,7 +1523,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosafricaone",
-      "total_votes" : "78242033713088656.00000000000000000",
+      "total_votes" : "77978673417403584.00000000000000000",
       "producer_key" : "EOS5HG6pV9FXK64uJSr2GPXfiBEk8GRRedZDcRVXw8mZNuQ51QdMW",
       "is_active" : 1,
       "url" : "http://bp.eosio.africa",
@@ -1568,7 +1546,7 @@
       "logo" : "",
       "url" : "http://bp.eosio.africa/bp.json"
     },
-    "place" : 42
+    "place" : 43
   }, {
     "bp-header" : {
       "owner" : "swedencornet",
@@ -1595,15 +1573,15 @@
       "logo" : "http://eossweden.eu/images/logo/eos-sweden-swedencornet-logo-256px.jpg",
       "url" : "http://eossweden.eu/bp.json"
     },
-    "place" : 241
+    "place" : 242
   }, {
     "bp-header" : {
       "owner" : "eosstorebest",
-      "total_votes" : "192063836180679360.00000000000000000",
+      "total_votes" : "186771373894483008.00000000000000000",
       "producer_key" : "EOS8FrjiXUDAFc8pSQkFejk1zRxyALnqPbYdJsqhAwKMya3tY7TaU",
       "is_active" : 1,
       "url" : "http://www.eos.store",
-      "unpaid_blocks" : 27270,
+      "unpaid_blocks" : 29312,
       "last_claim_time" : "1530175809000000",
       "location" : 900,
       "prepared-url" : "http://www.eos.store"
@@ -1618,11 +1596,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 10
+    "place" : 14
   }, {
     "bp-header" : {
       "owner" : "eoscafeblock",
-      "total_votes" : "129489102589145312.00000000000000000",
+      "total_votes" : "129445284666531504.00000000000000000",
       "producer_key" : "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
       "is_active" : 1,
       "url" : "https://eoscafecalgary.com",
@@ -1649,7 +1627,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosvibesbloc",
-      "total_votes" : "22914194167557632.00000000000000000",
+      "total_votes" : "23114714679619472.00000000000000000",
       "producer_key" : "EOS5wjoLzkppkupmajDM59StKoFSR9AZugfnRSkuBZKDgTrBHP6ZZ",
       "is_active" : 1,
       "url" : "https://eosvibes.io",
@@ -1676,7 +1654,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosgalaxybp1",
-      "total_votes" : "12868771774498632.00000000000000000",
+      "total_votes" : "7467796821700881.00000000000000000",
       "producer_key" : "EOS6yVYyJd5nrGG86FbM3BM7eV91pdykxqvbnHPWoYzCsMy2Uc16r",
       "is_active" : 1,
       "url" : "http://www.eosgalaxy.io",
@@ -1695,11 +1673,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 92
+    "place" : 109
   }, {
     "bp-header" : {
       "owner" : "eosnodeonebp",
-      "total_votes" : "103980978933615424.00000000000000000",
+      "total_votes" : "103663221004301776.00000000000000000",
       "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
       "is_active" : 1,
       "url" : "http://www.eosnodeone.io",
@@ -1721,11 +1699,11 @@
       "logo" : "https://www.eosnodeone.io/resources/images/eosnodeone_logo_256.png",
       "url" : "http://www.eosnodeone.io/bp.json"
     },
-    "place" : 32
+    "place" : 31
   }, {
     "bp-header" : {
       "owner" : "eosindiaiobp",
-      "total_votes" : "2128888032609836.75000000000000000",
+      "total_votes" : "2123924474028530.75000000000000000",
       "producer_key" : "EOS5CDcGnvygWYfCT9kig3KjAsLeMAngc47m3oUWeA3Fs641f4n3B",
       "is_active" : 1,
       "url" : "https://eosindia.io/bp_info.json",
@@ -1761,7 +1739,7 @@
       "prepared-url" : "https://eosweb.net/"
     },
     "analyzed-urls" : {
-      "relative-links-count" : 35,
+      "relative-links-count" : 3,
       "duplicate-urls" : null,
       "social-links" : [ "https://medium.com/@EoswebN", "https://t.me/eosweb", "https://twitter.com/EoswebN", "https://www.facebook.com/EOSwebnet-199076424068961", "https://www.reddit.com/user/eosweb" ],
       "social-links-count" : 5,
@@ -1792,11 +1770,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 260
+    "place" : 261
   }, {
     "bp-header" : {
       "owner" : "bp2bp2bp2bp2",
-      "total_votes" : "37815405791401888.00000000000000000",
+      "total_votes" : "32445255977340316.00000000000000000",
       "producer_key" : "EOS64imhc1mStfLdkK6Po3juwwyiiSD9RsevSoSWx8vBqP3opUx2L",
       "is_active" : 1,
       "url" : "https://bpsquared.bp2.io",
@@ -1819,15 +1797,15 @@
       "logo" : "https://bpsquared.bp2.io/img/bpsquared-256.png",
       "url" : "https://bpsquared.bp2.io/bp.json"
     },
-    "place" : 57
+    "place" : 63
   }, {
     "bp-header" : {
       "owner" : "eoscannonchn",
-      "total_votes" : "233055976437947008.00000000000000000",
+      "total_votes" : "228062808766157952.00000000000000000",
       "producer_key" : "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
       "is_active" : 1,
       "url" : "https://eoscannon.io/",
-      "unpaid_blocks" : 2965,
+      "unpaid_blocks" : 5028,
       "last_claim_time" : "1530431009500000",
       "location" : 0,
       "prepared-url" : "https://eoscannon.io/"
@@ -1850,7 +1828,7 @@
   }, {
     "bp-header" : {
       "owner" : "eoswenzhoubp",
-      "total_votes" : "40944540957989472.00000000000000000",
+      "total_votes" : "41229420526049704.00000000000000000",
       "producer_key" : "EOS5SQjv1G8uaxqkXh6Z5nWbKqumhGj91NMq7qkYuvT9YS45QcZsA",
       "is_active" : 1,
       "url" : "http://eoswz.com",
@@ -1869,7 +1847,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 56
+    "place" : 54
   }, {
     "bp-header" : {
       "owner" : "roelandp1eos",
@@ -1899,7 +1877,7 @@
   }, {
     "bp-header" : {
       "owner" : "eospaygatebp",
-      "total_votes" : "8142613396530850.00000000000000000",
+      "total_votes" : "8152145924702924.00000000000000000",
       "producer_key" : "EOS6An3xHstoTrAjhALB4R5LzTgwvcXZL5hTNtFeNyFRXutJiq1WJ",
       "is_active" : 1,
       "url" : "https://bp.eospay.host",
@@ -1921,11 +1899,11 @@
       "logo" : "https://ipfs.eospay.host/ipfs/QmPBKeAcC8JKVMigtxgyhhC5asQPQwd1hK1MrhkDkDZXHU",
       "url" : "https://bp.eospay.host/bp.json"
     },
-    "place" : 106
+    "place" : 105
   }, {
     "bp-header" : {
       "owner" : "philippinebp",
-      "total_votes" : "57527131924692032.00000000000000000",
+      "total_votes" : "57597032408538784.00000000000000000",
       "producer_key" : "EOS76UAdwK6qUcYH7BkxczdQn1KykW6ujKkF6dmJw6HiCx8Sp3sMb",
       "is_active" : 1,
       "url" : "https://eosph.io",
@@ -1952,7 +1930,7 @@
   }, {
     "bp-header" : {
       "owner" : "dutcheosxxxx",
-      "total_votes" : "7399272382867438.00000000000000000",
+      "total_votes" : "7409958231855529.00000000000000000",
       "producer_key" : "EOS7zv7RMS5SuSRDfBzv7DUbS9ovf3MRvDyAkBum6AitpDs5NtMmT",
       "is_active" : 1,
       "url" : "https://dutcheos.io",
@@ -1978,12 +1956,39 @@
     "place" : 110
   }, {
     "bp-header" : {
+      "owner" : "eoschainbmok",
+      "total_votes" : "144347901243792.15625000000000000",
+      "producer_key" : "EOS6dQ4BGsiDUJeGxbd6ZBjY7WTpWNNBPSa5RKCPp3URdSNTtHR7u",
+      "is_active" : 1,
+      "url" : "http://www.aibilink.com",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 852,
+      "prepared-url" : "http://www.aibilink.com"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 15,
+      "duplicate-urls" : null,
+      "social-links" : [ "http://weibo.com/aibilink", "http://www.facebook.com/aibilink", "https://twitter.com/AiBiLink", "https://www.linkedin.com/company/aibilink" ],
+      "social-links-count" : 4,
+      "popularity-boosters" : [ "http://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%91%E7%81%B5%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8", "http://www.cnzz.com/stat/website.php?web_id=1273615601", "http://www.miibeian.gov.cn" ],
+      "popularity-boosters-count" : 3
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : {
+      "code_of_conduct" : " ",
+      "logo" : "http://www.aibilink.com/static/imagesg/256.jpg",
+      "url" : "http://www.aibilink.com/bp.json"
+    },
+    "place" : 204
+  }, {
+    "bp-header" : {
       "owner" : "cypherglasss",
-      "total_votes" : "202485155339102272.00000000000000000",
+      "total_votes" : "202073761555004416.00000000000000000",
       "producer_key" : "EOS5rTrUiqvgu7YCVyKCeQ1QXA7Uo94FZhq7zKcNPqbrCP5u5fQXo",
       "is_active" : 1,
       "url" : "http://cypherglass.com",
-      "unpaid_blocks" : 4476,
+      "unpaid_blocks" : 6528,
       "last_claim_time" : "1530415202000000",
       "location" : 0,
       "prepared-url" : "http://cypherglass.com"
@@ -2001,31 +2006,8 @@
     "place" : 6
   }, {
     "bp-header" : {
-      "owner" : "eosjapanclub",
-      "total_votes" : "10777577771857280.00000000000000000",
-      "producer_key" : "EOS5dCcHYR9EQyibQ8NFvqyAKT9YfdAs5ynwtQ8krn22QNwHe6awx",
-      "is_active" : 1,
-      "url" : "http://www.eosjapan.co.jp",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 392,
-      "prepared-url" : "http://www.eosjapan.co.jp"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 20,
-      "duplicate-urls" : null,
-      "social-links" : [ "https://eosio.github.io/eos/", "https://github.com/eosio", "https://twitter.com/EosJapancojp", "https://www.facebook.com/groups/222839938478527/" ],
-      "social-links-count" : 4,
-      "popularity-boosters" : [ "http://www.eosjapan.one", "https://www.eos.io/" ],
-      "popularity-boosters-count" : 2
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : null,
-    "place" : 99
-  }, {
-    "bp-header" : {
       "owner" : "ha4daobxg4ge",
-      "total_votes" : "3057511772404229.00000000000000000",
+      "total_votes" : "3060607622949775.00000000000000000",
       "producer_key" : "EOS5ewbBCj3ZrAy5yJnCqBM6Y6X9nCLzJ4DR8rphbqMhapeT3S5eJ",
       "is_active" : 1,
       "url" : "http://eos.medishares.org",
@@ -2052,7 +2034,7 @@
   }, {
     "bp-header" : {
       "owner" : "onerootlleos",
-      "total_votes" : "17723408031953.39453125000000000",
+      "total_votes" : "13864876666503.23632812500000000",
       "producer_key" : "EOS5M8hMCHdQwVXKqCfvF9oxmunDj33t9mDHaDRB5rgTV5rjL2X2U",
       "is_active" : 1,
       "url" : "http://oneroot.io",
@@ -2071,16 +2053,16 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 238
+    "place" : 239
   }, {
     "bp-header" : {
       "owner" : "eosfishrocks",
-      "total_votes" : "103896151835579664.00000000000000000",
+      "total_votes" : "98532327995108208.00000000000000000",
       "producer_key" : "EOS4xAhqjLs5fsCzw7QsGYJtRDVo3t2xRFCHd7amGEWwhjSb5DPZT",
       "is_active" : 1,
       "url" : "https://eos.fish",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530379141500000",
+      "last_claim_time" : "1530465602500000",
       "location" : 344,
       "prepared-url" : "https://eos.fish"
     },
@@ -2098,11 +2080,11 @@
       "logo" : "",
       "url" : "https://eos.fish/bp.json"
     },
-    "place" : 33
+    "place" : 35
   }, {
     "bp-header" : {
       "owner" : "eoswancloud1",
-      "total_votes" : "12462313790355422.00000000000000000",
+      "total_votes" : "12461985109912164.00000000000000000",
       "producer_key" : "EOS8Th8M1gWRetXwz4zfcrXp4jnfqTDYFGzUzBpmsBkNFT8p4AN6E",
       "is_active" : 1,
       "url" : "https://eos.wancloud.cloud/bp.json",
@@ -2125,11 +2107,11 @@
       "logo" : "https://eos.wancloud.cloud/logo_256.jpg",
       "url" : "https://eos.wancloud.cloud/bp.json"
     },
-    "place" : 95
+    "place" : 94
   }, {
     "bp-header" : {
       "owner" : "eosyskoreabp",
-      "total_votes" : "99303327552217984.00000000000000000",
+      "total_votes" : "99294057150099520.00000000000000000",
       "producer_key" : "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
       "is_active" : 1,
       "url" : "http://eosys.io",
@@ -2151,11 +2133,11 @@
       "logo" : "http://eosys.io/logo_eosys_256.png",
       "url" : "http://eosys.io/bp.json"
     },
-    "place" : 35
+    "place" : 34
   }, {
     "bp-header" : {
       "owner" : "eosthushuimu",
-      "total_votes" : "11004448743763548.00000000000000000",
+      "total_votes" : "11010325321874358.00000000000000000",
       "producer_key" : "EOS7mawmWYTjzjt2riNSHKQhA8E86r3L8eXhcotuskGPJU6RNzUZs",
       "is_active" : 1,
       "url" : "http://www.eosthu.com",
@@ -2177,11 +2159,11 @@
       "logo" : "http://eosthu.com/assets/eosthu-logo-256.png",
       "url" : "http://www.eosthu.com/bp.json"
     },
-    "place" : 98
+    "place" : 97
   }, {
     "bp-header" : {
       "owner" : "superoneiobp",
-      "total_votes" : "7920088928676439.00000000000000000",
+      "total_votes" : "7926935788191782.00000000000000000",
       "producer_key" : "EOS6jtExp2sGpxMY8jFP1aBhDkdyHvuMS7EAVgDWQ7kaeMtdLH34U",
       "is_active" : 1,
       "url" : "https://superone.io",
@@ -2203,7 +2185,7 @@
       "logo" : "https://superone.io/logo_superone_256.jpg",
       "url" : "https://superone.io/bp.json"
     },
-    "place" : 107
+    "place" : 106
   }, {
     "bp-header" : {
       "owner" : "foodtokeneos",
@@ -2225,7 +2207,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 208
+    "place" : 209
   }, {
     "bp-header" : {
       "owner" : "ha3dkojwguge",
@@ -2247,15 +2229,15 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 213
+    "place" : 214
   }, {
     "bp-header" : {
       "owner" : "eosiomeetone",
-      "total_votes" : "197136699747823648.00000000000000000",
+      "total_votes" : "191913263953595008.00000000000000000",
       "producer_key" : "EOS5gS4ZtanRS2Jx4vpjAQaVNci3v65iZiGCgMr9DNwu67x2pt8Qd",
       "is_active" : 1,
       "url" : "https://meet.one",
-      "unpaid_blocks" : 5355,
+      "unpaid_blocks" : 7415,
       "last_claim_time" : "1530405900000000",
       "location" : 0,
       "prepared-url" : "https://meet.one"
@@ -2274,7 +2256,7 @@
       "logo" : "meetone-256.png",
       "url" : "https://meet.one/bp.json"
     },
-    "place" : 7
+    "place" : 8
   }, {
     "bp-header" : {
       "owner" : "pratothemoon",
@@ -2297,11 +2279,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 230
+    "place" : 231
   }, {
     "bp-header" : {
       "owner" : "bpacbpacbpac",
-      "total_votes" : "21582137296252300.00000000000000000",
+      "total_votes" : "21611394910636492.00000000000000000",
       "producer_key" : "EOS55W5m6Rh6x3eCPvEZzPBAgqaahZTjL2y3Sb1VTreNkd9Ns55n3",
       "is_active" : 1,
       "url" : "https://bpac.io",
@@ -2324,7 +2306,7 @@
   }, {
     "bp-header" : {
       "owner" : "chainriftxxx",
-      "total_votes" : "7164424035355485.00000000000000000",
+      "total_votes" : "7142426804920218.00000000000000000",
       "producer_key" : "EOS7RQ6fJTDzZTSoL6tmzXwfs9FLZTUPWDe6pNAhqqWHvcAxG7qdN",
       "is_active" : 1,
       "url" : "https://eos.chainrift.com",
@@ -2347,7 +2329,7 @@
   }, {
     "bp-header" : {
       "owner" : "eoswtzeoswtz",
-      "total_votes" : "5806821722912325.00000000000000000",
+      "total_votes" : "5822619716239496.00000000000000000",
       "producer_key" : "EOS7temBEsAoxRtUNsy7M6XmZMDuxwKvg8EuBYZ9CMfnaiGDUyHwZ",
       "is_active" : 1,
       "url" : "http://www.eoswtz.com/",
@@ -2373,8 +2355,35 @@
     "place" : 116
   }, {
     "bp-header" : {
+      "owner" : "eosisgravity",
+      "total_votes" : "210303008481519008.00000000000000000",
+      "producer_key" : "EOS55HTTjoxVX1zVpW8pabxygBb1J3SEnG5D8D3y3KgrnSbLpELfE",
+      "is_active" : 1,
+      "url" : "http://eosgravity.com",
+      "unpaid_blocks" : 18192,
+      "last_claim_time" : "1530292738000000",
+      "location" : 0,
+      "prepared-url" : "http://eosgravity.com"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 4,
+      "duplicate-urls" : null,
+      "social-links" : [ "http://www.facebook.com/share.php?u=http%3A%2F%2Feosgravity.com%2F", "https://plus.google.com/share?url=http%3A%2F%2Feosgravity.com%2F", "https://steemit.com/eosgravity/@eosgravity/dividend-statement-and-investor-disclaimer-eos-gravity" ],
+      "social-links-count" : 3,
+      "popularity-boosters" : [ "http://47.52.132.92/?page_id=1989", "http://facebook.com", "http://linkedin.com" ],
+      "popularity-boosters-count" : 3
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : {
+      "code_of_conduct" : "",
+      "logo" : "http://eosgravity.com/wp-content/uploads/2018/06/logo_eosgravity_256.png",
+      "url" : "http://eosgravity.com/bp.json"
+    },
+    "place" : 4
+  }, {
+    "bp-header" : {
       "owner" : "jrrcryptoeos",
-      "total_votes" : "116231493537020384.00000000000000000",
+      "total_votes" : "116351684966561152.00000000000000000",
       "producer_key" : "EOS7JR4vL3P2qgPwfMagZDqAtRLjB38qQCe6xw87gefVV73x85bsw",
       "is_active" : 1,
       "url" : "http://www.eosjrr.io/",
@@ -2399,8 +2408,35 @@
     "place" : 27
   }, {
     "bp-header" : {
+      "owner" : "eosarabianet",
+      "total_votes" : "4399784897519862.50000000000000000",
+      "producer_key" : "EOS6JuwKSkEiYNR88bV9wz7uQGjMiSabMzFearb6UmuEE4uK3rSR6",
+      "is_active" : 1,
+      "url" : "http://eosarabia.net/",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 0,
+      "prepared-url" : "http://eosarabia.net/"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 6,
+      "duplicate-urls" : null,
+      "social-links" : [ "https://medium.com/eos-arabia", "https://t.me/eos_arabia", "https://twitter.com/eos_arabia" ],
+      "social-links-count" : 3,
+      "popularity-boosters" : [ "https://maps.google.com/maps?ll=25.102951,55.20845&z=12&t=m&hl=en-US&gl=US&mapclient=apiv3", "https://www.google.com/intl/en-US_US/help/terms_maps.html", "https://www.google.com/maps/@25.102951,55.20845,12z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3" ],
+      "popularity-boosters-count" : 3
+    },
+    "p-ram-amounts" : [ "RAM", "50G RAM" ],
+    "bp-json-summary" : {
+      "code_of_conduct" : "",
+      "logo" : "http://www.eosarabia.org/images/EOSArabia -Logo256.png",
+      "url" : "http://eosarabia.net/bp.json"
+    },
+    "place" : 121
+  }, {
+    "bp-header" : {
       "owner" : "daoeosbpbwin",
-      "total_votes" : "1841662751545727.25000000000000000",
+      "total_votes" : "1842771841213414.00000000000000000",
       "producer_key" : "EOS8TGpHjsGHoHHwthYjFatWSivyX29WZgiYfV4Nn92bwyNSWR981",
       "is_active" : 1,
       "url" : "http://www.daoeos.io",
@@ -2450,11 +2486,11 @@
   }, {
     "bp-header" : {
       "owner" : "eoshuobipool",
-      "total_votes" : "234558496415383328.00000000000000000",
+      "total_votes" : "229636013436596096.00000000000000000",
       "producer_key" : "EOS5XKswW26cR5VQeDGwgNb5aixv1AMcKkdDNrC59KzNSBfnH6TR7",
       "is_active" : 1,
       "url" : "http://eoshuobipool.com",
-      "unpaid_blocks" : 3179,
+      "unpaid_blocks" : 5231,
       "last_claim_time" : "1530428761500000",
       "location" : 0,
       "prepared-url" : "http://eoshuobipool.com"
@@ -2477,7 +2513,7 @@
   }, {
     "bp-header" : {
       "owner" : "eoslaomaocom",
-      "total_votes" : "86164620240776608.00000000000000000",
+      "total_votes" : "85952425044594592.00000000000000000",
       "producer_key" : "EOS8QgURqo875qu3a8vgZ58qBeu2cTehe9zAWRfpdCXAQipicu1Fi",
       "is_active" : 1,
       "url" : "https://eoslaomao.com",
@@ -2500,7 +2536,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosmedinodes",
-      "total_votes" : "18543650342471872.00000000000000000",
+      "total_votes" : "13169774547151692.00000000000000000",
       "producer_key" : "EOS8A9cAMw29gr23Wk7FkmPZA1DAhdwFfpiNrKSWrgFn5y6CderFD",
       "is_active" : 1,
       "url" : "http://eosmedi.com",
@@ -2523,11 +2559,11 @@
       "logo" : "http://eosmedi.com/wp-content/uploads/2018/06/256.png",
       "url" : "http://eosmedi.com/bp.json"
     },
-    "place" : 81
+    "place" : 90
   }, {
     "bp-header" : {
       "owner" : "eoszonrussia",
-      "total_votes" : "2436030415241505.50000000000000000",
+      "total_votes" : "2438124268646742.50000000000000000",
       "producer_key" : "EOS64bByNgmGZrPHzVLqMZteuc4mDkpByY3RukopFhf5ZKKk8eJM7",
       "is_active" : 1,
       "url" : "http://eoszon.io",
@@ -2554,11 +2590,11 @@
   }, {
     "bp-header" : {
       "owner" : "eosauthority",
-      "total_votes" : "208295952815665888.00000000000000000",
+      "total_votes" : "208524490811873056.00000000000000000",
       "producer_key" : "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
       "is_active" : 1,
       "url" : "https://eosauthority.com",
-      "unpaid_blocks" : 3216,
+      "unpaid_blocks" : 5269,
       "last_claim_time" : "1530428400500000",
       "location" : 826,
       "prepared-url" : "https://eosauthority.com"
@@ -2577,11 +2613,11 @@
   }, {
     "bp-header" : {
       "owner" : "eosswedenorg",
-      "total_votes" : "189460587752538368.00000000000000000",
+      "total_votes" : "189516491870140608.00000000000000000",
       "producer_key" : "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY",
       "is_active" : 1,
       "url" : "https://eossweden.se",
-      "unpaid_blocks" : 3132,
+      "unpaid_blocks" : 5183,
       "last_claim_time" : "1530429180500000",
       "location" : 752,
       "prepared-url" : "https://eossweden.se"
@@ -2600,16 +2636,16 @@
       "logo" : "https://eossweden.se/wp-content/uploads/2018/06/Square-Leaf-Banner-Wt-bkg-256.png",
       "url" : "https://eossweden.se/bp.json"
     },
-    "place" : 13
+    "place" : 11
   }, {
     "bp-header" : {
       "owner" : "geosoneforbp",
-      "total_votes" : "44937624917846008.00000000000000000",
+      "total_votes" : "39567468445745952.00000000000000000",
       "producer_key" : "EOS7CjPeMYUj2Ydmw667JJNsQA5mige9YE4FVxMCT81Jst3SRVbX3",
       "is_active" : 1,
       "url" : "https://www.geos.one",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530378002000000",
+      "last_claim_time" : "1530468002000000",
       "location" : 0,
       "prepared-url" : "https://www.geos.one"
     },
@@ -2623,15 +2659,15 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 53
+    "place" : 55
   }, {
     "bp-header" : {
       "owner" : "zbeosbp11111",
-      "total_votes" : "225209015730259296.00000000000000000",
+      "total_votes" : "225234169085090816.00000000000000000",
       "producer_key" : "EOS7rhgVPWWyfMqjSbNdndtCK8Gkza3xnDbUupsPLMZ6gjfQ4nX81",
       "is_active" : 1,
       "url" : "http://www.zbeos.com",
-      "unpaid_blocks" : 156,
+      "unpaid_blocks" : 2208,
       "last_claim_time" : "1530460527000000",
       "location" : 0,
       "prepared-url" : "http://www.zbeos.com"
@@ -2653,11 +2689,11 @@
   }, {
     "bp-header" : {
       "owner" : "starteosiobp",
-      "total_votes" : "184432023710809216.00000000000000000",
+      "total_votes" : "179402616173553184.00000000000000000",
       "producer_key" : "EOS5mB5dYCpQTHUPBS8SJ52sidTY9t7QNsZ2wg1Nzo5a1jKQM3Qx4",
       "is_active" : 1,
       "url" : "https://www.starteos.io",
-      "unpaid_blocks" : 1944,
+      "unpaid_blocks" : 3996,
       "last_claim_time" : "1530441714500000",
       "location" : 0,
       "prepared-url" : "https://www.starteos.io"
@@ -2679,7 +2715,7 @@
   }, {
     "bp-header" : {
       "owner" : "blockmatrix1",
-      "total_votes" : "82649802768349968.00000000000000000",
+      "total_votes" : "82716582784601584.00000000000000000",
       "producer_key" : "EOS6oNSm6QKnMBzJDHiA32KsEjSgKKt1nGdPYfc2wZU34HA9GjP9q",
       "is_active" : 1,
       "url" : "https://blockmatrix.network",
@@ -2701,11 +2737,11 @@
       "logo" : "https://blockmatrix.network/assets/img/block_matrix_logo_white_250.jpg",
       "url" : "https://blockmatrix.network/bp.json"
     },
-    "place" : 40
+    "place" : 41
   }, {
     "bp-header" : {
       "owner" : "keoskorea111",
-      "total_votes" : "12648174265779652.00000000000000000",
+      "total_votes" : "12661939043986610.00000000000000000",
       "producer_key" : "EOS8cHtUUPwQd1GQtubdd1XYqwqBPZVhmuywnx1Gkv55E8sx273SM",
       "is_active" : 1,
       "url" : "https://keos.kr",
@@ -2722,11 +2758,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 94
+    "place" : 93
   }, {
     "bp-header" : {
       "owner" : "eosbarcelona",
-      "total_votes" : "5043325795888938.00000000000000000",
+      "total_votes" : "5058156889548967.00000000000000000",
       "producer_key" : "EOS7mJMjmgGNzRgV2zgbBXtTQDCZMySapBohtjoiPa2GbSitM8SfB",
       "is_active" : 1,
       "url" : "http://eosbarcelona.com",
@@ -2751,7 +2787,7 @@
   }, {
     "bp-header" : {
       "owner" : "chainclubeos",
-      "total_votes" : "4461314988732778.00000000000000000",
+      "total_votes" : "4450215507571920.00000000000000000",
       "producer_key" : "EOS6bTR5gkBdGQhbM6uFYMYdc2kugU2FUA3XD5soHSCt1pXbGjHjn",
       "is_active" : 1,
       "url" : "http://eosio.university/",
@@ -2772,34 +2808,8 @@
     "place" : 120
   }, {
     "bp-header" : {
-      "owner" : "eosarabianet",
-      "total_votes" : "4396354514303775.00000000000000000",
-      "producer_key" : "EOS6JuwKSkEiYNR88bV9wz7uQGjMiSabMzFearb6UmuEE4uK3rSR6",
-      "is_active" : 1,
-      "url" : "http://eosarabia.net/",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : "http://eosarabia.net/"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 6,
-      "duplicate-urls" : null,
-      "social-links" : [ "https://medium.com/eos-arabia", "https://t.me/eos_arabia", "https://twitter.com/eos_arabia" ],
-      "social-links-count" : 3,
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ "RAM", "50G RAM" ],
-    "bp-json-summary" : {
-      "code_of_conduct" : "",
-      "logo" : "http://www.eosarabia.org/images/EOSArabia -Logo256.png",
-      "url" : "http://eosarabia.net/bp.json"
-    },
-    "place" : 121
-  }, {
-    "bp-header" : {
       "owner" : "eoshorizon11",
-      "total_votes" : "152978670686046.81250000000000000",
+      "total_votes" : "150808028365487.15625000000000000",
       "producer_key" : "EOS7tH9RE8UN3kD8d4F3PJxMHCu7UW4RoQmuCcQe3wqFLm8hrJW1L",
       "is_active" : 1,
       "url" : "https://eoshorizon.ca",
@@ -2845,11 +2855,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 222
+    "place" : 223
   }, {
     "bp-header" : {
       "owner" : "eosvietnambp",
-      "total_votes" : "24212580974762468.00000000000000000",
+      "total_votes" : "24225291170976168.00000000000000000",
       "producer_key" : "EOS6LThT4JZmqbqPjzk1Sf8VCBQg6XWX6hjaVmHJDSRkfWsTxZdLG",
       "is_active" : 1,
       "url" : "https://eosviet.io",
@@ -2876,7 +2886,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosholdings1",
-      "total_votes" : "18188543670589164.00000000000000000",
+      "total_votes" : "18209399091851080.00000000000000000",
       "producer_key" : "EOS4uLtAMBg8QyeMKYMVxQfrurQqfKLRnCpwWq9c8MPMk2cmdWZ8y",
       "is_active" : 1,
       "url" : "http://eos.holdings",
@@ -2895,11 +2905,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 82
+    "place" : 81
   }, {
     "bp-header" : {
       "owner" : "eosantpoolbp",
-      "total_votes" : "137475222840640208.00000000000000000",
+      "total_votes" : "137621292768955712.00000000000000000",
       "producer_key" : "EOS6F9hDeGD3unoq67N9pmLVXKvsLTqi7wx3Ly9kxq4fZB3qLTjcs",
       "is_active" : 1,
       "url" : "https://www.eosantpool.com",
@@ -2925,7 +2935,7 @@
   }, {
     "bp-header" : {
       "owner" : "1eostheworld",
-      "total_votes" : "7690425903792109.00000000000000000",
+      "total_votes" : "7689905009067647.00000000000000000",
       "producer_key" : "EOS7DtVzfmr1c5ACb7usAwyn4f39V7urk6kBWswUWCtg3H8H6CFAr",
       "is_active" : 1,
       "url" : "https://eostheworld.io",
@@ -2948,11 +2958,11 @@
       "logo" : "https://eostheworld.io/eostwlogo256.jpg",
       "url" : "https://eostheworld.io/bp.json"
     },
-    "place" : 109
+    "place" : 108
   }, {
     "bp-header" : {
       "owner" : "eosarmyioant",
-      "total_votes" : "299101013793934.31250000000000000",
+      "total_votes" : "299146411073854.68750000000000000",
       "producer_key" : "EOS8gHdkgwd3FGeayLviL2JR4F8x1TpnG7JizqZzdD2bnK1wicuvy",
       "is_active" : 1,
       "url" : "https://eosarmy.io",
@@ -2994,11 +3004,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 226
+    "place" : 227
   }, {
     "bp-header" : {
       "owner" : "privexinceos",
-      "total_votes" : "2415526670897863.50000000000000000",
+      "total_votes" : "2415790497557969.00000000000000000",
       "producer_key" : "EOS7UU7G3gAzaT2gQ2nBJeJCbCx1e7cUj5GWnNBULQCXD61cj62zL",
       "is_active" : 1,
       "url" : "https://bp.privex.io",
@@ -3021,7 +3031,7 @@
   }, {
     "bp-header" : {
       "owner" : "nodeshanghai",
-      "total_votes" : "1946529621649897.50000000000000000",
+      "total_votes" : "1955160413707756.50000000000000000",
       "producer_key" : "EOS8VV8BCF5nQfTC8G5G6YpU1YWYWk5Y9SCvMfRuVUfc17KKXQp3S",
       "is_active" : 1,
       "url" : "https://fish.one",
@@ -3040,11 +3050,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 142
+    "place" : 141
   }, {
     "bp-header" : {
       "owner" : "eosmotioneos",
-      "total_votes" : "1109743368683903.00000000000000000",
+      "total_votes" : "1106948206119954.87500000000000000",
       "producer_key" : "EOS5JEphcJgHbvVqnKwz93Buq5SUCkkZkgwdiTbXfgF8steHpJuj4",
       "is_active" : 1,
       "url" : "https://project.motion.one",
@@ -3098,7 +3108,7 @@
   }, {
     "bp-header" : {
       "owner" : "stakedstaked",
-      "total_votes" : "989747327531490.25000000000000000",
+      "total_votes" : "989757898464949.00000000000000000",
       "producer_key" : "EOS8mqUDLnCjeXQpqTWzSjcr3FoXNDKrXo7W5qJGPrgpxjEH2KLUm",
       "is_active" : 1,
       "url" : "https://staked.us",
@@ -3125,7 +3135,7 @@
   }, {
     "bp-header" : {
       "owner" : "atticlabeosb",
-      "total_votes" : "34046485280731376.00000000000000000",
+      "total_votes" : "34046486361120160.00000000000000000",
       "producer_key" : "EOS7LqudX6Ac4woGwTF9CvQKwrJhg3H7p3pScDoXj1Ws82mMZFQqf",
       "is_active" : 1,
       "url" : "http://atticlab.net/",
@@ -3143,11 +3153,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 61
+    "place" : 60
   }, {
     "bp-header" : {
       "owner" : "dposclubprod",
-      "total_votes" : "9410028371845338.00000000000000000",
+      "total_votes" : "9417980064038086.00000000000000000",
       "producer_key" : "EOS8AJ1rum6Z8k4sfHe9JM6PkJ2UTi8RDxp5WTy6qCd4mkfMCv5gy",
       "is_active" : 1,
       "url" : "https://dpos.club/bp.json",
@@ -3172,7 +3182,7 @@
   }, {
     "bp-header" : {
       "owner" : "emergepoland",
-      "total_votes" : "7363990714132009.00000000000000000",
+      "total_votes" : "7327177821986559.00000000000000000",
       "producer_key" : "EOS7ghyBJsLyNiyJBwLDnRBUCfNcYENeqiZb1hAjS5yhHA4KmpMRn",
       "is_active" : 1,
       "url" : "http://eosemerge.io",
@@ -3215,11 +3225,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 211
+    "place" : 212
   }, {
     "bp-header" : {
       "owner" : "bitcoingod11",
-      "total_votes" : "27217711321703.24218750000000000",
+      "total_votes" : "27217772632095.46484375000000000",
       "producer_key" : "EOS8FGBXiineqciyhjKM2ypFgETDu8BJTDyHXuA2kY58Rbt1RNeHm",
       "is_active" : 1,
       "url" : "https://eos.bitcoingod.org/",
@@ -3241,11 +3251,11 @@
       "logo" : "",
       "url" : "https://eos.bitcoingod.org/bp.json"
     },
-    "place" : 233
+    "place" : 234
   }, {
     "bp-header" : {
       "owner" : "bitcoineosfu",
-      "total_votes" : "13347134219634.56640625000000000",
+      "total_votes" : "13347195530026.78710937500000000",
       "producer_key" : "EOS5KvXdnwJV4YGcv7XL3K4UKsDSZxA13gmubYLTvE14g9vrMf7iT",
       "is_active" : 1,
       "url" : "http://bitcoineos.fun",
@@ -3263,7 +3273,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 239
+    "place" : 240
   }, {
     "bp-header" : {
       "owner" : "atticlabeosp",
@@ -3285,7 +3295,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 240
+    "place" : 241
   }, {
     "bp-header" : {
       "owner" : "eosalpineski",
@@ -3306,7 +3316,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 246
+    "place" : 247
   }, {
     "bp-header" : {
       "owner" : "exmotraderes",
@@ -3328,7 +3338,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 253
+    "place" : 254
   }, {
     "bp-header" : {
       "owner" : "gerryduan123",
@@ -3358,7 +3368,7 @@
   }, {
     "bp-header" : {
       "owner" : "tchaineospro",
-      "total_votes" : "135233831036690.85937500000000000",
+      "total_votes" : "135548752294601.54687500000000000",
       "producer_key" : "EOS8eW7gGhAwB3nxAPLvhWbtSipUN2SogtZsiLErJ981grPoLLFon",
       "is_active" : 1,
       "url" : "http://thetchain.com/eos",
@@ -3377,11 +3387,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 205
+    "place" : 206
   }, {
     "bp-header" : {
       "owner" : "eosiomyanmar",
-      "total_votes" : "49109720651480.34375000000000000",
+      "total_votes" : "49102894692347.89062500000000000",
       "producer_key" : "EOS7i1ZLdGtB6wa5PJmRDpc5piG6bbkybumLryrG3DsTR9PJa1bMm",
       "is_active" : 1,
       "url" : "http://moa.com.mm",
@@ -3399,16 +3409,16 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 223
+    "place" : 224
   }, {
     "bp-header" : {
       "owner" : "eosliquideos",
-      "total_votes" : "190283901034695104.00000000000000000",
+      "total_votes" : "190611945136134016.00000000000000000",
       "producer_key" : "EOS4v1n2j5kXbCum8LLEc8zQLpeLK9rKVFmsUgLCWgMDN38P6PcrW",
       "is_active" : 1,
       "url" : "http://vote.liquideos.com/",
-      "unpaid_blocks" : 10764,
-      "last_claim_time" : "1530349049500000",
+      "unpaid_blocks" : 1349,
+      "last_claim_time" : "1530469564000000",
       "location" : 0,
       "prepared-url" : "http://vote.liquideos.com/"
     },
@@ -3426,11 +3436,11 @@
       "logo" : "",
       "url" : "http://vote.liquideos.com/bp.json"
     },
-    "place" : 12
+    "place" : 10
   }, {
     "bp-header" : {
       "owner" : "bchainlabeos",
-      "total_votes" : "1050171326540822.62500000000000000",
+      "total_votes" : "1050705273583851.87500000000000000",
       "producer_key" : "EOS6n6RZi6EXHKBX53HyuXgzMw5sUzWWQomwDLYLc1PcjZY3CCzzE",
       "is_active" : 1,
       "url" : "https://blockchainlab.me",
@@ -3453,7 +3463,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosteaeostea",
-      "total_votes" : "3617715645703395.50000000000000000",
+      "total_votes" : "3637468917494494.50000000000000000",
       "producer_key" : "EOS5B7V5TxdZPNiBeDUJSdoovg4Unp3CCbUy4KDiuWJXEWcctXLZN",
       "is_active" : 1,
       "url" : "https://eostea.io",
@@ -3476,12 +3486,12 @@
   }, {
     "bp-header" : {
       "owner" : "hkeoshkeosbp",
-      "total_votes" : "43297645299587904.00000000000000000",
+      "total_votes" : "43321556158679344.00000000000000000",
       "producer_key" : "EOS8SXELcUbgtBTmi7of9CJTUc6eGPw68G8ph7nLD7wpHkEosEShs",
       "is_active" : 1,
       "url" : "https://www.hkeos.com",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530385527500000",
+      "last_claim_time" : "1530471953000000",
       "location" : 344,
       "prepared-url" : "https://www.hkeos.com"
     },
@@ -3495,11 +3505,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 55
+    "place" : 53
   }, {
     "bp-header" : {
       "owner" : "eosaustralia",
-      "total_votes" : "148045299446302.06250000000000000",
+      "total_votes" : "146897926636820.78125000000000000",
       "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
       "is_active" : 0,
       "url" : "https://www.genereos-sydney.io/",
@@ -3545,7 +3555,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 216
+    "place" : 217
   }, {
     "bp-header" : {
       "owner" : "hezdenbsg4ge",
@@ -3568,11 +3578,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 229
+    "place" : 230
   }, {
     "bp-header" : {
       "owner" : "gy3dqnjtgyge",
-      "total_votes" : "1342447272276674.75000000000000000",
+      "total_votes" : "1342489474263320.50000000000000000",
       "producer_key" : "EOS6o9DdrLKio11s1WBsMfu1nbEiTw6Sq4APV1HcfYr3bLugEBTY3",
       "is_active" : 1,
       "url" : "http://eosbattles.com",
@@ -3597,7 +3607,7 @@
   }, {
     "bp-header" : {
       "owner" : "disfundbpeos",
-      "total_votes" : "876048424129428.37500000000000000",
+      "total_votes" : "892077834510555.00000000000000000",
       "producer_key" : "EOS8YKiT2wKYFHw75xaXA58S6exo9CsDnr3iuMMpsSwZ2W473Tdif",
       "is_active" : 1,
       "url" : "https://alexbond.keybase.pub/eos_df_bp.json",
@@ -3665,11 +3675,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 248
+    "place" : 249
   }, {
     "bp-header" : {
       "owner" : "strongmonkey",
-      "total_votes" : "30438437336412852.00000000000000000",
+      "total_votes" : "30435979451933060.00000000000000000",
       "producer_key" : "EOS6sPgXmPLZ8qknCLTRCbGL7NkaZ5Y6MZx6o7sDTahXpSNhyKQXV",
       "is_active" : 1,
       "url" : "http://strongmonkey.com",
@@ -3686,7 +3696,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 69
+    "place" : 70
   }, {
     "bp-header" : {
       "owner" : "eoscleanerbp",
@@ -3729,7 +3739,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 236
+    "place" : 237
   }, {
     "bp-header" : {
       "owner" : "minicooperbp",
@@ -3751,11 +3761,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 247
+    "place" : 248
   }, {
     "bp-header" : {
       "owner" : "eosbixinboot",
-      "total_votes" : "105536592823539824.00000000000000000",
+      "total_votes" : "100368831486081408.00000000000000000",
       "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
       "is_active" : 1,
       "url" : "http://en.eosbixin.com",
@@ -3777,11 +3787,11 @@
       "logo" : null,
       "url" : "http://en.eosbixin.com/bp.json"
     },
-    "place" : 31
+    "place" : 33
   }, {
     "bp-header" : {
       "owner" : "blockpro1eos",
-      "total_votes" : "2298295197418028.00000000000000000",
+      "total_votes" : "2300389434272448.00000000000000000",
       "producer_key" : "EOS8mmyZ3zfppKvhRRsz6rSgTgNHuf2GuEVPmtkDFDoYGpfgjih7x",
       "is_active" : 1,
       "url" : "http://blockpro.one/",
@@ -3824,11 +3834,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 250
+    "place" : 251
   }, {
     "bp-header" : {
       "owner" : "eoslawyereos",
-      "total_votes" : "17282378369704266.00000000000000000",
+      "total_votes" : "17297137975082566.00000000000000000",
       "producer_key" : "EOS78J1hRNUKTzdGHUE8zLRVTSQLC8qfPKQLfF9iEeNRPZxWMJwvx",
       "is_active" : 1,
       "url" : "https://eos.lawyer",
@@ -3850,11 +3860,33 @@
       "logo" : "https://eos.lawyer/images/eos_lawyer_logo.jpg",
       "url" : "https://eos.lawyer/bp.json"
     },
-    "place" : 85
+    "place" : 84
+  }, {
+    "bp-header" : {
+      "owner" : "eosyosemitex",
+      "total_votes" : "221507293221336.84375000000000000",
+      "producer_key" : "EOS87Dyks1xtpeaLXNjouPmz29YLnKwrrkduBoiqZwvFG5jTFyDnp",
+      "is_active" : 1,
+      "url" : "https://yosemitex.com",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 0,
+      "prepared-url" : "https://yosemitex.com"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 6,
+      "duplicate-urls" : null,
+      "social-links" : [ ],
+      "popularity-boosters" : [ "https://maps.google.com/maps?ll=37.456921,-122.144185&z=9&t=m&hl=en-US&gl=US&mapclient=apiv3", "https://www.google.com/intl/en-US_US/help/terms_maps.html", "https://www.google.com/maps/@37.4569211,-122.1441853,9z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3" ],
+      "popularity-boosters-count" : 3
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : null,
+    "place" : 175
   }, {
     "bp-header" : {
       "owner" : "bpkhmereoskh",
-      "total_votes" : "21738648793600044.00000000000000000",
+      "total_votes" : "21739379948920828.00000000000000000",
       "producer_key" : "EOS6w6uE419kYd2Kkkw7xhu96Wywp8YbwtMhJa6gYqT1MuMj8ZBc6",
       "is_active" : 1,
       "url" : "https://eoskh.com",
@@ -3876,28 +3908,6 @@
       "url" : "https://eoskh.com/bp.json"
     },
     "place" : 78
-  }, {
-    "bp-header" : {
-      "owner" : "moreisfuture",
-      "total_votes" : "6371644105931.80859375000000000",
-      "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
-      "is_active" : 1,
-      "url" : "https://more.top",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 86,
-      "prepared-url" : "https://more.top"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 1,
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ "https://chaince.com", "https://www.slowmist.com/" ],
-      "popularity-boosters-count" : 2
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : null,
-    "place" : 249
   }, {
     "bp-header" : {
       "owner" : "xx22xx22xx22",
@@ -3923,7 +3933,7 @@
   }, {
     "bp-header" : {
       "owner" : "libertyblock",
-      "total_votes" : "164269877513383680.00000000000000000",
+      "total_votes" : "158827686316517792.00000000000000000",
       "producer_key" : "EOS5jDCYph3hctKED9tHbe9L77q8JZToeuMnefMDdyfPkrb89FzSt",
       "is_active" : 1,
       "url" : "http://monitor.libertyblock.io",
@@ -3945,11 +3955,11 @@
       "logo" : "",
       "url" : "http://monitor.libertyblock.io/bp.json"
     },
-    "place" : 22
+    "place" : 23
   }, {
     "bp-header" : {
       "owner" : "eoshenzhenio",
-      "total_votes" : "24097181611292548.00000000000000000",
+      "total_votes" : "24088252013899940.00000000000000000",
       "producer_key" : "EOS5WqLGFJK9jPX5d71pYkyQmCv7zJ1Xfv1diqjjzydAJZ4oCMGPi",
       "is_active" : 1,
       "url" : "https://eoshenzhen.io",
@@ -3975,7 +3985,7 @@
   }, {
     "bp-header" : {
       "owner" : "123singapore",
-      "total_votes" : "9984291889909718.00000000000000000",
+      "total_votes" : "10017195992488714.00000000000000000",
       "producer_key" : "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
       "is_active" : 1,
       "url" : "http://eos.vote",
@@ -3997,7 +4007,33 @@
       "logo" : null,
       "url" : "http://eos.vote/bp.json"
     },
-    "place" : 100
+    "place" : 99
+  }, {
+    "bp-header" : {
+      "owner" : "eosrussiacom",
+      "total_votes" : "3784254585344856.50000000000000000",
+      "producer_key" : "EOS5ph2U56qqMfT5TLPyf3PinfCJQ3w2iTV1KjmSnbEV2Yisn21dD",
+      "is_active" : 1,
+      "url" : "http://eos.adenso.ru",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 643,
+      "prepared-url" : "http://eos.adenso.ru"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 1,
+      "duplicate-urls" : null,
+      "social-links" : [ ],
+      "popularity-boosters" : [ "http://arrowhead.eostribe.io/" ],
+      "popularity-boosters-count" : 1
+    },
+    "p-ram-amounts" : [ "64G RAM" ],
+    "bp-json-summary" : {
+      "code_of_conduct" : null,
+      "logo" : null,
+      "url" : "http://eos.adenso.ru/bp.json"
+    },
+    "place" : 127
   }, {
     "bp-header" : {
       "owner" : "eosbepalsafe",
@@ -4018,7 +4054,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 127
+    "place" : 128
   }, {
     "bp-header" : {
       "owner" : "gyzdeobshege",
@@ -4065,38 +4101,15 @@
       "logo" : null,
       "url" : "https://bpnode.com/bp_info.json"
     },
-    "place" : 219
-  }, {
-    "bp-header" : {
-      "owner" : "eosisgravity",
-      "total_votes" : "215435723527176320.00000000000000000",
-      "producer_key" : "EOS55HTTjoxVX1zVpW8pabxygBb1J3SEnG5D8D3y3KgrnSbLpELfE",
-      "is_active" : 1,
-      "url" : "http://eosgravity.com",
-      "unpaid_blocks" : 16128,
-      "last_claim_time" : "1530292738000000",
-      "location" : 0
-    },
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : {
-      "code_of_conduct" : "",
-      "logo" : "http://eosgravity.com/wp-content/uploads/2018/06/logo_eosgravity_256.png",
-      "url" : "http://eosgravity.com/bp.json"
-    },
-    "place" : 4
+    "place" : 220
   }, {
     "bp-header" : {
       "owner" : "eosbeijingbp",
-      "total_votes" : "193802169942339520.00000000000000000",
+      "total_votes" : "188837804784296576.00000000000000000",
       "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
       "is_active" : 1,
       "url" : "https://www.eosbeijing.one",
-      "unpaid_blocks" : 1548,
+      "unpaid_blocks" : 3600,
       "last_claim_time" : "1530445883500000",
       "location" : 0
     },
@@ -4111,15 +4124,15 @@
       "logo" : "https://www.eosbeijing.one/logo_256.png",
       "url" : "https://www.eosbeijing.one/bp.json"
     },
-    "place" : 9
+    "place" : 12
   }, {
     "bp-header" : {
       "owner" : "helloeoscnbp",
-      "total_votes" : "180811958797291520.00000000000000000",
+      "total_votes" : "175387025882004352.00000000000000000",
       "producer_key" : "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
       "is_active" : 1,
       "url" : "https://www.helloeos.com.cn",
-      "unpaid_blocks" : 3708,
+      "unpaid_blocks" : 5759,
       "last_claim_time" : "1530423241500000",
       "location" : 0
     },
@@ -4138,7 +4151,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosflytomars",
-      "total_votes" : "110049733144411648.00000000000000000",
+      "total_votes" : "104649613699124016.00000000000000000",
       "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
       "is_active" : 1,
       "url" : "http://www.bitmars.one",
@@ -4159,11 +4172,11 @@
       "logo" : "http://www.bitmars.one/EosflytoMars180x180-2.png",
       "url" : "http://www.bitmars.one/bp.json"
     },
-    "place" : 29
+    "place" : 30
   }, {
     "bp-header" : {
       "owner" : "eoseouldotio",
-      "total_votes" : "101825437934971904.00000000000000000",
+      "total_votes" : "101755854652333280.00000000000000000",
       "producer_key" : "EOS6SSA4gYCSZ3q9NWpxGsYDv5MWjSwKseyq25RRZexwj8EM6YHDa",
       "is_active" : 1,
       "url" : "https://bp.eoseoul.io",
@@ -4183,16 +4196,16 @@
       "logo" : "https://cdn.steemitimages.com/DQmeiC8NPvLrVWi9nv9fvZceYqQjHJmCG36i6nNzspUuBBs/EOSeoul_logo_256.png",
       "url" : "https://bp.eoseoul.io/bp.json"
     },
-    "place" : 34
+    "place" : 32
   }, {
     "bp-header" : {
       "owner" : "aus1genereos",
-      "total_votes" : "85705820040723664.00000000000000000",
+      "total_votes" : "85767713478757136.00000000000000000",
       "producer_key" : "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
       "is_active" : 1,
       "url" : "http://www.genereos.io",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530375949000000",
+      "last_claim_time" : "1530462350000000",
       "location" : 36
     },
     "analyzed-urls" : {
@@ -4206,7 +4219,7 @@
   }, {
     "bp-header" : {
       "owner" : "oraclegogogo",
-      "total_votes" : "71343283256249560.00000000000000000",
+      "total_votes" : "85507201324789440.00000000000000000",
       "producer_key" : "EOS67BuVBFqC9wWw8NaDg7JZ3FseSg55Rvwh6NJQUehBhmEsHfmLh",
       "is_active" : 1,
       "url" : "https://oraclechain.io",
@@ -4225,11 +4238,11 @@
       "logo" : "https://pocketeos.oss-cn-beijing.aliyuncs.com/P1/oracle.png",
       "url" : "https://oraclechain.io/bp.json"
     },
-    "place" : 44
+    "place" : 40
   }, {
     "bp-header" : {
       "owner" : "eosunion1111",
-      "total_votes" : "68312989383286176.00000000000000000",
+      "total_votes" : "68290704786183056.00000000000000000",
       "producer_key" : "EOS5YrPTWCKNHHLuntq13Q9X6M2CFCNGb21GqrcjUexqBBjxpCG7H",
       "is_active" : 1,
       "url" : "http://eosunion.io/",
@@ -4252,7 +4265,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosphereiobp",
-      "total_votes" : "49952683399934416.00000000000000000",
+      "total_votes" : "49840123101314272.00000000000000000",
       "producer_key" : "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
       "is_active" : 1,
       "url" : "https://www.eosphere.io",
@@ -4275,7 +4288,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosecoeoseco",
-      "total_votes" : "34668945062741620.00000000000000000",
+      "total_votes" : "34784579587620844.00000000000000000",
       "producer_key" : "EOS57oitM7gnt9aU2eWCDrSzw4C9x3ez8nXE24mnVfZAD3EqPhFXf",
       "is_active" : 1,
       "url" : "https://eoseco.com",
@@ -4292,11 +4305,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 60
+    "place" : 58
   }, {
     "bp-header" : {
       "owner" : "unlimitedeos",
-      "total_votes" : "33828130718211824.00000000000000000",
+      "total_votes" : "34118010040617468.00000000000000000",
       "producer_key" : "EOS8jjSeSmwX4kxMbpo8G4uibMnhf52QrGi4f9N7Zd3jY6oYVt9g6",
       "is_active" : 1,
       "url" : "http://www.unlimitedeos.com/bp.json",
@@ -4311,11 +4324,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 62
+    "place" : 59
   }, {
     "bp-header" : {
       "owner" : "kunablockprd",
-      "total_votes" : "33655659850670340.00000000000000000",
+      "total_votes" : "33655660931059124.00000000000000000",
       "producer_key" : "EOS7taVmQv5ScZhE2AFTSTDHbafj5fNS8VgT7zkLHUawvqQ47ekLL",
       "is_active" : 1,
       "url" : "http://eos.kuna.io",
@@ -4331,11 +4344,30 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 63
+    "place" : 61
+  }, {
+    "bp-header" : {
+      "owner" : "qxeosqxeosbp",
+      "total_votes" : "32770956746844876.00000000000000000",
+      "producer_key" : "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
+      "is_active" : 1,
+      "url" : "https://www.blockpin.net/eos",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 0
+    },
+    "analyzed-urls" : {
+      "duplicate-urls" : null,
+      "social-links" : [ ],
+      "popularity-boosters" : [ ]
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : null,
+    "place" : 62
   }, {
     "bp-header" : {
       "owner" : "greencapital",
-      "total_votes" : "30845106017812752.00000000000000000",
+      "total_votes" : "30844908661460968.00000000000000000",
       "producer_key" : "EOS8SXsZDjSUsNEUg5vUkvZa1mGjfV4752EKn55aCpfpFiQdtvWYy",
       "is_active" : 1,
       "url" : "http://www.greencapital.com",
@@ -4350,11 +4382,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 64
+    "place" : 65
   }, {
     "bp-header" : {
       "owner" : "eoschaintech",
-      "total_votes" : "30630762581605492.00000000000000000",
+      "total_votes" : "30628305777514484.00000000000000000",
       "producer_key" : "EOS7nN8AJV2osRkogucQpvHaNieK9jWv67rwQf81mLgQvQScTQEZX",
       "is_active" : 1,
       "url" : "http://eoschaintech.com",
@@ -4370,11 +4402,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 66
+    "place" : 67
   }, {
     "bp-header" : {
       "owner" : "eosorangeeos",
-      "total_votes" : "30573821724520760.00000000000000000",
+      "total_votes" : "30571507677601508.00000000000000000",
       "producer_key" : "EOS7qNnSuppxuh6ByvPa8drTwbYNU6rAiiBwYfNrf6cfnpGMwz4E5",
       "is_active" : 1,
       "url" : "http://eosorangeeos.com",
@@ -4390,11 +4422,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 67
+    "place" : 68
   }, {
     "bp-header" : {
       "owner" : "eossixparkbp",
-      "total_votes" : "30458895519180476.00000000000000000",
+      "total_votes" : "30456442573620832.00000000000000000",
       "producer_key" : "EOS6kdDNejmosCn7TMKGpRhhpic1gLhGraBtgTXUSkKTFJqJ3P4JU",
       "is_active" : 1,
       "url" : "http://www.eossixparkbp.com",
@@ -4410,11 +4442,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 68
+    "place" : 69
   }, {
     "bp-header" : {
       "owner" : "voldemorteos",
-      "total_votes" : "30392628001517172.00000000000000000",
+      "total_votes" : "30390170117037380.00000000000000000",
       "producer_key" : "EOS63B9Kc6rJr1qrX3ft1LfHLZptGWofGUDgUvyh2fvnrYRpgshvs",
       "is_active" : 1,
       "url" : "http://voldemorteos.com",
@@ -4430,26 +4462,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 70
-  }, {
-    "bp-header" : {
-      "owner" : "qxeosqxeosbp",
-      "total_votes" : "25171426740830100.00000000000000000",
-      "producer_key" : "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
-      "is_active" : 1,
-      "url" : "https://www.blockpin.net/eos",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0
-    },
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : null,
-    "place" : 73
+    "place" : 71
   }, {
     "bp-header" : {
       "owner" : "eostark11111",
@@ -4472,7 +4485,7 @@
   }, {
     "bp-header" : {
       "owner" : "bitspacenode",
-      "total_votes" : "17609124123029750.00000000000000000",
+      "total_votes" : "17722699794099766.00000000000000000",
       "producer_key" : "EOS7HvfCTxaL4DwokbZRsbrXXQafzE6wcG38azf6WefKGHBqsE3Ad",
       "is_active" : 1,
       "url" : "https://eos.bitspace.no",
@@ -4493,11 +4506,11 @@
       "logo" : "https://bitspace.no/wp-content/uploads/2018/06/256x256-bitspace_ver01.png",
       "url" : "https://eos.bitspace.no/bp.json"
     },
-    "place" : 83
+    "place" : 82
   }, {
     "bp-header" : {
       "owner" : "eosninetiess",
-      "total_votes" : "17180391816295302.00000000000000000",
+      "total_votes" : "17187668034246130.00000000000000000",
       "producer_key" : "EOS7eMeo7dgG42NQPy4x45X2VhG8T3gjnwuSdsoGeGzz1w3Hwrr7m",
       "is_active" : 1,
       "url" : "http://www.eos90s.io/",
@@ -4512,11 +4525,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 86
+    "place" : 85
   }, {
     "bp-header" : {
       "owner" : "eosukblocpro",
-      "total_votes" : "16251046204134610.00000000000000000",
+      "total_votes" : "16280255669988152.00000000000000000",
       "producer_key" : "EOS5s2XeT1rUF9EztcpjT6hqTiRb15f21UeRoamSygc5FkYzWrmfJ",
       "is_active" : 1,
       "url" : "https://eosuk.io/",
@@ -4531,16 +4544,12 @@
       "popularity-boosters" : [ ]
     },
     "p-ram-amounts" : [ ],
-    "bp-json-summary" : {
-      "code_of_conduct" : "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct",
-      "logo" : "https://eosuk.io/eos-uk-logo-256.png",
-      "url" : "https://eosuk.io/bp.json"
-    },
-    "place" : 87
+    "bp-json-summary" : null,
+    "place" : 86
   }, {
     "bp-header" : {
       "owner" : "eospacificbp",
-      "total_votes" : "14620825487240070.00000000000000000",
+      "total_votes" : "14610785847793734.00000000000000000",
       "producer_key" : "EOS5RVMEH23hYRjhW2VoKNQCM1ooLhVgFpC38e8bWV2YzefyGZbMY",
       "is_active" : 1,
       "url" : "https://www.nodepacific.com/",
@@ -4561,11 +4570,11 @@
       "logo" : "https://www.nodepacific.com/logo256.png",
       "url" : "https://www.nodepacific.com/bp.json"
     },
-    "place" : 90
+    "place" : 89
   }, {
     "bp-header" : {
       "owner" : "blockgenicbp",
-      "total_votes" : "12777068245557674.00000000000000000",
+      "total_votes" : "12778611162728266.00000000000000000",
       "producer_key" : "EOS8JmaUHB4PgsYeZT9Cvvy8GwW6AV3T3KgUp2us1LEEAWQkpYbY2",
       "is_active" : 1,
       "url" : "http://blockgenic.io",
@@ -4580,11 +4589,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 93
+    "place" : 92
   }, {
     "bp-header" : {
       "owner" : "hexlantttttt",
-      "total_votes" : "11878231917621518.00000000000000000",
+      "total_votes" : "11878231940772704.00000000000000000",
       "producer_key" : "EOS83xBpEBigshibgFNjbX3jqHZNDzcnJJrGZaq2ioYTjpGEfckXf",
       "is_active" : 1,
       "url" : "https://hexbp.com",
@@ -4605,11 +4614,31 @@
       "logo" : "https://hexbp.com/static/img/logo/hexlant_256.png",
       "url" : "https://hexbp.com/bp.json"
     },
-    "place" : 97
+    "place" : 96
+  }, {
+    "bp-header" : {
+      "owner" : "eosjapanclub",
+      "total_votes" : "10792501814547234.00000000000000000",
+      "producer_key" : "EOS5dCcHYR9EQyibQ8NFvqyAKT9YfdAs5ynwtQ8krn22QNwHe6awx",
+      "is_active" : 1,
+      "url" : "http://www.eosjapan.co.jp",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 392,
+      "prepared-url" : "http://www.eosjapan.co.jp"
+    },
+    "analyzed-urls" : {
+      "duplicate-urls" : null,
+      "social-links" : [ ],
+      "popularity-boosters" : [ ]
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : null,
+    "place" : 98
   }, {
     "bp-header" : {
       "owner" : "eosadddddddd",
-      "total_votes" : "9698046317289240.00000000000000000",
+      "total_votes" : "9691203243114572.00000000000000000",
       "producer_key" : "EOS8RBVQtaZRWNq5iRoKK3b5nnWHPmqoLgUZbK3TfAtyvucy4QR65",
       "is_active" : 1,
       "url" : "http://eosadd.com",
@@ -4630,7 +4659,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosflareiobp",
-      "total_votes" : "8553014250100397.00000000000000000",
+      "total_votes" : "8553188137869904.00000000000000000",
       "producer_key" : "EOS6FLARENUBrQSqSRWk4BZG6oyUcepnTb1T6j3LgrExpJaL4gk89",
       "is_active" : 1,
       "url" : "https://eosflare.io",
@@ -4640,7 +4669,7 @@
       "prepared-url" : "https://eosflare.io"
     },
     "analyzed-urls" : {
-      "relative-links-count" : 3,
+      "relative-links-count" : 13,
       "duplicate-urls" : null,
       "social-links" : [ ],
       "popularity-boosters" : [ ]
@@ -4651,11 +4680,11 @@
       "logo" : "",
       "url" : "https://eosflare.io/bp.json"
     },
-    "place" : 105
+    "place" : 104
   }, {
     "bp-header" : {
       "owner" : "eosdotwikibp",
-      "total_votes" : "7825947825961797.00000000000000000",
+      "total_votes" : "7825951684493162.00000000000000000",
       "producer_key" : "EOS7RsdDs8k8GDAdZrETnTjoGwiqAwwdNyxeH8q6fmHgpHjPPnyco",
       "is_active" : 1,
       "url" : "https://eos.wiki",
@@ -4671,11 +4700,11 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 108
+    "place" : 107
   }, {
     "bp-header" : {
       "owner" : "top111111111",
-      "total_votes" : "7216122470956650.00000000000000000",
+      "total_votes" : "7212109159972800.00000000000000000",
       "producer_key" : "EOS4yetL39jMqJpuVrnmuhRsFNnhzXWNZSJT2HqdsDdsqS7dB1AQE",
       "is_active" : 1,
       "url" : "https://top.one/bp_info.json/",
@@ -4694,7 +4723,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosvillagebp",
-      "total_votes" : "6815723973792889.00000000000000000",
+      "total_votes" : "6816449224798772.00000000000000000",
       "producer_key" : "EOS63VmFVSwsLBDdepSyx4yr1qeJkrLNq2v1Tgf45WH7sU5mnhLPw",
       "is_active" : 1,
       "url" : "https://eosvillage.io",
@@ -4714,7 +4743,7 @@
   }, {
     "bp-header" : {
       "owner" : "eoscube11111",
-      "total_votes" : "5653383929603843.00000000000000000",
+      "total_votes" : "5670908400632863.00000000000000000",
       "producer_key" : "EOS5DgNvMFzzatTk23tp6NezQsRQBMxqcd687jo6Ks2GCKWRoSxEp",
       "is_active" : 1,
       "url" : "http://eoscube.io/",
@@ -4737,7 +4766,7 @@
   }, {
     "bp-header" : {
       "owner" : "onechaindapp",
-      "total_votes" : "4368643449163950.00000000000000000",
+      "total_votes" : "4368824105343829.50000000000000000",
       "producer_key" : "EOS68hRfmjQTwJmmoPrKA4gYWvdvhUm31PNXCnaez2rY3ZDP83heR",
       "is_active" : 1,
       "url" : "http://eosdapp.oneeos.org/",
@@ -4761,7 +4790,7 @@
   }, {
     "bp-header" : {
       "owner" : "eoshcchealth",
-      "total_votes" : "4286239212306030.50000000000000000",
+      "total_votes" : "4302042966303760.50000000000000000",
       "producer_key" : "EOS7qQrBczoy9B892tRY9eir21eBh6S1nUMjZGyJaVY1EDLe7TdvL",
       "is_active" : 1,
       "url" : "https://eoshcc.keybase.pub",
@@ -4803,31 +4832,8 @@
     "place" : 125
   }, {
     "bp-header" : {
-      "owner" : "eosrussiacom",
-      "total_votes" : "3762344286338831.00000000000000000",
-      "producer_key" : "EOS5ph2U56qqMfT5TLPyf3PinfCJQ3w2iTV1KjmSnbEV2Yisn21dD",
-      "is_active" : 1,
-      "url" : "http://eos.adenso.ru",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 643
-    },
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : {
-      "code_of_conduct" : null,
-      "logo" : null,
-      "url" : "http://eos.adenso.ru/bp.json"
-    },
-    "place" : 128
-  }, {
-    "bp-header" : {
       "owner" : "eosrealbpcsg",
-      "total_votes" : "3109350495793259.00000000000000000",
+      "total_votes" : "3110100814457667.50000000000000000",
       "producer_key" : "EOS6fcpQu16GAASdLwK6BbTQTMK5EZSh1ecci2oKQJdioQvxp8DRs",
       "is_active" : 1,
       "url" : "http://www.eosreal.com",
@@ -4851,7 +4857,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosgamesboot",
-      "total_votes" : "2300125077064033.00000000000000000",
+      "total_votes" : "2317040555140773.00000000000000000",
       "producer_key" : "EOS5SezwGS6sMZY79KwJYxFXRKVd7idwXBcrBy8wqD75vWvkfB15C",
       "is_active" : 1,
       "url" : "http://eos.games",
@@ -4872,7 +4878,7 @@
   }, {
     "bp-header" : {
       "owner" : "eoslovebirds",
-      "total_votes" : "1946704945815040.25000000000000000",
+      "total_votes" : "1947520454660846.00000000000000000",
       "producer_key" : "EOS8PKEHrBuBGJwA5MuMwkptWVJhNbhNpVgBRUb4DpxhD5JmQpxgQ",
       "is_active" : 1,
       "url" : "http://eoslove.io/",
@@ -4892,7 +4898,7 @@
       "logo" : null,
       "url" : "http://eoslove.io/bp.json"
     },
-    "place" : 141
+    "place" : 142
   }, {
     "bp-header" : {
       "owner" : "eoscocoshost",
@@ -4984,7 +4990,7 @@
   }, {
     "bp-header" : {
       "owner" : "deneosioblck",
-      "total_votes" : "572925378778627.12500000000000000",
+      "total_votes" : "574208811670060.50000000000000000",
       "producer_key" : "EOS5xAL439sddjLdSP8TieVUxfV6stkbiNuJaCZZtV8ZjW3SsdnAQ",
       "is_active" : 1,
       "url" : "https://deneos_io.keybase.pub/bp_info.json",
@@ -5027,8 +5033,27 @@
     "place" : 160
   }, {
     "bp-header" : {
+      "owner" : "activeeoscom",
+      "total_votes" : "442080966939952.12500000000000000",
+      "producer_key" : "EOS788SrVzZ3mJt3WUZkmYadjFJCisJGhZRTp85EznxEaqsARN26w",
+      "is_active" : 1,
+      "url" : "https://www.activeeos.com",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 840
+    },
+    "analyzed-urls" : {
+      "duplicate-urls" : null,
+      "social-links" : [ ],
+      "popularity-boosters" : [ ]
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : null,
+    "place" : 163
+  }, {
+    "bp-header" : {
       "owner" : "ivote4eosusa",
-      "total_votes" : "366630223004135.43750000000000000",
+      "total_votes" : "366626415184019.56250000000000000",
       "producer_key" : "EOS6KzD4YVbuXV5uBH5d4Ay4sTzuQk88ivmnWfJPLoo6SFrX6iyqj",
       "is_active" : 1,
       "url" : "http://keybase.pub/eosusa/bp.json",
@@ -5067,7 +5092,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosworkspace",
-      "total_votes" : "281871263582687.12500000000000000",
+      "total_votes" : "283977442928518.12500000000000000",
       "producer_key" : "EOS57YngZKjCtsMHU7PnznYe7fcUz8mg1G93eancAr5ZGGxhKX9aY",
       "is_active" : 1,
       "url" : "",
@@ -5087,7 +5112,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosdailynews",
-      "total_votes" : "256016519856313.90625000000000000",
+      "total_votes" : "258122699202144.87500000000000000",
       "producer_key" : "EOS5Hb3tWYZ3GJ1ma8zzweuPicePXJPDrxW57uZZGNwBQNCu2Mo5e",
       "is_active" : 1,
       "url" : "",
@@ -5186,27 +5211,6 @@
     "place" : 174
   }, {
     "bp-header" : {
-      "owner" : "eosyosemitex",
-      "total_votes" : "219401113875505.87500000000000000",
-      "producer_key" : "EOS87Dyks1xtpeaLXNjouPmz29YLnKwrrkduBoiqZwvFG5jTFyDnp",
-      "is_active" : 1,
-      "url" : "https://yosemitex.com",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : "https://yosemitex.com"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 6,
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : null,
-    "place" : 175
-  }, {
-    "bp-header" : {
       "owner" : "eosfreemason",
       "total_votes" : "210404795753080.81250000000000000",
       "producer_key" : "EOS5g9RFEc3cQui57ZjyHk43V9rLdewGQYaLkSKraTKrg49N87soH",
@@ -5228,7 +5232,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosstarcraft",
-      "total_votes" : "203829086592094.87500000000000000",
+      "total_votes" : "205935265937925.84375000000000000",
       "producer_key" : "EOS5XpGiULq9598rawobxpnwGmRqagaDiVcM5W6RVwio9mDGybU8z",
       "is_active" : 1,
       "url" : "",
@@ -5407,9 +5411,9 @@
     "place" : 186
   }, {
     "bp-header" : {
-      "owner" : "eoschristian",
-      "total_votes" : "177279516351721.68750000000000000",
-      "producer_key" : "EOS5aJPtBz1YmDfQUDAvTBiGfYQLjWzfXEBMAUHjNUZEHf2jCzQSG",
+      "owner" : "eossmartfund",
+      "total_votes" : "178007241221642.68750000000000000",
+      "producer_key" : "EOS5iiJk5hByDcHeSS3nBKPfaBQ5q95FXgafJQAECgLWbXhT7xHs8",
       "is_active" : 1,
       "url" : "",
       "unpaid_blocks" : 0,
@@ -5427,9 +5431,9 @@
     "place" : 187
   }, {
     "bp-header" : {
-      "owner" : "eossmartfund",
-      "total_votes" : "176598935151223.87500000000000000",
-      "producer_key" : "EOS5iiJk5hByDcHeSS3nBKPfaBQ5q95FXgafJQAECgLWbXhT7xHs8",
+      "owner" : "eosbutterfly",
+      "total_votes" : "177726588594742.93750000000000000",
+      "producer_key" : "EOS5H51QSTmeZwyCkKM62sHZ45SYAkpPTdAQ2UGdEMSCsyPg77GNM",
       "is_active" : 1,
       "url" : "",
       "unpaid_blocks" : 0,
@@ -5447,9 +5451,9 @@
     "place" : 188
   }, {
     "bp-header" : {
-      "owner" : "eosbutterfly",
-      "total_votes" : "176318282524324.12500000000000000",
-      "producer_key" : "EOS5H51QSTmeZwyCkKM62sHZ45SYAkpPTdAQ2UGdEMSCsyPg77GNM",
+      "owner" : "eosastrology",
+      "total_votes" : "177609604762461.90625000000000000",
+      "producer_key" : "EOS57fFSY1txzZhGYyY53sgH5HaGb6QuRUqgzpaTx5YN5mcaBSo7G",
       "is_active" : 1,
       "url" : "",
       "unpaid_blocks" : 0,
@@ -5467,9 +5471,9 @@
     "place" : 189
   }, {
     "bp-header" : {
-      "owner" : "eosastrology",
-      "total_votes" : "176201298692043.09375000000000000",
-      "producer_key" : "EOS57fFSY1txzZhGYyY53sgH5HaGb6QuRUqgzpaTx5YN5mcaBSo7G",
+      "owner" : "eoschristian",
+      "total_votes" : "177279516351721.68750000000000000",
+      "producer_key" : "EOS5aJPtBz1YmDfQUDAvTBiGfYQLjWzfXEBMAUHjNUZEHf2jCzQSG",
       "is_active" : 1,
       "url" : "",
       "unpaid_blocks" : 0,
@@ -5488,7 +5492,7 @@
   }, {
     "bp-header" : {
       "owner" : "eossafeguard",
-      "total_votes" : "175399019298620.59375000000000000",
+      "total_votes" : "176807325369039.40625000000000000",
       "producer_key" : "EOS5EYShyXHtfcQoi7aN7efsxvg8JmU74Au8tXjTP9Q4wibaSUTwX",
       "is_active" : 1,
       "url" : "",
@@ -5508,7 +5512,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosorderbook",
-      "total_votes" : "174970880019048.71875000000000000",
+      "total_votes" : "176379186089467.53125000000000000",
       "producer_key" : "EOS52eCd3QFujFFf4JAX81CmAART2y9vvTZwk7DwTKr4kUDYtPztu",
       "is_active" : 1,
       "url" : "",
@@ -5528,7 +5532,7 @@
   }, {
     "bp-header" : {
       "owner" : "eostrademark",
-      "total_votes" : "172331273653880.34375000000000000",
+      "total_votes" : "173739579724299.15625000000000000",
       "producer_key" : "EOS4zTbBXY9SjsyXtfPtaBNFvqgxuAzMGS9eC1XTUpbjpAiVJzgqA",
       "is_active" : 1,
       "url" : "",
@@ -5548,7 +5552,7 @@
   }, {
     "bp-header" : {
       "owner" : "eospromotion",
-      "total_votes" : "172252972321256.09375000000000000",
+      "total_votes" : "173661278391674.90625000000000000",
       "producer_key" : "EOS53dHZNL1ghnG3CQXYMvLVFatCekd9jfFok74pSZkCfKPhL2M2o",
       "is_active" : 1,
       "url" : "",
@@ -5568,7 +5572,7 @@
   }, {
     "bp-header" : {
       "owner" : "eospowerball",
-      "total_votes" : "171965984103069.37500000000000000",
+      "total_votes" : "173374290173488.18750000000000000",
       "producer_key" : "EOS5JrmL1BSjUbAWJ5btRxA9hKF2KHkgjrYmxcmTj2Em22x1inZLA",
       "is_active" : 1,
       "url" : "",
@@ -5588,7 +5592,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosprincipal",
-      "total_votes" : "171955992050245.34375000000000000",
+      "total_votes" : "173364298120664.15625000000000000",
       "producer_key" : "EOS5jSAZcsXFVhxsieHEvxQ9t9JEGcCVrc3RAyQBjtiyXEUXvYsqy",
       "is_active" : 1,
       "url" : "",
@@ -5608,7 +5612,7 @@
   }, {
     "bp-header" : {
       "owner" : "eoshandshake",
-      "total_votes" : "169248105220370.21875000000000000",
+      "total_votes" : "170656411290789.03125000000000000",
       "producer_key" : "EOS5gXX1AomJfFazdzBy1VfvgncR6GjgZiFLjqj9We41TLMNJ14Vq",
       "is_active" : 1,
       "url" : "",
@@ -5628,7 +5632,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosfreelance",
-      "total_votes" : "168617025052159.68750000000000000",
+      "total_votes" : "170025331122578.50000000000000000",
       "producer_key" : "EOS4vvDZno2o6kH1NLLi2afpt3FTpJBMbUB7gzcupaVLTGcVPX54v",
       "is_active" : 1,
       "url" : "",
@@ -5648,7 +5652,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosblockzero",
-      "total_votes" : "167750924816601.28125000000000000",
+      "total_votes" : "169159230887020.09375000000000000",
       "producer_key" : "EOS57W5uAS2WjGeg5YqFT8ieJ1roJQt5qcFoJyuzf58fwtLNd5p2v",
       "is_active" : 1,
       "url" : "http://eosblockzero.com",
@@ -5668,7 +5672,7 @@
   }, {
     "bp-header" : {
       "owner" : "whateosbp111",
-      "total_votes" : "154533895830550.53125000000000000",
+      "total_votes" : "157142645630396.25000000000000000",
       "producer_key" : "EOS5M4pNafgde3WiQc4LTHgDKcFgB4MvaUsNjugTG5KY65aVoL68w",
       "is_active" : 1,
       "url" : "http://www.whateos.com/BP_info.json/",
@@ -5687,7 +5691,7 @@
   }, {
     "bp-header" : {
       "owner" : "oasisproduce",
-      "total_votes" : "144904465832863.09375000000000000",
+      "total_votes" : "146312771903281.90625000000000000",
       "producer_key" : "EOS5wqMLH1t9dTGsgYmKKcNps2mdrzdBmJ8mL3PnNC2M8ktrLvEgs",
       "is_active" : 1,
       "url" : "http://eosoasis.io",
@@ -5711,7 +5715,7 @@
   }, {
     "bp-header" : {
       "owner" : "taxreliefeos",
-      "total_votes" : "142653052306909.50000000000000000",
+      "total_votes" : "142663112320433.15625000000000000",
       "producer_key" : "EOS5CLuk8Fz3F1vu4jKs3aA3MNsHdRhjBHNjU5DfTGya3rURUQoAp",
       "is_active" : 1,
       "url" : "https://eostaxrelief.com/bp_info.json",
@@ -5730,7 +5734,7 @@
       "logo" : "https://abhinavkumar.keybase.pub/eostaxrelief_256.jpg",
       "url" : "https://eostaxrelief.com/bp_info.json"
     },
-    "place" : 204
+    "place" : 205
   }, {
     "bp-header" : {
       "owner" : "eosnewzealbp",
@@ -5749,7 +5753,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 206
+    "place" : 207
   }, {
     "bp-header" : {
       "owner" : "eosphorusdac",
@@ -5772,11 +5776,11 @@
       "logo" : null,
       "url" : "https://eosphorus.io/bp.json"
     },
-    "place" : 210
+    "place" : 211
   }, {
     "bp-header" : {
       "owner" : "eosraychains",
-      "total_votes" : "99378801512159.37500000000000000",
+      "total_votes" : "98944438919287.92187500000000000",
       "producer_key" : "EOS7heWdmdsEHDh4TcV6oUWCNTnnToNf6KxtjKLg9bUZwnxHdhmYT",
       "is_active" : 1,
       "url" : "https://www.eosraychain.com",
@@ -5792,7 +5796,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 212
+    "place" : 213
   }, {
     "bp-header" : {
       "owner" : "spearfundoh1",
@@ -5813,7 +5817,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 214
+    "place" : 215
   }, {
     "bp-header" : {
       "owner" : "eosqiobpoops",
@@ -5832,7 +5836,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 215
+    "place" : 216
   }, {
     "bp-header" : {
       "owner" : "eostexasserv",
@@ -5852,7 +5856,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 218
+    "place" : 219
   }, {
     "bp-header" : {
       "owner" : "eosplaneprod",
@@ -5872,7 +5876,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 220
+    "place" : 221
   }, {
     "bp-header" : {
       "owner" : "marketstackd",
@@ -5891,7 +5895,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 221
+    "place" : 222
   }, {
     "bp-header" : {
       "owner" : "wakandabpeos",
@@ -5911,7 +5915,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 224
+    "place" : 225
   }, {
     "bp-header" : {
       "owner" : "eoswinwinwin",
@@ -5932,7 +5936,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 225
+    "place" : 226
   }, {
     "bp-header" : {
       "owner" : "guytmmrrgmge",
@@ -5952,7 +5956,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 227
+    "place" : 228
   }, {
     "bp-header" : {
       "owner" : "iamtheeosabp",
@@ -5972,7 +5976,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 228
+    "place" : 229
   }, {
     "bp-header" : {
       "owner" : "gqydmnbyguge",
@@ -5992,7 +5996,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 231
+    "place" : 232
   }, {
     "bp-header" : {
       "owner" : "zyatsiusagry",
@@ -6012,7 +6016,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 234
+    "place" : 235
   }, {
     "bp-header" : {
       "owner" : "lamboandmoon",
@@ -6033,7 +6037,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 235
+    "place" : 236
   }, {
     "bp-header" : {
       "owner" : "eoswondersbp",
@@ -6053,7 +6057,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 242
+    "place" : 243
   }, {
     "bp-header" : {
       "owner" : "kunakunakuna",
@@ -6073,7 +6077,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 244
+    "place" : 245
   }, {
     "bp-header" : {
       "owner" : "mifuyxxqwx21",
@@ -6093,7 +6097,26 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 245
+    "place" : 246
+  }, {
+    "bp-header" : {
+      "owner" : "moreisfuture",
+      "total_votes" : "6371644105931.80859375000000000",
+      "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
+      "is_active" : 1,
+      "url" : "https://more.top",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 86
+    },
+    "analyzed-urls" : {
+      "duplicate-urls" : null,
+      "social-links" : [ ],
+      "popularity-boosters" : [ ]
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : null,
+    "place" : 250
   }, {
     "bp-header" : {
       "owner" : "eosiomaxgreg",
@@ -6112,7 +6135,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 252
+    "place" : 253
   }, {
     "bp-header" : {
       "owner" : "nodextecheos",
@@ -6132,7 +6155,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 254
+    "place" : 255
   }, {
     "bp-header" : {
       "owner" : "eosdlbpservr",
@@ -6152,7 +6175,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 255
+    "place" : 256
   }, {
     "bp-header" : {
       "owner" : "1teamcanada1",
@@ -6173,7 +6196,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 256
+    "place" : 257
   }, {
     "bp-header" : {
       "owner" : "galaxypirate",
@@ -6193,29 +6216,6 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 257
-  }, {
-    "bp-header" : {
-      "owner" : "eoschainbmok",
-      "total_votes" : "3102324973533.97802734375000000",
-      "producer_key" : "EOS6dQ4BGsiDUJeGxbd6ZBjY7WTpWNNBPSa5RKCPp3URdSNTtHR7u",
-      "is_active" : 1,
-      "url" : "http://www.aibilink.com",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 852
-    },
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : {
-      "code_of_conduct" : " ",
-      "logo" : "http://www.aibilink.com/static/imagesg/256.jpg",
-      "url" : "http://www.aibilink.com/bp.json"
-    },
     "place" : 258
   }, {
     "bp-header" : {
@@ -6240,7 +6240,7 @@
   }, {
     "bp-header" : {
       "owner" : "eosmusicians",
-      "total_votes" : "2378671476283.07031250000000000",
+      "total_votes" : "2912618519312.29199218750000000",
       "producer_key" : "EOS5sTzYycaX11XzrS4zoL7VawyfuQZapofgfXovEfNHgvuZTKWHn",
       "is_active" : 1,
       "url" : "",
@@ -6256,7 +6256,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 261
+    "place" : 260
   }, {
     "bp-header" : {
       "owner" : "haydinjqgige",
@@ -7139,6 +7139,25 @@
     "place" : 307
   }, {
     "bp-header" : {
+      "owner" : "cryptominers",
+      "total_votes" : "1026939899973.00610351562500000",
+      "producer_key" : "EOS6nSMnwndoJzuXMdU6q2SeHdoZjb3hct6Q84s4CuY3voonE5bsV",
+      "is_active" : 1,
+      "url" : "http://www.test.com",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 0
+    },
+    "analyzed-urls" : {
+      "duplicate-urls" : null,
+      "social-links" : [ ],
+      "popularity-boosters" : [ ]
+    },
+    "p-ram-amounts" : [ ],
+    "bp-json-summary" : null,
+    "place" : 308
+  }, {
+    "bp-header" : {
       "owner" : "haydinjqhege",
       "total_votes" : "996627341416.88281250000000000",
       "producer_key" : "EOS6bLT4zQywU51vA4uKgsBcdykgRt6nT4ghwgEMJtcW6wo8CArT5",
@@ -7156,7 +7175,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 308
+    "place" : 309
   }, {
     "bp-header" : {
       "owner" : "haydinjtgige",
@@ -7176,7 +7195,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 309
+    "place" : 310
   }, {
     "bp-header" : {
       "owner" : "haydiobvhage",
@@ -7196,7 +7215,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 310
+    "place" : 311
   }, {
     "bp-header" : {
       "owner" : "haydinzugige",
@@ -7216,7 +7235,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 311
+    "place" : 312
   }, {
     "bp-header" : {
       "owner" : "haydiojyguge",
@@ -7236,7 +7255,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 312
+    "place" : 313
   }, {
     "bp-header" : {
       "owner" : "g44tsnrwgyge",
@@ -7256,7 +7275,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 313
+    "place" : 314
   }, {
     "bp-header" : {
       "owner" : "haydiojqg4ge",
@@ -7276,7 +7295,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 314
+    "place" : 315
   }, {
     "bp-header" : {
       "owner" : "haydinjqgyge",
@@ -7296,7 +7315,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 315
+    "place" : 316
   }, {
     "bp-header" : {
       "owner" : "g44tomzugmge",
@@ -7316,7 +7335,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 316
+    "place" : 317
   }, {
     "bp-header" : {
       "owner" : "g44tomrxhege",
@@ -7336,7 +7355,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 317
+    "place" : 318
   }, {
     "bp-header" : {
       "owner" : "g44tomrxhage",
@@ -7356,7 +7375,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 318
+    "place" : 319
   }, {
     "bp-header" : {
       "owner" : "g44timjvgage",
@@ -7376,7 +7395,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 319
+    "place" : 320
   }, {
     "bp-header" : {
       "owner" : "haydiojyhege",
@@ -7396,7 +7415,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 320
+    "place" : 321
   }, {
     "bp-header" : {
       "owner" : "haydiojyhage",
@@ -7416,7 +7435,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 321
+    "place" : 322
   }, {
     "bp-header" : {
       "owner" : "haydiojyg4ge",
@@ -7436,7 +7455,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 322
+    "place" : 323
   }, {
     "bp-header" : {
       "owner" : "haydinjvg4ge",
@@ -7456,7 +7475,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 323
+    "place" : 324
   }, {
     "bp-header" : {
       "owner" : "haydinbrgage",
@@ -7476,7 +7495,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 324
+    "place" : 325
   }, {
     "bp-header" : {
       "owner" : "haydiojzhege",
@@ -7496,7 +7515,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 325
+    "place" : 326
   }, {
     "bp-header" : {
       "owner" : "haydiojygige",
@@ -7516,7 +7535,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 326
+    "place" : 327
   }, {
     "bp-header" : {
       "owner" : "haydiojxhage",
@@ -7536,7 +7555,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 327
+    "place" : 328
   }, {
     "bp-header" : {
       "owner" : "haydiojxgyge",
@@ -7556,7 +7575,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 328
+    "place" : 329
   }, {
     "bp-header" : {
       "owner" : "haydiojwgege",
@@ -7576,7 +7595,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 329
+    "place" : 330
   }, {
     "bp-header" : {
       "owner" : "haydiojugige",
@@ -7596,7 +7615,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 330
+    "place" : 331
   }, {
     "bp-header" : {
       "owner" : "haydinrqgege",
@@ -7616,7 +7635,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 331
+    "place" : 332
   }, {
     "bp-header" : {
       "owner" : "haydinjwgege",
@@ -7636,7 +7655,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 332
+    "place" : 333
   }, {
     "bp-header" : {
       "owner" : "haydinbtgage",
@@ -7656,7 +7675,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 333
+    "place" : 334
   }, {
     "bp-header" : {
       "owner" : "haydimzzgqge",
@@ -7676,7 +7695,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 334
+    "place" : 335
   }, {
     "bp-header" : {
       "owner" : "g44tsnrwg4ge",
@@ -7696,7 +7715,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 335
+    "place" : 336
   }, {
     "bp-header" : {
       "owner" : "haydiojxgmge",
@@ -7716,7 +7735,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 336
+    "place" : 337
   }, {
     "bp-header" : {
       "owner" : "haydiojxguge",
@@ -7736,7 +7755,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 337
+    "place" : 338
   }, {
     "bp-header" : {
       "owner" : "haydiojwgyge",
@@ -7756,7 +7775,7 @@
     },
     "p-ram-amounts" : [ ],
     "bp-json-summary" : null,
-    "place" : 338
+    "place" : 339
   }, {
     "bp-header" : {
       "owner" : "haydiojwguge",
@@ -7768,25 +7787,6 @@
       "last_claim_time" : 0,
       "location" : 0,
       "prepared-url" : null
-    },
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "bp-json-summary" : null,
-    "place" : 339
-  }, {
-    "bp-header" : {
-      "owner" : "cryptominers",
-      "total_votes" : "492992856943.78417968750000000",
-      "producer_key" : "EOS6nSMnwndoJzuXMdU6q2SeHdoZjb3hct6Q84s4CuY3voonE5bsV",
-      "is_active" : 1,
-      "url" : "http://www.test.com",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0
     },
     "analyzed-urls" : {
       "duplicate-urls" : null,
