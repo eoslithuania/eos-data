@@ -1,147 +1,246 @@
 {
-  "snapshot-date-utc" : "2018-07-07T20:49:19.475Z",
+  "snapshot-date-utc" : "2018-07-08T08:16:05.172Z",
   "block-producers" : [ {
     "bp-header" : {
-      "owner" : "eosgenblockp",
-      "total_votes" : "167498118683609792.00000000000000000",
-      "producer_key" : "EOS65tu7JUi74KL1JAffKYtMw6HRKnxD1LAxLBFoCvcdfBB9AMU8n",
+      "owner" : "eoscanadacom",
+      "total_votes" : "263736540032310304.00000000000000000",
+      "producer_key" : "EOS5HYV7rWeRxpZMCooe8YHRFQHKK7ncdmmUMTe3wCMaY2EvyVzUx",
       "is_active" : 1,
-      "url" : "https://www.genesis-mining.com/eos",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : "1530654048500000",
+      "url" : "https://www.eoscanada.com",
+      "unpaid_blocks" : 5075,
+      "last_claim_time" : "1530984133500000",
       "location" : 0,
-      "prepared-url" : "https://www.genesis-mining.com/eos"
+      "prepared-url" : "https://www.eoscanada.com"
     },
     "bp-json-summary" : {
-      "url" : "https://www.genesis-mining.com/eos/bp.json",
-      "code_of_conduct" : "https://www.genesis-mining.com/eos"
+      "url" : "https://www.eoscanada.com/bp.json",
+      "logo" : "https://cdn2.hubspot.net/hubfs/4518039/eos-canada-logo-square-256px.png",
+      "code_of_conduct" : "https://www.eoscanada.com/en/code-of-conduct"
     },
     "analyzed-urls" : {
-      "relative-links-count" : 36,
+      "relative-links-count" : 17,
       "duplicate-urls" : null,
-      "social-links" : [ "http://my.yotpo.com/landing_page?redirect=https%3A%2F%2Fwww.yotpo.com%2Fverified-product-reviews-by-yotpo%2F&utm_campaign=reviews_tab&utm_medium=widget&utm_source=https%3A%2F%2Fwww.genesis-mining.com", "http://www.instagram.com/genesismining_official", "http://www.medium.com/@genesismining", "https://medium.com/@genesismining", "https://plus.google.com/share?", "https://plus.google.com/share?url=https%3A%2F%2Fyotpo.com%2Fgo%2FqbeM5UAk", "https://steemit.com/@genesisminingoff", "https://twitter.com/GenesisMining", "https://vk.com/genesisminingrus", "https://www.facebook.com/GenesisMining", "https://www.facebook.com/GenesisMining/", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3D%26review%3D%26social_title%3D&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAfter%2Bresearch%252C%2BI%2Bhave%2Bdecided%2Bto%2Bgo%2Bwith%2BGenesis%2BMining.%2BWHY%253F%253F%253F%2BBecause%2Bthey%2Bare%2Bthe%2Blargest%2Bcloud%2Bmining%2Bcompanies%2Bin%2Bthe%2Bworld%2521%2521%2521%2BI%2Bguess%2BI%2Blike%2Bhaving%2Ba%2Bsort%2Bof%2Bsafety%2Bnet%2Bby%2Binvesting%2Bin%2Bthe%2Bbiggest.%2BAlso%252C%2Bwith%2BGenesis%252C%2Bthey%2Bhave%2Bregular%2Bdaily%2Bpayouts%2Band%2Blow%2Bmaintenance%2Bfees.%2B%250A%250AAs%2Bfor%2Bthe%2Bregistration%252C%2Bit%2Bwas%2Bpretty%2Bstraight%2Bforward%2Bfor%2Bme.%2BI%2Bheaded%2Bover%2Bto%2Bwww.genesis-mining.com%252C%2Bregistered%2Bfor%2Ban%2Baccount%252C%2Bproceeded%2Bto%2Bselect%2Bmy%2Bpackage%2Band%2Bpaid%2Bwith%2Bmy%2Bcredit%2Bcard.%250A%250AIf%2Byou%2Bplan%2Bto%2Bpurchase%2Busing%2BGenesis%2Bas%2Bwell%252C%2Bplease%2Bgo%2Bahead%2Band%2Bkey%2Bin%2Bthe%2Bfollowing%2Bcode%253A%2Btc9bup%2Bwhich%2Bgives%2Byou%2Ban%2Binstant%2B3%2525%2Bdiscount%2Bon%2Byour%2Bpurchase.%26social_title%3DMy%2BFirst%2BCrytocurrencies%2BVenture%2521%2521%2521&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D53968453", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAlles%2Bbestens%252C%2Baus%2Bmeiner%2BSicht%2Bdie%2Bbeste%2BInvestition.%2BMan%2Bwird%2Bnicht%2BReich%252C%2Baber%2Bmit%2Bden%2Bsteigenden%2BBitcoin%2BPreis%2Bmit%2BSicherheit%2Bgut.%26social_title%3DEinfach%2BGoldwert&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49155012", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAs%2Bsha255%2Bhash%2Bpower%2Bis%2Bsold%2Bout%2Bnow%252C%2Bdagger%2Bhashimoto%2Bis%2Bbest%2Bhash%2Bpower%2Bin%2BGenesis%2BMining.%26social_title%3DNext%2Bto%2Bsha256&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44509577", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DAs%2Bthe%2Bprice%2Bof%2Bbitcoin%2Bkeeps%2Bflowing%2Bup%2Bas%2Bbeer%2Bfoam%252C%2Bthe%2Bonly%2Breal%2Bthreat%2Bis%2Bovercoming%2Bdifficulty%252C%2Bgrowing%2Bto%2Bthe%2Bmoon%2Band%2Bbeyond.%250A%250Awell%252C%2Bthis%2Bis%2Ba%2Bgambling%2Bof%2Bbelive%2Bof%2Bwhat%2Bwill%2Bbe%26social_title%3Dit%2Blooks%2Blike%2Ba%2Bprolific%252C%2Bengaged%2Bfuture&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49142049", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DBang%2Bfor%2Bthe%2Bbuck%2521%2Bso%2Bglad%2BI%2Bwas%2Bable%2Bto%2Bplace%2Bthis%2Border%2Bbefore%2Bit%2Bgot%2Bsold%2Bout%2521%26social_title%3DGold%2521&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49134507", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DConcerned%2Babout%2Bthe%2Black%2Bof%2Bpromised%2Bdaily%2Breports%26social_title%3DConcerned%2Babout%2Bthe%2Black%2Bof&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44510430", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DEasy%2Band%2Bso%2Bquicky%2Bsetyp.%2BMining%2Bas%2Byou%2Bpay.%2BChanging%2Brepartition%2Bis%2Ba%2Bnice%2Boption%26social_title%3DEasy%2B%2526%2Bquick%2Bsetup&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49243294", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DEstou%2Bsatisfeito%2Bcom%2Ba%2Bminera%25C3%25A7%25C3%25A3o%2Bat%25C3%25A9%2Bo%2Bmomento.%2BFiz%2Bvalor%2Bpequeno%2Bcomo%2Bteste%252C%2Bpretendo%2Binvestir%2Bmais.%26social_title%3DSatisfeito%2Bcom%2Ba%2Bminera%25C3%25A7%25C3%25A3o&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49134854", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DExcellent%2Bmining%2Bcompany.%2BTrustworthy%252C%2Breliable%2Band%2Ba%2Bgood%2BReturn%2Bon%2BInvestment.%2BJust%2Bbought%2Ba%2Bnew%2BETH%2Bmining%2Bcontract%2Bwhich%2Bis%2Btemporarily%2Bavailable%2Bat%2Bthe%2Bmoment%252C%2Bso%2Bdon%2527t%2Bmiss%2Bout%2Bon%2Bthis%2Boppurtunity%2521%2BBetter%2Bstill%253A%2Bget%2Ba%2B3%2525%2Bdiscount%2Bon%2Byour%2Bpurchase%2Bby%2Busing%2Bthis%2Bcode%2Bat%2Bthe%2Bpayment%2Bpage%253A%2B5nWhDR%26social_title%3DExcellent&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D54497355", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DExcellent%2Breturns%2Band%2Bbonuses%252C%2Bgood%2Bbusiness%2Bmodel%2Band%2Bfair%2Bpricing%2B%2528best%2Bbang%2Bfor%2Bmy%2Bbuck%2Bthat%2BI%2Bcould%2Bfind%2529%2BEasy%2Bto%2Buse%2Bgui.%2Bexcellent%2Baddition%2Bto%2Bmy%2Bphysical%2Bmine.%2Bcustomer%2Bsupport%2Bis%2Bgood.%2BA%252B%2Boverall%26social_title%3DSo%2Bfar%2Bso%2Bgood.%2BExcellent%2Breturns.&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51960905", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DGenesis%2Bmining%2Bhas%2Bbeen%2Ban%2Bexcellent%2Bsource%2Bfor%2Bextra%2Bincome.%2BThere%2Bis%2Bno%2Bother%2Bplan%2Bout%2Bthere%2Bthat%2Bgives%2Band%2BROI%2Blike%2Bcryptocurrencies%2Band%2BGenesis%2Bhas%2Bthe%2Bbest%2Bprices%2Band%2Bguest%2Bservice.%2BPlease%2Buse%2Bthis%2Baffiliate%2Bcode%2Bfor%2B3%2525%2Boff%2Byour%2Bprice%253A%2BTWx9RS%26social_title%3DGenesis%2BMining%2B-%2BDaily%2BExtra%2BIncome&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D53445800", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DGreat%2Bflow%252C%2Bfrom%2Bgetting%2Binfo%2Bto%2Bbuying.%2BSite%2Bis%2Bclean%2Band%2Beverything%2Bis%2Bwell%2Borganized.%2B%250A%250AI%2Bwould%2Bsuggested%2Bone%2Bthing%253A%2BLive%2Bsupport.%2BEven%2Bif%2Buser%2Bknows%2Bthat%2Bhe%2Bneed%2Bto%2Bwait%2B2-3%2Bhours%2Bon%2Blive%2Bsupport%2Bits%2Bmuch%2Bbetter%2Bthen%2Bopening%2Btickets%2Band%2Bdont%2Bknow%2Bwhen%2Bit%2Bwill%2Bbe%2Bseen.%250A%250AAlso%252C%2Byou%2Bmay%2Bwant%2Bto%2Bremove%2Bthis%2B3%2Boffers%2Bat%2Bthe%2Bbottom%2Bof%2Bthis%2Bemail.%2BIt%2Bsuggest%2Bthat%2BI%2Bam%2Bspecial%2Buser%2Band%2BI%2Bcan%2Bbuy%2Bbtc%2Bor%2Bltc%2Bon%2Bspecial%2Bdeal%2Bbut%2BI%2Bcant.%2BIts%2Bjust%2Bold%2Bsale%2BI%2Bguess.%2BOr%2Bmaybe%2BI%2Bam%2Bwrong%2Bbecause%2BI%2Bwould%2Blike%2Bto%2Bget%2Bhigh%2Bbtc%2Bcontract.%250A%250AAfterall%252C%2Beverything%2Bis%2Bwell%2Borganized.%2BKeep%2Bon%2Bthe%2Bgood%2Bwork.%26social_title%3DWell%2Borganized&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51761051", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DHello%252C%2BI%2Bthat%2Bwill%2Bbe%2Bgood%2Binvest%2Bfor%2Bme%2Bno%2Bchildren%2Bgame%2B%253A-%2529%26social_title%3DContract&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44511710", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2BInvested%2Btwo%2Bweeks%2Bago%2Bin%2Bgenesis%2Bmining.%2BSo%2Bfar%2BI%2Bam%2Bsatisfied.%2BI%2Bget%2Bmy%2Bpayouts%2Beveryday%2Band%2BI%2Bhad%2Bno%2Btrouble.%250AI%2Bwould%2Beven%2Blike%2Bto%2Binvest%2Bmore%2Blike%2Bin%2BBitcoin%2Boder%2BEtherum%2Bmining%252C%2Bbut%2Bright%2Bnow%2Bthey%2Bare%2Bjust%2Boffering%2BMonero%2Bmining.%250A%250AIf%2Byou%2Bwant%2Bto%2Btry%2Bit%2Bas%2Bwell%252C%2Buse%2Bthis%2Blink%2Bto%2Bregister%253A%250A%250Ahttps%253A%252F%252Fwww.genesis-mining.com%252Fa%252F2131711%250A%250AIf%2Byou%2Bwant%2Bto%2Bget%2Ba%2Bdiscount%2Bon%2Byour%2Border%252C%2Buse%2Bthis%2Bcode%253A%2B%250A%250AcmVw4K%250A%250ACheers%2BJoe%26social_title%3DI%2BInvested%2Btwo%2Bweeks%2Bago&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52533285", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2Bdon%25E2%2580%2599t%2Bknow%2Byet%252C%2Blooks%2Bgood%2BI%2Bguess%252C%2Bif%2Bonly%2Byou%2Bcould%2Boffer%2Bthe%2Bcontract%2Bfor%2Bbitcoin%2Bthat%2Byou%2Brecommend%2Bin%2Bthe%2Bemail...or%2Bat%2Bleast%2Blet%2Bus%2Bknow%2Bfor%2Bsome%2Bearly%2Bbird%2Bcontracts%2B%26social_title%3DHey&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51690249", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2Bfind%2Bbit%2Bslow%2Breplay%2Band%2Bstill%2Bhave%2Bpending%2Bissues%2Bfor%2Bmor%2Bthan%2Bseveral%2Bdays%26social_title%3Dsupport&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44511590", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DI%2Bhave%2Bdone%2Bmy%2Bown%2Bmining%252C%2Bset%2Bup%2Bservers%252C%2Bcooling%252C%2Band%2Bdata%2Bcenter%2Bspace.%2BFixed%2Bthe%2Bequipment%2Bwhen%2Bit%2Bfailed%2Band%2Bhad%2Bto%2Bmake%2Bsure%2Bit%2Bwas%2Bonline%2Band%2Bsecure%2Bfrom%2Bhackers.%2BGenesis%2BMining%2Bis%2Bso%2Bmuch%2Beasier.%2BI%2Blike%2Bhow%2Bthe%2Bchose%2BIceland%2Bas%2Bthe%2BMining%2Blocation%2Bwith%2Barctic%2Bair%2Band%2Bthermal%2Bpower.%2BThe%2Binterfaces%2Bare%2Beasy%2Bto%2Buse%2Band%2Bthe%2Bprotection%2Byou%2Bfrom%2Bmaking%2Bdumb%2Bmistakes%2Blike%2Btoo%2Bsmall%2Bof%2Bbitcoin%2Bdeposits%2Bthat%2Beat%2Bup%2Ball%2Byour%2Bprofits.%250ABottom%2Bline%2Bthese%2Bguys%2Bare%2Breputable%252C%2Bhonest%252C%2Btransparent%2B%2528twitter%252C%2Bemail%252C%2Bportal%2Bscreens%2529%2Band%2Befficient.%2BLook%2Bno%2Bfurther%2Bthan%2Bhere%2Bif%2Byou%2Bwant%2Bto%2Bmine%2BCrypto%2527s.%26social_title%3DVery%2Bpleased%2Bwith%2Bmy%2Bchoice%2Bof%2BGenesis%2BMining&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52238853", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DMost%2Bplaces%2Bonly%2Boffer%2Bone%2Byear%2Bcontracts%252C%2Bwith%2Bgenesis%2Boffering%2Btwo%2Byears%2Byou%2Bget%2Bthe%2Bmost%2Bbang%2Bfor%2Byour%2Bbuck%2Band%2Bis%2Ba%2Breliable%2Breputable%2Bcompany%2521%26social_title%3DGreat%2BValue&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52291353", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DNice%2Btho%252C%2Bbut%2BGUI%2Bshould%2Bbe%2Blittle%2Bbit%2Bmore%2Bobvious%2Bor%2Bmore%2Bexplainatory%26social_title%3DNice%2Btho%252C%2Bbut%2BGUI%2Bshould&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44515816", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DPlease%2Bdrop%2Band%2Bemail%2Bto%2Bme%2Bif%2Bhashpower%2Bfor%2BBitcoin%2Bis%2Bavailable.%2BI%2Bwant%2Bto%2Bbuy%2Bmore%2Bhashpower.%2BThanks%26social_title%3DI%2Bwish%2Bto%2Bbuy%2Bmore%2Bhashpower&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D48941967", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DSo%2Bfar%2Bhaven%25E2%2580%2599t%2Bgot%2Bany%2Bproblem%2Band%2Bwaiting%2Bfor%2Bmy%2Brecently%2Bpurchased%2Btwo%2Byear%2BMonero%2Bplan%2Bto%2Bbe%2Binetiated..%2Bwill%2Bfeedback%2Bone%2Bemail%2Bmore%2Binteracted%2Bwith%2Bgenesis..%26social_title%3DJust%2Bjoined%2Bgenesis&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D51676970", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DThey%2Bwork%2Bfast%2521%2521%2BI%2Bhad%2Ba%2Bproblem%2Bwith%2Bmy%2Baccount%2Band%2BI%2Bsent%2Bthem%2Bemail.%2BThey%2Brespond%2Bwithin%2B10%2Bmins.%2BWebsite%2Bis%2Beasy%2Bto%2Buse.%26social_title%3DGreat%2Bservice&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49429416", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DThis%2Bis%2Bmy%2Bsecond%2Bcontract%2Bwith%2Bthis%2Bcompany%2Band%2Bi%2Bam%2B100%2525%2Bsatisfied%2Bwith%2Bthe%2Bservice%252C%2Bconsistency%2Band%2Bmost%2Bof%2Ball%2Bthe%2Btransparency.%2BUpdates%2Bor%2Bchanges%2Bare%2Bpublished%2Bon%2Bthe%2Bwebsite%2Bas%2Bwell%2Bas%2Bsent%2Bto%2Bmy%2Bemail.%2BGood%2Bstuff.%26social_title%3DBought%2Banother&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D52684891", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3DWill%2Binvest%2Bin%2Bmore.%2BHash%26social_title%3DLooks%2Bvery%2Bgood&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44514704", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dcheap.%2Bbang%2Bfor%2Bthe%2Bbuck%2Blong%2Bterm%26social_title%3Dbang%2Bfor%2Bthe%2Bbuck&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49281948", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Deverything%2Bwas%2Bok%250Abut%2Bi%2Bhave%2Bdoubts%2B......how%2Bwork%2B3%2525off%2Breward%2Bcode%2B......%253F%26social_title%3Dgood&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49116206", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dgot%2Bpayment%2Bthe%2Bnext%2Bday%2Bi%2Bstarted%26social_title%3Dit%2Bworks&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44515673", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dso%2Bfar%2Bso%2Bgood.%2Bhear%2Bi%2Bmentioned%2Bwhat%2Bi%2Blike%2Bmost%250AFast%252C%2Beasy%2Band%2Bfree%2Bsignup%250A%252A%2BFast%2Band%2Bfriendly%2Bcustomer%2Bcare%252C%2Bquickly%2Bresponding%2Band%2Bresolving%2Bproblems.....%250A%252AInvestments%2Bas%2Blow%2Bas%2B100%2BGHS%2B%252F%2B1%2BMHS%250A%252A%2BEasy%2Bto%2Bunderstand%2Band%2Bto%2Boperate%2Bdashboard%2Bpanel%250A%252A%2BVery%2Bwell%2Bthought%2Bdesign%2Band%2Bgeneral%2Bfunctionality%2Bjust%2Bawesome%250A%252ATwo%2Bfactor%2Bauthentification%250A%252B%2BRefferal%2B%252F%2Bpromo%2Bcode%2Bsystem%26social_title%3Dgenesis%2Bmining%2Bis%2Bout%2Bof%2Bworld&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D49002274", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dtrustworthy%2Bsite.%2Byou%2Bsee%2Bthe%2Bresults%2Balready%2Bfrom%2Bthe%2Bfirst%2B24%2Bhours.%2Brecommended%26social_title%3DGood%2Bchoise&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44509460", "https://www.facebook.com/dialog/feed?app_id=226132034107547&display=popup&link=http%3A%2F%2Freviews.me%2Ffacebook_post%3Fimage_url%3D%26product_url%3Dhttps%253A%252F%252Fyotpo.com%252Fgo%252FuMiXzuOp%26review%3Dv%2Bgood%26social_title%3Dgood&redirect_uri=http%3A%2F%2Fmy.yotpo.com%2Fshares%3Freview_id%3D44510456", "https://www.instagram.com/GenesisMining_Official", "https://www.linkedin.com/organization/5095028/", "https://www.youtube.com/GenesisMining_Official", "https://www.youtube.com/c/Genesismining_official" ],
-      "social-links-count" : 46,
-      "popularity-boosters" : [ "http://www.genesiscloud.com", "https://blog.genesis-mining.com/", "https://www.genesis-mining.ru/", "https://yotpo.com/go/6nkz2dPn" ],
-      "popularity-boosters-count" : 4
+      "social-links" : [ "http://i.youku.com/eoscanada", "https://github.com/eoscanada", "https://steemit.com/@eos-canada", "https://steemit.com/eos/@eos-canada/introducing-eos-canada-a-leading-block-producer-candidate", "https://t.me/eoscanada", "https://twitter.com/EOS_Canada", "https://www.facebook.com/eoscanadacom", "https://www.linkedin.com/company/eoscanada/", "https://www.reddit.com/user/EOSCanada/", "https://www.weibo.com/eoscanada", "https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ" ],
+      "social-links-count" : 11,
+      "popularity-boosters" : [ "en/privacy-policy?hsLang=en", "http://eoscanada.com/", "http://eoscanada.com/en", "http://eoscanada.com/en/contact-us", "http://eoscanada.com/en/tools", "http://eoscanada.com/knowledge-base", "https://bihu.com/people/460474", "https://diagram.ca/" ],
+      "popularity-boosters-count" : 8
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.3022494766701396,
+    "vote-percentage" : 0.1507146843990386,
     "scoring" : {
       "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
-      "penalty-list" : [ "coc-not-steemit" ],
+      "warn-list" : [ "coc-not-steemit" ],
+      "total" : 3,
+      "maximum-positive" : 3
+    },
+    "place" : 1
+  }, {
+    "bp-header" : {
+      "owner" : "eosamericas2",
+      "total_votes" : "3780673493817186.50000000000000000",
+      "producer_key" : "EOS76jasQrUqZ56mkmERw9mZy6UfXcJ8oX5m3FYsHLcJbkhqkKDD7",
+      "is_active" : 1,
+      "url" : "http://www.eosamericas.com",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 0,
+      "prepared-url" : "http://www.eosamericas.com"
+    },
+    "bp-json-summary" : {
+      "url" : "http://www.eosamericas.com/bp.json",
+      "logo" : "https://eosamericas.com/images/eosamericaslogo_256.png",
+      "code_of_conduct" : "https://steemit.com/eos/@eosamericas/eosamericas-block-producer-code-of-conduct"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 12,
+      "duplicate-urls" : null,
+      "social-links" : [ "http://t.me/EOSAmericas", "http://twitter.com/EOSAmericas", "https://steemit.com/@eosamericas", "https://www.linkedin.com/in/douglashorn/", "https://www.linkedin.com/in/edmund-shern-7522001/", "https://www.linkedin.com/in/eedsilva/", "https://www.linkedin.com/in/james-davis-csm-73b4ba7/", "https://www.linkedin.com/in/joshmanderville/", "https://www.linkedin.com/in/lipsebatista/", "https://www.linkedin.com/in/minbo-min-95baa010b/", "https://www.linkedin.com/in/peter-bue/" ],
+      "social-links-count" : 11,
+      "popularity-boosters" : [ "https://eosamericas.com/voting", "index.br.html", "index.cn.html", "index.es.html", "index.fr.html", "index.kr.html" ],
+      "popularity-boosters-count" : 6
+    },
+    "p-ram-amounts" : [ ],
+    "vote-percentage" : 0.00216050082543231,
+    "scoring" : {
+      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
+      "total" : 3,
+      "maximum-positive" : 3
+    },
+    "place" : 15
+  }, {
+    "bp-header" : {
+      "owner" : "eosnewyorkio",
+      "total_votes" : "269357636867692640.00000000000000000",
+      "producer_key" : "EOS6GVX8eUqC1gN1293B3ivCNbifbr1BT6gzTFaQBXzWH9QNKVM4X",
+      "is_active" : 1,
+      "url" : "https://bp.eosnewyork.io",
+      "unpaid_blocks" : 6204,
+      "last_claim_time" : "1530972127000000",
+      "location" : 184,
+      "prepared-url" : "https://bp.eosnewyork.io"
+    },
+    "bp-json-summary" : {
+      "url" : "https://bp.eosnewyork.io/bp.json",
+      "logo" : "https://bp.eosnewyork.io/Logo_256.jpg",
+      "code_of_conduct" : "https://steemit.com/eos/@eosnewyork/eos-new-york-code-of-conduct"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 3,
+      "duplicate-urls" : null,
+      "social-links" : [ "https://github.com/eosnewyork", "https://medium.com/eos-new-york", "https://steemit.com/@eosnewyork", "https://steemit.com/eos/@eosnewyork/calculating-the-costs-of-resources-on-eos-the-eos-resource-planner-is-live", "https://steemit.com/eos/@eosnewyork/liquid-democracy-by-the-hour-eosstats-io", "https://steemit.com/eos/@eosnewyork/practice-safe-staking-one-easy-tip-for-keeping-eos-tokens-safe", "https://steemit.com/eos/@eosnewyork/the-eos-mainnet-launch-survival-guide-how-to-avoid-scams", "https://steemit.com/eos/@eosnewyork/your-vote-matters-4-how-to-vote-on-the-eos-mainnet", "https://t.me/eosnewyorkchat", "https://twitter.com/eosnewyork?lang=en", "https://www.meetup.com/EOS-New-York" ],
+      "social-links-count" : 11,
+      "popularity-boosters" : [ " https://www.eosdocs.io/", "https://nebulaprotocol.com/index.html", "https://www.chintai-eos.io/", "https://www.eosrp.io/", "https://www.eosstats.io/hourlystats/" ],
+      "popularity-boosters-count" : 5
+    },
+    "p-ram-amounts" : [ ],
+    "vote-percentage" : 0.15392691216018725,
+    "scoring" : {
+      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
       "total" : 3,
       "maximum-positive" : 3
     },
     "place" : 0
   }, {
     "bp-header" : {
-      "owner" : "eosiodetroit",
-      "total_votes" : "15023177102069964.00000000000000000",
-      "producer_key" : "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
+      "owner" : "eosdublinwow",
+      "total_votes" : "57916687890378664.00000000000000000",
+      "producer_key" : "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
       "is_active" : 1,
-      "url" : "https://eosdetroit.io",
+      "url" : "https://www.eosdublin.com",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530217459000000",
-      "location" : 840,
-      "prepared-url" : "https://eosdetroit.io"
+      "last_claim_time" : "1530950583000000",
+      "location" : 372,
+      "prepared-url" : "https://www.eosdublin.com"
     },
     "bp-json-summary" : {
-      "url" : "https://eosdetroit.io/bp.json",
-      "logo" : "https://eosdetroit.io/images/eos-detroit_256.png",
-      "code_of_conduct" : "https://steemit.com/eos/@eos.detroit/eos-detroit-membership-guidelines"
+      "url" : "https://www.eosdublin.com/bp.json",
+      "logo" : "https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/logo_light_256.png",
+      "code_of_conduct" : "https://www.eosdublin.com/values/"
     },
     "analyzed-urls" : {
       "relative-links-count" : 8,
       "duplicate-urls" : null,
-      "social-links" : [ "https://medium.com/@eosiodetroit", "https://steemit.com/eos/@eos.detroit/eos-detroit-an-update-our-position-on-dividends-and-our-roadmap", "https://steemit.com/eos/@eos.detroit/eos-launch-guide", "https://t.me/eos_detroit", "https://twitter.com/eosiodetroit", "https://www.facebook.com/eosiodetroit/", "https://www.instagram.com/eosdetroit", "https://www.reddit.com/user/eosdetroit/", "https://www.youtube.com/watch?v=DO4J_PC1b5M" ],
+      "social-links" : [ "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
       "social-links-count" : 9,
-      "popularity-boosters" : [ ]
+      "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://everipedia.org/wiki/eos-dublin/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/" ],
+      "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.027109244287098957,
+    "vote-percentage" : 0.033097026812313024,
     "scoring" : {
       "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
-      "total" : 3,
-      "maximum-positive" : 3
-    },
-    "place" : 5
-  }, {
-    "bp-header" : {
-      "owner" : "eosvancouver",
-      "total_votes" : "4968265877492909.00000000000000000",
-      "producer_key" : "EOS7iENfXSAhKVxbi4cjviazqKYM58vpsPYEkkJHJxabsPiYk1aHs",
-      "is_active" : 1,
-      "url" : "http://www.eosvan.io",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : "http://www.eosvan.io"
-    },
-    "bp-json-summary" : {
-      "url" : "http://www.eosvan.io/bp.json",
-      "logo" : "http://eosvan.io/images/eosvan-logo-256px.png",
-      "code_of_conduct" : "http://eosvan.io/coc/"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 5,
-      "duplicate-urls" : null,
-      "social-links" : [ "https://eosportal.io/chain/12/producers", "https://steemit.com/eos-blockproducers/@eosvancouver/eos-van-eosvan-io-block-producer-candidates", "https://www.linkedin.com/in/chen-li/", "https://www.linkedin.com/in/guowei-huang-8a6b5210b/", "https://www.linkedin.com/in/victor-hogrefe-b7b4a4125/", "https://www.linkedin.com/in/yonel/" ],
-      "social-links-count" : 6,
-      "popularity-boosters" : [ "http://dev.cryptolions.io/mainnet/", "http://eosvan.io/", "https://www.bcit.ca/", "https://www.sfu.ca/", "https://www.ubc.ca/", "https://www.udacity.com/", "https://www.udemy.com/" ],
-      "popularity-boosters-count" : 7
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.008965209718366141,
-    "scoring" : {
-      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
-      "penalty-list" : [ "coc-not-steemit" ],
+      "warn-list" : [ "coc-not-steemit" ],
       "total" : 3,
       "maximum-positive" : 3
     },
     "place" : 8
   }, {
     "bp-header" : {
-      "owner" : "eoseouldotio",
-      "total_votes" : "92357942599154880.00000000000000000",
-      "producer_key" : "EOS6SSA4gYCSZ3q9NWpxGsYDv5MWjSwKseyq25RRZexwj8EM6YHDa",
+      "owner" : "alohaeosprod",
+      "total_votes" : "6032220903628786.00000000000000000",
+      "producer_key" : "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
       "is_active" : 1,
-      "url" : "https://bp.eoseoul.io",
+      "url" : "https://www.alohaeos.com",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530979329500000",
-      "location" : 410,
-      "prepared-url" : "https://bp.eoseoul.io"
+      "last_claim_time" : 0,
+      "location" : 840,
+      "prepared-url" : "https://www.alohaeos.com"
     },
     "bp-json-summary" : {
-      "url" : "https://bp.eoseoul.io/bp.json",
-      "logo" : "https://cdn.steemitimages.com/DQmeiC8NPvLrVWi9nv9fvZceYqQjHJmCG36i6nNzspUuBBs/EOSeoul_logo_256.png",
-      "code_of_conduct" : "https://www.eoseoul.io/conduct.html"
+      "url" : "https://www.alohaeos.com/bp.json",
+      "logo" : "https://www.alohaeos.com/images/bpinfo/aeos-circle-256.png",
+      "code_of_conduct" : "https://www.alohaeos.com/conduct"
     },
     "analyzed-urls" : {
-      "relative-links-count" : 4,
+      "relative-links-count" : 3,
       "duplicate-urls" : null,
-      "social-links" : [ "https://github.com/EOSeoul", "https://steemit.com/@eoseoul", "https://t.me/eoseoul", "https://twitter.com/eoseoul_kor", "https://www.facebook.com/EOSeoul.kr/", "https://www.youtube.com/channel/UCC7kpjBdGB4idE7JAe0Lviw" ],
-      "social-links-count" : 6,
-      "popularity-boosters" : [ "https://maps.google.com/maps?ll=37.400133,127.104196&z=17&t=m&hl=en-US&gl=KR&mapclient=apiv3", "https://meet.one/pomelo", "https://portal.eoseoul.io/", "https://www.google.com/intl/en-US_KR/help/terms_maps.html", "https://www.google.com/maps/@37.400133,127.104196,17z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3" ],
-      "popularity-boosters-count" : 5
+      "social-links" : [ "https://github.com/AlohaEOS", "https://keybase.io/alohaeos", "https://steemit.com/eos/@alohaeos/aloha-eos-block-producer-candidacy", "https://steemit.com/eos/@alohaeos/an-update-on-our-infrastructure", "https://steemit.com/eos/@alohaeos/it-s-time-to-vote-aloha-eos-is-here-to-help", "https://t.me/AlohaEOS", "https://twitter.com/eosaloha", "https://www.reddit.com/user/alohaeos" ],
+      "social-links-count" : 8,
+      "popularity-boosters" : [ ]
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.16665942302107148,
+    "vote-percentage" : 0.0034471684113407904,
     "scoring" : {
       "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
-      "penalty-list" : [ "coc-not-steemit" ],
+      "warn-list" : [ "coc-not-steemit" ],
       "total" : 3,
       "maximum-positive" : 3
     },
-    "place" : 2
+    "place" : 14
+  }, {
+    "bp-header" : {
+      "owner" : "acroeos12345",
+      "total_votes" : "26157437982314364.00000000000000000",
+      "producer_key" : "EOS56PyKoHXwyRkwDzr2uNhgDRioPoq5TwdN8Pm2hQGko7jrup2W5",
+      "is_active" : 1,
+      "url" : "http://www.acroeos.one",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : "1530508802500000",
+      "location" : 0,
+      "prepared-url" : "http://www.acroeos.one"
+    },
+    "bp-json-summary" : {
+      "url" : "http://www.acroeos.one/bp.json",
+      "logo" : "http://www.acroeos.one/acroeos_logo_256.jpg",
+      "code_of_conduct" : "https://steemit.com/eos/@acroeos/acroeos-an-eos-block-producer-candidate"
+    },
+    "analyzed-urls" : {
+      "duplicate-urls" : null,
+      "social-links" : [ "https://github.com/acroeos/eos-full-node", "https://medium.com/acroeos", "https://medium.com/acroeos/acroeos-disclosures-ownership-5e927cfa4f16", "https://steemit.com/@acroeos", "https://steemit.com/eos/@acroeos/acroeos-an-eos-block-producer-candidate", "https://t.me/AcroEOS", "https://twitter.com/acroeos" ],
+      "social-links-count" : 7,
+      "popularity-boosters" : [ "https://www.acroeos.io/chinese", "https://www.acroeos.io/korean" ],
+      "popularity-boosters-count" : 2
+    },
+    "p-ram-amounts" : [ "RAM" ],
+    "vote-percentage" : 0.014947909795544306,
+    "scoring" : {
+      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
+      "total" : 3,
+      "maximum-positive" : 3
+    },
+    "place" : 11
+  }, {
+    "bp-header" : {
+      "owner" : "eosnairobike",
+      "total_votes" : "44933575145095040.00000000000000000",
+      "producer_key" : "EOS54UAELQVaMrc1y98W7KsfLbBchvsQg7FCEYpoiQLi5y1Gvyqcy",
+      "is_active" : 1,
+      "url" : "https://www.eosnairobi.io",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : "1530953272500000",
+      "location" : 0,
+      "prepared-url" : "https://www.eosnairobi.io"
+    },
+    "bp-json-summary" : {
+      "url" : "https://www.eosnairobi.io/bp.json",
+      "logo" : "https://www.eosnairobi.io/api_images/emblem.png",
+      "code_of_conduct" : "https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 2,
+      "duplicate-urls" : null,
+      "social-links" : [ "http://twitter.com/eosnairobi", "https://facebook.com/eosnairobi", "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md", "https://plus.google.com/u/0/114906173309201538228", "https://steemit.com/blockproducer/@eosnairobi/eos-nairobi-block-producer-candidacy-announcement", "https://twitter.com/eosnairobi", "https://www.facebook.com/EOS-Nairobi-414165502379239/?ref=br_rs" ],
+      "social-links-count" : 7,
+      "popularity-boosters" : [ "https://extendthemes.com/go/built-with-mesmerize/" ],
+      "popularity-boosters-count" : 1
+    },
+    "p-ram-amounts" : [ ],
+    "vote-percentage" : 0.025677706987753117,
+    "scoring" : {
+      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
+      "total" : 3,
+      "maximum-positive" : 3
+    },
+    "place" : 9
   }, {
     "bp-header" : {
       "owner" : "eoscafeblock",
-      "total_votes" : "141755271148092400.00000000000000000",
+      "total_votes" : "142459693025383856.00000000000000000",
       "producer_key" : "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
       "is_active" : 1,
       "url" : "https://eoscafecalgary.com",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530946330000000",
+      "last_claim_time" : "1531032732000000",
       "location" : 124,
       "prepared-url" : "https://eoscafecalgary.com"
     },
@@ -159,102 +258,130 @@
       "popularity-boosters-count" : 1
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.2557966433084316,
+    "vote-percentage" : 0.08140990881003546,
     "scoring" : {
       "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
       "total" : 3,
       "maximum-positive" : 3
     },
-    "place" : 1
+    "place" : 5
   }, {
     "bp-header" : {
-      "owner" : "eospaygatebp",
-      "total_votes" : "7808393478890731.00000000000000000",
-      "producer_key" : "EOS6An3xHstoTrAjhALB4R5LzTgwvcXZL5hTNtFeNyFRXutJiq1WJ",
+      "owner" : "eosiomeetone",
+      "total_votes" : "121120813512642880.00000000000000000",
+      "producer_key" : "EOS5gS4ZtanRS2Jx4vpjAQaVNci3v65iZiGCgMr9DNwu67x2pt8Qd",
       "is_active" : 1,
-      "url" : "https://bp.eospay.host",
+      "url" : "https://meet.one",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530724476500000",
+      "last_claim_time" : "1531011856500000",
       "location" : 0,
-      "prepared-url" : "https://bp.eospay.host"
+      "prepared-url" : "https://meet.one"
     },
     "bp-json-summary" : {
-      "url" : "https://bp.eospay.host/bp.json",
-      "logo" : "https://ipfs.eospay.host/ipfs/QmPBKeAcC8JKVMigtxgyhhC5asQPQwd1hK1MrhkDkDZXHU",
-      "code_of_conduct" : "https://www.eospay.host/pledge"
+      "url" : "https://meet.one/bp.json",
+      "logo" : "https://meet.one/meetone-256.png",
+      "code_of_conduct" : "https://meet.one"
     },
     "analyzed-urls" : {
+      "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@eospay", "https://t.me/eospaykorea", "https://t.me/eospayworld", "https://twitter.com/eospay" ],
-      "social-links-count" : 4,
-      "popularity-boosters" : [ "https://www.eospay.host", "https://www.eospay.host/contacts", "https://www.eospay.host/pledge", "https://www.eospay.host/wallet" ],
-      "popularity-boosters-count" : 4
+      "social-links" : [ "https://steemit.com/@meetone", "https://t.me/MeetOneEnglish", "https://twitter.com/MeetDotOne" ],
+      "social-links-count" : 3,
+      "popularity-boosters" : [ "http://bystake.com", "http://eoscannon.io/", "http://eosio.sg/", "http://ipfs.fund", "http://more.one", "http://top.one", "https://chain.pro", "https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc", "https://eosindex.io/", "https://eosnation.io/", "https://mp.weixin.qq.com/s/0o5vDVI7XGgbD7VgxHsjGg", "https://mp.weixin.qq.com/s/56smffJc-ddId_A-DONrmg", "https://mp.weixin.qq.com/s/AoJW4-DjUTE8KuW2hT8a-Q", "https://mp.weixin.qq.com/s/Tappk1H_Rw6Z12fC6iJ_Mg", "https://mp.weixin.qq.com/s/oM28c196Psdh05Etz3ozvw", "https://mp.weixin.qq.com/s/rVtaBUkPD13SOPmCXT68CA", "https://mp.weixin.qq.com/s/vblQcI-Hx0niO8bFMtWg_g", "https://new.one", "https://scholartestnet.github.io/", "https://www.sheleaders.one/", "https://www.slowmist.com/" ],
+      "popularity-boosters-count" : 21
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.014090205079182157,
+    "vote-percentage" : 0.06921560880595613,
     "scoring" : {
       "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
-      "penalty-list" : [ "coc-not-steemit" ],
-      "total" : 3,
-      "maximum-positive" : 3
-    },
-    "place" : 7
-  }, {
-    "bp-header" : {
-      "owner" : "eoslawyereos",
-      "total_votes" : "10572378297053868.00000000000000000",
-      "producer_key" : "EOS78J1hRNUKTzdGHUE8zLRVTSQLC8qfPKQLfF9iEeNRPZxWMJwvx",
-      "is_active" : 1,
-      "url" : "https://eos.lawyer",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : "https://eos.lawyer"
-    },
-    "bp-json-summary" : {
-      "url" : "https://eos.lawyer/bp.json",
-      "logo" : "https://eos.lawyer/images/eos_lawyer_logo.jpg",
-      "code_of_conduct" : "https://steemit.com/eos/@eos.lawyer/eos-lawyer-block-producer-candidate"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 4,
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ">https://EOS.ROCKS", "https://EOS.CASA", "https://bitmodel.io" ],
-      "popularity-boosters-count" : 3
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.019077801187004993,
-    "scoring" : {
-      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
+      "warn-list" : [ "coc-not-steemit" ],
       "total" : 3,
       "maximum-positive" : 3
     },
     "place" : 6
   }, {
     "bp-header" : {
-      "owner" : "eosmedinodes",
-      "total_votes" : "51052908716208768.00000000000000000",
-      "producer_key" : "EOS8A9cAMw29gr23Wk7FkmPZA1DAhdwFfpiNrKSWrgFn5y6CderFD",
+      "owner" : "blockmatrix1",
+      "total_votes" : "35599828081219464.00000000000000000",
+      "producer_key" : "EOS6oNSm6QKnMBzJDHiA32KsEjSgKKt1nGdPYfc2wZU34HA9GjP9q",
       "is_active" : 1,
-      "url" : "https://eosmedi.com",
+      "url" : "https://blockmatrix.network",
       "unpaid_blocks" : 0,
-      "last_claim_time" : "1530966731000000",
-      "location" : 0,
-      "prepared-url" : "https://eosmedi.com"
+      "last_claim_time" : "1530613823500000",
+      "location" : 826,
+      "prepared-url" : "https://blockmatrix.network"
     },
     "bp-json-summary" : {
-      "url" : "https://eosmedi.com/bp.json",
-      "logo" : "https://eosmedi.com/wp-content/uploads/2018/06/256.png",
-      "code_of_conduct" : "https://steemit.com/blockproducer/@eosmediterranean/eos-mediterranean-code-of-conduct-and-stance-on-vote-buying"
+      "url" : "https://blockmatrix.network/bp.json",
+      "logo" : "https://blockmatrix.network/assets/img/block_matrix_logo_white_250.jpg",
+      "code_of_conduct" : "https://blockmatrix.network#conduct"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 1,
+      "duplicate-urls" : null,
+      "social-links" : [ "https://github.com/BlockMatrixNetwork", "https://steemit.com/eos/@blockmatrix/block-matrix-eos-io-block-producer-candidate-information", "https://t.me/blockmatrixnetwork" ],
+      "social-links-count" : 3,
+      "popularity-boosters" : [ ]
+    },
+    "p-ram-amounts" : [ "RAM" ],
+    "vote-percentage" : 0.020343850925107713,
+    "scoring" : {
+      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
+      "warn-list" : [ "coc-not-steemit" ],
+      "total" : 3,
+      "maximum-positive" : 3
+    },
+    "place" : 10
+  }, {
+    "bp-header" : {
+      "owner" : "disfundbpeos",
+      "total_votes" : "909947772108223.00000000000000000",
+      "producer_key" : "EOS8YKiT2wKYFHw75xaXA58S6exo9CsDnr3iuMMpsSwZ2W473Tdif",
+      "is_active" : 1,
+      "url" : "https://alexbond.keybase.pub/eos_df_bp.json",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 0,
+      "prepared-url" : "https://alexbond.keybase.pub"
+    },
+    "bp-json-summary" : {
+      "url" : "https://alexbond.keybase.pub/eos_df_bp.json",
+      "logo" : "https://i.imgur.com/gVijzUK.png",
+      "code_of_conduct" : "https://steemit.com/eos/@distributedfund1/distributed-fund-bp-constitution-draft"
     },
     "analyzed-urls" : {
       "duplicate-urls" : null,
-      "social-links" : [ ],
+      "social-links" : [ "https://keybase.io/introducing-the-keybase-filesystem", "https://keybase.pub/alexbond" ],
+      "social-links-count" : 2,
       "popularity-boosters" : [ ]
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 0.09212470601601123,
+    "vote-percentage" : 5.19998068057228E-4,
+    "scoring" : {
+      "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
+      "total" : 3,
+      "maximum-positive" : 3
+    },
+    "place" : 17
+  }, {
+    "bp-header" : {
+      "owner" : "eosbeijingbp",
+      "total_votes" : "199664408915991968.00000000000000000",
+      "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
+      "is_active" : 1,
+      "url" : "https://www.eosbeijing.one",
+      "unpaid_blocks" : 6276,
+      "last_claim_time" : "1530964292500000",
+      "location" : 0,
+      "prepared-url" : "https://www.eosbeijing.one"
+    },
+    "bp-json-summary" : {
+      "url" : "https://www.eosbeijing.one/bp.json",
+      "logo" : "https://www.eosbeijing.one/logo_256.png",
+      "code_of_conduct" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
+    },
+    "webpage-error" : "timeout\n  (Session info: headless chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.14.48-coreos-r2 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 6.01 seconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'runner-fa6cab46-project-7192121-concurrent-0', ip: '172.17.0.3', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.48-coreos-r2', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7), userDataDir=/tmp/.org.chromium.Chromium.DmXGIh}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 051c71e08c6b45a42310568257021cea",
+    "vote-percentage" : 0.1141000726399448,
     "scoring" : {
       "positive-list" : [ "code-of-conduct", "bp-json", "webpage-url" ],
       "total" : 3,
@@ -263,144 +390,218 @@
     "place" : 4
   }, {
     "bp-header" : {
-      "owner" : "eosunion1111",
-      "total_votes" : "61834530140172856.00000000000000000",
-      "producer_key" : "EOS5YrPTWCKNHHLuntq13Q9X6M2CFCNGb21GqrcjUexqBBjxpCG7H",
+      "owner" : "eosantpoolbp",
+      "total_votes" : "232592343248721376.00000000000000000",
+      "producer_key" : "EOS6F9hDeGD3unoq67N9pmLVXKvsLTqi7wx3Ly9kxq4fZB3qLTjcs",
       "is_active" : 1,
-      "url" : "http://eosunion.io/",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : "1530918330000000",
+      "url" : "https://www.eosantpool.com",
+      "unpaid_blocks" : 2596,
+      "last_claim_time" : "1531009954000000",
       "location" : 0,
-      "prepared-url" : "http://eosunion.io/"
+      "prepared-url" : "https://www.eosantpool.com"
     },
     "bp-json-summary" : {
-      "url" : "http://eosunion.io/bp.json"
+      "url" : "https://www.eosantpool.com/bp.json",
+      "logo" : "https://antpool.com/images/antpool/logo@2x.png"
     },
-    "webpage-error" : "timeout\n  (Session info: headless chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.14.48-coreos-r2 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 6.09 seconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'runner-fa6cab46-project-7192121-concurrent-0', ip: '172.17.0.3', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.48-coreos-r2', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7), userDataDir=/tmp/.org.chromium.Chromium.TX4Zap}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 473bb00cb08e230f3c9cf1c898bba8cf",
-    "vote-percentage" : 0.111580085328087,
+    "analyzed-urls" : {
+      "duplicate-urls" : null,
+      "social-links" : [ "https://t.me/AntPoolEOSCN", "https://t.me/AntPoolEOSUS" ],
+      "social-links-count" : 2,
+      "popularity-boosters" : [ "http://cn.mikecrm.com/qIAo1gi", "https://www.antpool.com/home.htm" ],
+      "popularity-boosters-count" : 2
+    },
+    "p-ram-amounts" : [ ],
+    "vote-percentage" : 0.1329170451772413,
     "scoring" : {
       "positive-list" : [ "bp-json", "webpage-url" ],
       "total" : 2,
       "maximum-positive" : 3
     },
-    "place" : 3
+    "place" : 2
   }, {
     "bp-header" : {
-      "owner" : "onerootlleos",
-      "total_votes" : "17499804571253.66992187500000000",
-      "producer_key" : "EOS5M8hMCHdQwVXKqCfvF9oxmunDj33t9mDHaDRB5rgTV5rjL2X2U",
+      "owner" : "blockcceosio",
+      "total_votes" : "52390719469358.99218750000000000",
+      "producer_key" : "EOS8VYW1mptsVYiy9GUQzfrM7AbCENKazjrDvv88cvKZuaoSAnR29",
       "is_active" : 1,
-      "url" : "http://oneroot.io",
+      "url" : "https://eos.block.cc/",
       "unpaid_blocks" : 0,
       "last_claim_time" : 0,
       "location" : 0,
-      "prepared-url" : "http://oneroot.io"
+      "prepared-url" : "https://eos.block.cc/"
+    },
+    "bp-json-summary" : {
+      "url" : "https://eos.block.cc/bp.json",
+      "logo" : ""
+    },
+    "webpage-error" : "timeout\n  (Session info: headless chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.14.48-coreos-r2 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 6.02 seconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'runner-fa6cab46-project-7192121-concurrent-0', ip: '172.17.0.3', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.48-coreos-r2', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7), userDataDir=/tmp/.org.chromium.Chromium.IuKhqA}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: b4ec94e375d7ea4c05b0552f0c8d91b6",
+    "vote-percentage" : 2.993916106314151E-5,
+    "scoring" : {
+      "positive-list" : [ "bp-json", "webpage-url" ],
+      "total" : 2,
+      "maximum-positive" : 3
+    },
+    "place" : 22
+  }, {
+    "bp-header" : {
+      "owner" : "eosasia11111",
+      "total_votes" : "97891003453167680.00000000000000000",
+      "producer_key" : "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
+      "is_active" : 1,
+      "url" : "https://www.eosasia.one",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : "1530948406000000",
+      "location" : 344,
+      "prepared-url" : "https://www.eosasia.one"
     },
     "bp-json-summary" : {
       "dl-error" : {
-        "message" : "Server returned HTTP response code: 403 for URL: http://oneroot.io/bp.json",
-        "url" : "http://oneroot.io/bp.json"
+        "message" : "Server returned HTTP response code: 403 for URL: https://www.eosasia.one/bp.json",
+        "url" : "https://www.eosasia.one/bp.json"
       }
     },
     "analyzed-urls" : {
-      "relative-links-count" : 1,
+      "relative-links-count" : 4,
       "duplicate-urls" : null,
-      "social-links" : [ "https://medium.com/@oneroot", "https://t.me/OnerootProject", "https://twitter.com/OnerootNetwork", "https://www.reddit.com/r/OneRoot/controversial/" ],
-      "social-links-count" : 4,
-      "popularity-boosters" : [ "http://www.jinse.com/news/blockchain/104498.html", "https://www.rootoken.com/" ],
-      "popularity-boosters-count" : 2
+      "social-links" : [ "https://github.com/eos-asia", "https://github.com/eosasia", "https://medium.com/@eosasia", "https://reddit.com/u/eos-asia", "https://steemit.com/@eos-asia", "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-block-producer-candidacy", "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-s-roadmap-and-views-on-dividends", "https://t.me/EOSAsia", "https://twitter.com/eosasia_one" ],
+      "social-links-count" : 9,
+      "popularity-boosters" : [ "http://eos-link.com/", "https://bp.eosgo.io", "https://eos.io", "https://segmentfault.com/hackathon-2018", "https://vote.eosasia.one", "https://www.eosgems.io", "https://www.myeoskit.com", "https://www.txtnet.io" ],
+      "popularity-boosters-count" : 8
+    },
+    "p-ram-amounts" : [ "RAM" ],
+    "vote-percentage" : 0.05594071905675983,
+    "scoring" : {
+      "positive-list" : [ "webpage-url" ],
+      "total" : 1,
+      "maximum-positive" : 3
+    },
+    "place" : 7
+  }, {
+    "bp-header" : {
+      "owner" : "csxcommunity",
+      "total_votes" : "116537094276873.42187500000000000",
+      "producer_key" : "EOS8HsrWJ9omjmwt26fieagCM95f2dsT2CyWuFQSFbp4jR7KyrZPF",
+      "is_active" : 1,
+      "url" : "https://www.csx.io",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : 0,
+      "location" : 0,
+      "prepared-url" : "https://www.csx.io"
+    },
+    "bp-json-summary" : {
+      "read-error" : "read:'https://www.csx.io/bp.json': Unexpected character ('}' (code 125)): was expecting double-quote to start field name\n at [Source: (StringReader); line: 55, column: 6]",
+      "url" : "https://www.csx.io/bp.json"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 20,
+      "duplicate-urls" : null,
+      "social-links" : [ "https://keybase.io/csx_corp", "https://steemit.com/@csx-eos", "https://t.me/joinchat/Had_iBJnNccT1hjdlV3edw", "https://twitter.com/CSXcorp", "https://www.facebook.com/CSXCorp/", "https://www.linkedin.com/company/csx-corp/", "https://www.youtube.com/channel/UCNjucUvoiMqbVMc28-3BIMg?view_as=subscriber" ],
+      "social-links-count" : 7,
+      "popularity-boosters" : [ "855-9-CSX.COM", "https://www.yellowpages.com/cheyenne-wy/mip/csx-corp-503916229", "https://wyobiz.wy.gov/Business/FilingDetails.aspx?eFNum=049075178157217104243064092010142191132183135056" ],
+      "popularity-boosters-count" : 3
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 3.157830556582075E-5,
+    "vote-percentage" : 6.659620006605168E-5,
     "scoring" : {
       "positive-list" : [ "webpage-url" ],
       "total" : 1,
       "maximum-positive" : 3
     },
-    "place" : 15
+    "place" : 21
   }, {
     "bp-header" : {
-      "owner" : "eosarmyioant",
-      "total_votes" : "378467060626024.75000000000000000",
-      "producer_key" : "EOS8gHdkgwd3FGeayLviL2JR4F8x1TpnG7JizqZzdD2bnK1wicuvy",
-      "is_active" : 1,
-      "url" : "https://eosarmy.io",
+      "owner" : "atticlabeosp",
+      "total_votes" : "13342565292388.24609375000000000",
+      "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+      "is_active" : 0,
+      "url" : "http://atticlab.net/",
       "unpaid_blocks" : 0,
       "last_claim_time" : 0,
       "location" : 0,
-      "prepared-url" : "https://eosarmy.io"
-    },
-    "bp-json-summary" : {
-      "read-error" : "read:'https://eosarmy.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-      "url" : "https://eosarmy.io/bp.json"
-    },
-    "analyzed-urls" : {
-      "relative-links-count" : 23,
-      "duplicate-urls" : null,
-      "social-links" : [ "https://steemit.com/@eosarmy", "https://t.me/joinchat/G5dVyg9NpPfQraDPkX_Pzw" ],
-      "social-links-count" : 2,
-      "popularity-boosters" : [ "http://www.medbroadcast.com/", "https://www.top500.org/list/2017/11/" ],
-      "popularity-boosters-count" : 2
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 6.829418259149412E-4,
-    "scoring" : {
-      "positive-list" : [ "webpage-url" ],
-      "total" : 1,
-      "maximum-positive" : 3
-    },
-    "place" : 10
-  }, {
-    "bp-header" : {
-      "owner" : "deneosioblck",
-      "total_votes" : "445559971637714.12500000000000000",
-      "producer_key" : "EOS5xAL439sddjLdSP8TieVUxfV6stkbiNuJaCZZtV8ZjW3SsdnAQ",
-      "is_active" : 1,
-      "url" : "https://deneos_io.keybase.pub/bp_info.json",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : "https://deneos_io.keybase.pub"
+      "prepared-url" : "http://atticlab.net/"
     },
     "bp-json-summary" : {
       "dl-error" : {
-        "message" : "java.security.cert.CertificateException: Illegal given domain name: deneos_io.keybase.pub",
-        "url" : "https://deneos_io.keybase.pub/bp_info.json"
-      }
-    },
-    "webpage-error" : "null",
-    "vote-percentage" : 8.040106319465143E-4,
-    "scoring" : {
-      "positive-list" : [ "webpage-url" ],
-      "total" : 1,
-      "maximum-positive" : 3
-    },
-    "place" : 9
-  }, {
-    "bp-header" : {
-      "owner" : "eosplaneprod",
-      "total_votes" : "102509401340927.53125000000000000",
-      "producer_key" : "EOS5suRsaaeWRYa5AzUekguzDtk8wZYR8TvnJCgKkxCabVY7waYb1",
-      "is_active" : 1,
-      "url" : "https://eosplane.top",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : "https://eosplane.top"
-    },
-    "bp-json-summary" : {
-      "dl-error" : {
-        "message" : "sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target",
-        "url" : "https://eosplane.top/bp.json"
+        "message" : "Server returned HTTP response code: 403 for URL: http://atticlab.net/bp.json",
+        "url" : "http://atticlab.net/bp.json"
       }
     },
     "analyzed-urls" : {
+      "relative-links-count" : 10,
       "duplicate-urls" : null,
-      "social-links" : [ ],
+      "social-links" : [ "https://github.com/atticlab/", "https://medium.com/@attic.it.lab", "https://steemit.com/@attic-lab", "https://t.me/joinchat/BZDV4UjSsrANT7wkfvreew", "https://twitter.com/atticlab_it", "https://www.facebook.com/atticlab/", "https://www.linkedin.com/in/attic-lab-5ab9a2129/" ],
+      "social-links-count" : 7,
       "popularity-boosters" : [ ]
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 1.8497767707821114E-4,
+    "vote-percentage" : 7.624732306223109E-6,
+    "scoring" : {
+      "positive-list" : [ "webpage-url" ],
+      "total" : 1,
+      "maximum-positive" : 3
+    },
+    "place" : 23
+  }, {
+    "bp-header" : {
+      "owner" : "eosauthority",
+      "total_votes" : "215232089265885568.00000000000000000",
+      "producer_key" : "EOS7dA4bBiwNqwHwoSY9wSVyXfUgKqdLEMv5hC6tBxVsutKkarpUk",
+      "is_active" : 1,
+      "url" : "https://eosauthority.com",
+      "unpaid_blocks" : 384,
+      "last_claim_time" : "1531033224000000",
+      "location" : 826,
+      "prepared-url" : "https://eosauthority.com"
+    },
+    "bp-json-summary" : {
+      "dl-error" : {
+        "message" : "Server returned HTTP response code: 403 for URL: https://eosauthority.com/bp.json",
+        "url" : "https://eosauthority.com/bp.json"
+      }
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 17,
+      "duplicate-urls" : null,
+      "social-links" : [ "http://t.me/eosauthority", "https://twitter.com/EOSauthority", "https://www.youtube.com/watch?v=k-5aG3YuyYk" ],
+      "social-links-count" : 3,
+      "popularity-boosters" : [ "https://www.webdigi.co.uk" ],
+      "popularity-boosters-count" : 1
+    },
+    "p-ram-amounts" : [ ],
+    "vote-percentage" : 0.12299636751994848,
+    "scoring" : {
+      "positive-list" : [ "webpage-url" ],
+      "total" : 1,
+      "maximum-positive" : 3
+    },
+    "place" : 3
+  }, {
+    "bp-header" : {
+      "owner" : "eosholdings1",
+      "total_votes" : "18256980408738676.00000000000000000",
+      "producer_key" : "EOS4uLtAMBg8QyeMKYMVxQfrurQqfKLRnCpwWq9c8MPMk2cmdWZ8y",
+      "is_active" : 1,
+      "url" : "http://eos.holdings",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : "1529951649500000",
+      "location" : 0,
+      "prepared-url" : "http://eos.holdings"
+    },
+    "bp-json-summary" : {
+      "read-error" : "read:'http://eos.holdings/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+      "url" : "http://eos.holdings/bp.json"
+    },
+    "analyzed-urls" : {
+      "relative-links-count" : 12,
+      "duplicate-urls" : null,
+      "social-links" : [ "https://twitter.com/EOSHoldingsCA", "https://www.linkedin.com/in/sshi100/" ],
+      "social-links-count" : 2,
+      "popularity-boosters" : [ "http://ece.ubc.ca/~weicai/", "http://www.cs.sfu.ca/~jcliu/", "http://www.ece.ubc.ca/~vleung/" ],
+      "popularity-boosters-count" : 3
+    },
+    "p-ram-amounts" : [ ],
+    "vote-percentage" : 0.010433120264811932,
     "scoring" : {
       "positive-list" : [ "webpage-url" ],
       "total" : 1,
@@ -409,29 +610,58 @@
     "place" : 12
   }, {
     "bp-header" : {
-      "owner" : "eosraychains",
-      "total_votes" : "82064950653472.96875000000000000",
-      "producer_key" : "EOS7heWdmdsEHDh4TcV6oUWCNTnnToNf6KxtjKLg9bUZwnxHdhmYT",
+      "owner" : "bchainlabeos",
+      "total_votes" : "1079511366504953.25000000000000000",
+      "producer_key" : "EOS6n6RZi6EXHKBX53HyuXgzMw5sUzWWQomwDLYLc1PcjZY3CCzzE",
       "is_active" : 1,
-      "url" : "https://www.eosraychain.com",
+      "url" : "https://blockchainlab.me",
       "unpaid_blocks" : 0,
       "last_claim_time" : 0,
       "location" : 0,
-      "prepared-url" : "https://www.eosraychain.com"
+      "prepared-url" : "https://blockchainlab.me"
     },
     "bp-json-summary" : {
       "dl-error" : {
-        "message" : "java.security.cert.CertificateException: No subject alternative DNS name matching www.eosraychain.com found.",
-        "url" : "https://www.eosraychain.com/bp.json"
+        "message" : "Server returned HTTP response code: 403 for URL: https://blockchainlab.me/bp.json",
+        "url" : "https://blockchainlab.me/bp.json"
       }
     },
     "analyzed-urls" : {
+      "relative-links-count" : 7,
       "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
+      "social-links" : [ "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate" ],
+      "social-links-count" : 1,
+      "popularity-boosters" : [ "http://unit.city/", "https://btcu.biz/main", "https://icokit.me/", "https://tickerry.com/" ],
+      "popularity-boosters-count" : 4
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 1.4808577303979115E-4,
+    "vote-percentage" : 6.168967519177918E-4,
+    "scoring" : {
+      "positive-list" : [ "webpage-url" ],
+      "total" : 1,
+      "maximum-positive" : 3
+    },
+    "place" : 16
+  }, {
+    "bp-header" : {
+      "owner" : "eosgalaxybp1",
+      "total_votes" : "12367144885080766.00000000000000000",
+      "producer_key" : "EOS6yVYyJd5nrGG86FbM3BM7eV91pdykxqvbnHPWoYzCsMy2Uc16r",
+      "is_active" : 1,
+      "url" : "http://www.eosgalaxy.io",
+      "unpaid_blocks" : 0,
+      "last_claim_time" : "1529935139500000",
+      "location" : 0,
+      "prepared-url" : "http://www.eosgalaxy.io"
+    },
+    "bp-json-summary" : {
+      "dl-error" : {
+        "message" : "http://www.eosgalaxy.io/bp.json",
+        "url" : "http://www.eosgalaxy.io/bp.json"
+      }
+    },
+    "webpage-error" : "timeout\n  (Session info: headless chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.14.48-coreos-r2 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 6.04 seconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'runner-fa6cab46-project-7192121-concurrent-0', ip: '172.17.0.3', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.48-coreos-r2', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7), userDataDir=/tmp/.org.chromium.Chromium.ZOZGyn}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 70d16ef6c579bd59c0fd55db77e9fe24",
+    "vote-percentage" : 0.007067319295399056,
     "scoring" : {
       "positive-list" : [ "webpage-url" ],
       "total" : 1,
@@ -440,59 +670,66 @@
     "place" : 13
   }, {
     "bp-header" : {
-      "owner" : "eosstarcraft",
-      "total_votes" : "239889376312926.40625000000000000",
-      "producer_key" : "EOS5XpGiULq9598rawobxpnwGmRqagaDiVcM5W6RVwio9mDGybU8z",
+      "owner" : "eosblockzero",
+      "total_votes" : "223805958793257.03125000000000000",
+      "producer_key" : "EOS57W5uAS2WjGeg5YqFT8ieJ1roJQt5qcFoJyuzf58fwtLNd5p2v",
       "is_active" : 1,
-      "url" : "",
+      "url" : "http://eosblockzero.com",
       "unpaid_blocks" : 0,
       "last_claim_time" : 0,
       "location" : 0,
-      "prepared-url" : null
+      "prepared-url" : "http://eosblockzero.com"
     },
-    "bp-json-summary" : null,
+    "bp-json-summary" : {
+      "dl-error" : {
+        "message" : "http://eosblockzero.com/bp.json",
+        "url" : "http://eosblockzero.com/bp.json"
+      }
+    },
     "analyzed-urls" : {
       "duplicate-urls" : null,
       "social-links" : [ ],
       "popularity-boosters" : [ ]
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 4.3287912138444324E-4,
+    "vote-percentage" : 1.2789598453827298E-4,
     "scoring" : {
-      "total" : 0,
+      "positive-list" : [ "webpage-url" ],
+      "total" : 1,
       "maximum-positive" : 3
     },
-    "place" : 11
+    "place" : 19
   }, {
     "bp-header" : {
-      "owner" : "iamtheeosabp",
-      "total_votes" : "28013889811511.42578125000000000",
-      "producer_key" : "EOS5Wt2ExJMLBUjW9UNmRCiCEq214eS3RpcVDd5cyxuzm7YQqfCoE",
-      "is_active" : 1,
-      "url" : "",
+      "owner" : "eosqiogogogo",
+      "total_votes" : "0.00000000000000000",
+      "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+      "is_active" : 0,
+      "url" : "https://eosq.io",
       "unpaid_blocks" : 0,
       "last_claim_time" : 0,
       "location" : 0,
-      "prepared-url" : null
+      "prepared-url" : "https://eosq.io"
     },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
+    "bp-json-summary" : {
+      "dl-error" : {
+        "message" : "Connection timed out (Connection timed out)",
+        "url" : "https://eosq.io/bp.json"
+      }
     },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 5.055091723757268E-5,
+    "webpage-error" : "timeout\n  (Session info: headless chrome=66.0.3359.117)\n  (Driver info: chromedriver=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7),platform=Linux 4.14.48-coreos-r2 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 6.02 seconds\nBuild info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'\nSystem info: host: 'runner-fa6cab46-project-7192121-concurrent-0', ip: '172.17.0.3', os.name: 'Linux', os.arch: 'amd64', os.version: '4.14.48-coreos-r2', java.version: '1.8.0_171'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565383 (76257d1ab79276b2d53ee976b2c3e3b9f335cde7), userDataDir=/tmp/.org.chromium.Chromium.yytXUv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=66.0.3359.117, platform=LINUX, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]\nSession ID: 22a0bd018cf12be1463ca0d7571d8237",
+    "vote-percentage" : 0.0,
     "scoring" : {
-      "total" : 0,
+      "positive-list" : [ "webpage-url" ],
+      "total" : 1,
       "maximum-positive" : 3
     },
-    "place" : 14
+    "place" : 24
   }, {
     "bp-header" : {
-      "owner" : "haydinjvg4ge",
-      "total_votes" : "6733877628704.71875000000000000",
-      "producer_key" : "EOS76JzgzNR15eAcGvarpnxotoZU8Der3u4B9y9HCh9GEDKKNSv3A",
+      "owner" : "eosdelivered",
+      "total_votes" : "233745510844935.53125000000000000",
+      "producer_key" : "EOS5PnTHo5Y2vYNbvbScBkbSQaU7oi8G4NU5DdTjV1cFTdD4G3hQA",
       "is_active" : 1,
       "url" : "",
       "unpaid_blocks" : 0,
@@ -507,57 +744,7 @@
       "popularity-boosters" : [ ]
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 1.2151246863144163E-5,
-    "scoring" : {
-      "total" : 0,
-      "maximum-positive" : 3
-    },
-    "place" : 16
-  }, {
-    "bp-header" : {
-      "owner" : "haydinjtg4ge",
-      "total_votes" : "7514047806.24218750000000000",
-      "producer_key" : "EOS8go2TrBnfDUefGJQnHYg3xiDCQaUddpbNZ5WSiNBoDL8spntD1",
-      "is_active" : 1,
-      "url" : "",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : null
-    },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 1.3559059856672574E-8,
-    "scoring" : {
-      "total" : 0,
-      "maximum-positive" : 3
-    },
-    "place" : 17
-  }, {
-    "bp-header" : {
-      "owner" : "haydiojrhage",
-      "total_votes" : "1329264055.39843750000000000",
-      "producer_key" : "EOS6NCG9U79hnYrDt6E6VFntPWqCaptKpRxHvd1xsb6mR3qL2wF4V",
-      "is_active" : 1,
-      "url" : "",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : null
-    },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 2.3986500162399714E-9,
+    "vote-percentage" : 1.335760334626769E-4,
     "scoring" : {
       "total" : 0,
       "maximum-positive" : 3
@@ -565,9 +752,9 @@
     "place" : 18
   }, {
     "bp-header" : {
-      "owner" : "haydiojzguge",
-      "total_votes" : "1286404984.42871093750000000",
-      "producer_key" : "EOS87VDP4GqLsoLCTmht2epGP53qt9hHFqR2VFtKCKoMdxZzeXHae",
+      "owner" : "eosfreelance",
+      "total_votes" : "177705028705190.34375000000000000",
+      "producer_key" : "EOS4vvDZno2o6kH1NLLi2afpt3FTpJBMbUB7gzcupaVLTGcVPX54v",
       "is_active" : 1,
       "url" : "",
       "unpaid_blocks" : 0,
@@ -582,136 +769,11 @@
       "popularity-boosters" : [ ]
     },
     "p-ram-amounts" : [ ],
-    "vote-percentage" : 2.321311047462432E-9,
-    "scoring" : {
-      "total" : 0,
-      "maximum-positive" : 3
-    },
-    "place" : 19
-  }, {
-    "bp-header" : {
-      "owner" : "g44tomjxg4ge",
-      "total_votes" : "1286404984.42871093750000000",
-      "producer_key" : "EOS6Ffr9wfc2CSzogwYXQvuvPej3KjZ6UeuQJrZZCNscGAvzkqtBA",
-      "is_active" : 1,
-      "url" : "",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : null
-    },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 2.321311047462432E-9,
+    "vote-percentage" : 1.0155118177459865E-4,
     "scoring" : {
       "total" : 0,
       "maximum-positive" : 3
     },
     "place" : 20
-  }, {
-    "bp-header" : {
-      "owner" : "g44tsnrwgege",
-      "total_votes" : "1286404984.42871093750000000",
-      "producer_key" : "EOS7p6LUPnyiEtDFpFSyuxhs6QLtwM1oFGMCfWcGnDRWikF8BbHWt",
-      "is_active" : 1,
-      "url" : "",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : null
-    },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 2.321311047462432E-9,
-    "scoring" : {
-      "total" : 0,
-      "maximum-positive" : 3
-    },
-    "place" : 21
-  }, {
-    "bp-header" : {
-      "owner" : "haydiobyguge",
-      "total_votes" : "1286404984.42871093750000000",
-      "producer_key" : "EOS52xdZEZqGD6V7aHUVnFe2aXioF3YwFfzr9jyvMvSbBxcXo9DkZ",
-      "is_active" : 1,
-      "url" : "",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : null
-    },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 2.321311047462432E-9,
-    "scoring" : {
-      "total" : 0,
-      "maximum-positive" : 3
-    },
-    "place" : 22
-  }, {
-    "bp-header" : {
-      "owner" : "haydiobqgmge",
-      "total_votes" : "1286404984.42871093750000000",
-      "producer_key" : "EOS8Gayq92nk2Q1KcTPRSQ2PNZcmaioU779gQdSgVter5BtwhbawX",
-      "is_active" : 1,
-      "url" : "",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : null
-    },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 2.321311047462432E-9,
-    "scoring" : {
-      "total" : 0,
-      "maximum-positive" : 3
-    },
-    "place" : 23
-  }, {
-    "bp-header" : {
-      "owner" : "haydiojygyge",
-      "total_votes" : "1286404984.42871093750000000",
-      "producer_key" : "EOS8WGoy3TXQaBGNNauSNuCkgnvLs1KRNMLxGRee5KW8ZrRzXhnf1",
-      "is_active" : 1,
-      "url" : "",
-      "unpaid_blocks" : 0,
-      "last_claim_time" : 0,
-      "location" : 0,
-      "prepared-url" : null
-    },
-    "bp-json-summary" : null,
-    "analyzed-urls" : {
-      "duplicate-urls" : null,
-      "social-links" : [ ],
-      "popularity-boosters" : [ ]
-    },
-    "p-ram-amounts" : [ ],
-    "vote-percentage" : 2.321311047462432E-9,
-    "scoring" : {
-      "total" : 0,
-      "maximum-positive" : 3
-    },
-    "place" : 24
   } ]
 }
